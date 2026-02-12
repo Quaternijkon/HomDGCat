@@ -16,21 +16,30 @@ A complete offline mirror of [homdgcat.wiki](https://homdgcat.wiki), covering ch
 
 ### Get Site Data
 
-The site data (`site/` directory, ~2.5 GB) is not included in this repository. Two ways to obtain it:
+The site data (`site/` directory, ~2.5 GB) is not included in this repository. Three ways to obtain it:
 
-**Option 1: Download from Internet Archive (Recommended)**
+**Option 1: Download from GitHub Releases (Recommended)**
 
-Download `site.7z` from [Internet Archive](https://archive.org/details/homdgcat-wiki-mirror) and extract it to the project root:
+Download `site.7z` from the [latest release](https://github.com/NewbieXvwu/HomDGCat/releases) and extract it to the project root:
 
 ```bash
-# Download
-ia download homdgcat-wiki-mirror site.7z
+# Download (~2 GB)
+curl -LO https://github.com/NewbieXvwu/HomDGCat/releases/download/initial/site.7z
 
 # Extract (requires 7-Zip)
 7z x site.7z
 ```
 
-**Option 2: Pull from the source site**
+**Option 2: Download from Internet Archive**
+
+If GitHub is unavailable, download from [Internet Archive](https://archive.org/details/homdgcat-wiki-mirror):
+
+```bash
+ia download homdgcat-wiki-mirror site.7z
+7z x site.7z
+```
+
+**Option 3: Pull from the source site**
 
 Download all files directly from homdgcat.wiki (may fail if the source site is unstable):
 

@@ -16,21 +16,30 @@
 
 ### 获取站点数据
 
-站点数据（`site/` 目录，约 2.5 GB）不包含在本仓库中。有两种方式获取：
+站点数据（`site/` 目录，约 2.5 GB）不包含在本仓库中。有三种方式获取：
 
-**方式一：从 Internet Archive 下载（推荐）**
+**方式一：从 GitHub Releases 下载（推荐）**
 
-从 [Internet Archive](https://archive.org/details/homdgcat-wiki-mirror) 下载 `site.7z`，解压到项目根目录：
+从 [Releases 页面](https://github.com/NewbieXvwu/HomDGCat/releases) 下载 `site.7z`，解压到项目根目录：
 
 ```bash
-# 下载
-ia download homdgcat-wiki-mirror site.7z
+# 下载（约 2 GB）
+curl -LO https://github.com/NewbieXvwu/HomDGCat/releases/download/initial/site.7z
 
 # 解压（需要 7-Zip）
 7z x site.7z
 ```
 
-**方式二：从源站拉取**
+**方式二：从 Internet Archive 下载**
+
+如果 GitHub 不可用，可从 [Internet Archive](https://archive.org/details/homdgcat-wiki-mirror) 下载：
+
+```bash
+ia download homdgcat-wiki-mirror site.7z
+7z x site.7z
+```
+
+**方式三：从源站拉取**
 
 直接从 homdgcat.wiki 下载全部文件（源站不稳定时可能失败）：
 
