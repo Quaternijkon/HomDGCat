@@ -6,8 +6,9 @@ A complete offline mirror of [homdgcat.wiki](https://homdgcat.wiki), covering ch
 
 ## Contents
 
-- 10,777 files, ~2.5 GB
-- 575 pages (Genshin + Star Rail characters/weapons/artifacts, etc.)
+- 15,357 files, ~2.5 GB
+- 575+ pages (Genshin + Star Rail characters/weapons/artifacts, etc.)
+- 4,580+ dynamic subpages (quests, items, monsters, GCG cards, etc.)
 - Data files in 5 languages (CH / EN / JP / KR / RU)
 - All image assets (avatars, skill icons, weapon art, gacha art, etc.)
 - TextMap localization data
@@ -110,7 +111,7 @@ python main.py serve --cert cert.pem --key key.pem
 
 ```
 main.py               # Unified tool script (download / serve / status)
-filelist.txt         # Complete file list (10,777 entries)
+filelist.txt         # Complete file list (15,357 entries)
 site/                # Site files directory
   index/             # Homepage
   sr/char/           # Star Rail character pages
