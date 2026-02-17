@@ -1,0 +1,303 @@
+header {
+    display: none;
+}
+
+container {
+    display: block;
+}
+
+.content {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    min-height: 600px;
+}
+
+popheader {
+    height: 40px;
+    line-height: 40px;
+    background: #fff;
+    color: #333;
+    font-size: 18px;
+    font-weight: 600;
+    overflow: hidden;
+}
+
+.path schedule {
+    background-color: #27363e;
+    width: 80px;
+    border-radius: 9px;
+    border-width: 0px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.path schedule.active {
+    background-color: #2545ba;
+}
+
+.path img {
+    width: 60px;
+}
+
+schedule.active {
+    background-color: rgb(37, 69, 186);
+    color: #fff;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0px 15px;
+}
+
+.blessing_card_area {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card {
+    background-color: #27363e;
+    border-radius: 5px;
+    margin: 3px 0px;
+    padding: 18px 18px 18px;
+    color: #eeeeee;
+    width: calc(100% - 12px);
+}
+
+.name {
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.desc {
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 2;
+}
+.desc_small {
+    font-size: 13px;
+    text-align: center;
+    font-weight: bold;
+    color: #FFD780;
+    margin: 20px 0 15px;
+}
+.image {
+    width: calc(100%);
+    margin: 0px 0px 10px 0px;
+}
+.phases {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+.icon img {
+    height: 100%;
+    width: 100%;
+}
+.icon_4 {
+    height: 40px;
+    width: 40px;
+}
+.icon_5 {
+    height: 48px;
+    width: 48px;
+}
+.num {
+    position: absolute;
+    color: #eeeeee;
+    top: -7px;
+    right: 0px;
+    font-weight: bold;
+    padding: 1px 2px;
+    border-radius: 2px;
+    background-color: #27363e;
+    z-index: 1000;
+}
+.pic {
+    position: relative;
+    margin: 4px;
+}
+.pics {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+}
+.sch_2 {
+    font-size: 19px;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 12px;
+}
+.num_4 {
+    font-size: 11px;
+}
+.num_5 {
+    font-size: 12px;
+}
+.avd {
+    font-size: 13px;
+}
+.search .num {
+    background-color: #fff;
+    color: #000;
+}
+.search {
+    margin-bottom: 10px;
+}
+
+.input_wrap {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.but {
+    height: 40px;
+    padding: 5px 10px;
+    color: #fff;
+    background-color: #27363e;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    margin-left: 10px;
+    border-radius: 5px;
+    border: 2px solid;
+    border-color: #27363e;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#INPUT {
+    width: 150px;
+    height: 40px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 2px solid;
+}
+
+.but span {
+    font-weight: normal;
+    margin: 0;
+}
+
+.img_wrap {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.img_wrap img {
+    height: 90px;
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+
+    .img_wrap img {
+        height: 105px;
+    }
+    .num_4 {
+        font-size: 12px;
+    }
+    .num_5 {
+        font-size: 13px;
+    }
+    .avd {
+        font-size: 14px;
+    }
+    .pic {
+        margin: 6px;
+    }
+    .sch_2 {
+        font-size: 21px;
+    }
+    .icon_4 {
+        height: 50px;
+        width: 50px;
+    }
+    .icon_5 {
+        height: 64px;
+        width: 64px;
+    }
+    .name {
+        font-size: 20px;
+    }
+    .desc {
+        font-size: 15px;
+    }
+    .desc_small {
+        font-size: 14px;
+    }
+    .card {
+        margin: 4px 0px;
+        width: calc(100% - 16px);
+    }
+    .image {
+        width: calc(100% - 20px);
+        margin: 10px;
+    }
+}
+
+@media screen and (min-width: 800px) {
+
+    .img_wrap img {
+        height: 120px;
+    }
+    .num_4 {
+        font-size: 13px;
+    }
+    .num_5 {
+        font-size: 14px;
+    }
+    .avd {
+        font-size: 15px;
+    }
+    .pic {
+        margin: 8px;
+    }
+    .sch_2 {
+        font-size: 24px;
+    }
+    .icon_4 {
+        height: 64px;
+        width: 64px;
+    }
+    .icon_5 {
+        height: 80px;
+        width: 80px;
+    }
+    .name {
+        font-size: 21px;
+    }
+    .desc {
+        font-size: 16px;
+    }
+    .desc_small {
+        font-size: 15px;
+    }
+    .card {
+        margin: 5px 0px;
+        width: calc(50% - 15px);
+    }
+    .image {
+        width: calc(100% - 20px);
+        margin: 10px;
+    }
+}

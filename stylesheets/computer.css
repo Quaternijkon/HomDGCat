@@ -1,0 +1,695 @@
+header {
+    display: none;
+}
+
+.but_link {
+    margin-top: 0px;
+    margin-bottom: 17px;
+    padding: 9px 12px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 2px solid #F29E38;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+.multiply_sign {
+    margin-left: 2px;
+    margin-right: -2px;
+    font-size: 16px;
+    background-color: transparent!important;
+    border-color: transparent!important;
+    color: black!important;
+    padding: 0px 3px;
+}
+
+container {
+    display: block;
+}
+
+.content {
+    background-color: #000;
+}
+
+.csx_button {
+    padding: 9px 11px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 2px solid #F29E38;
+    font-weight: bold;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.csx_wrapper {
+    padding-bottom: 150px;
+}
+
+#INPUT {
+    width: 170px;
+    height: 40px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 2px solid;
+}
+
+.but {
+    height: 40px;
+    padding: 5px 10px;
+    color: #fff;
+    background-color: #27363e;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    margin-left: 10px;
+    border-radius: 5px;
+    border: 2px solid;
+    border-color: #27363e;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.input_wrap {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0 15px;
+    background-color: rgba(255, 255, 255, 1);
+    flex-wrap: wrap;
+}
+
+.kingdom {
+    background-color: rgba(255, 255, 255, 1);
+    padding: 0 7px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.kingdom kingdom {
+    display: inline-block;
+    width: calc(100% / 6 - 20px);
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.kingdom kingdom:hover,
+.kingdom kingdom.active {
+    background-color: rgb(37, 69, 186);
+    color: #fff;
+}
+
+.class_monster, .class_monster_2 {
+    background-color: rgba(255, 255, 255, 1);
+    padding: 0px 20px 20px;
+}
+
+.class_monster category:last-child {
+    border-bottom: 1px dashed #333;
+}
+
+.class_monster category {
+    display: flex;
+    border-top: 1px dashed #333;
+    padding: 5px;
+    flex-direction: column;
+}
+
+.class_monster_2 category:last-child {
+    border-bottom: 1px dashed #333;
+}
+
+.class_monster_2 category {
+    display: flex;
+    border-top: 1px dashed #333;
+    padding: 5px;
+    flex-direction: column;
+}
+
+category p {
+    font-weight: bold;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.category_monster {
+    float: left;
+    width: calc(100%);
+    margin-top: 6px;
+}
+
+.category_monster_span {
+    padding: 10px 12px 10px 4px;
+    cursor: pointer;
+    white-space: pre;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.clearfix {
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.clearfix::-webkit-scrollbar {
+    height: 0px;
+    width: 0px
+}
+
+.category_monster_span.active {
+    font-weight: 600;
+    border: 2px solid rgb(37, 69, 186);
+    border-radius: 5px;
+}
+
+.category_monster_img {
+    width: 34px;
+    height: 34px;
+    vertical-align: middle;
+    /*border-radius: 50%;
+    border: 2px solid transparent;*/
+    margin-right: 5px;
+}
+
+.monster_card {
+    padding: 10px;
+    margin: 7px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 68px;
+    display: flex;
+    flex-wrap: wrap;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.monster_card::-webkit-scrollbar {
+    height: 0px;
+    width: 0px;
+}
+
+.monicon {
+    height: 48px;
+    width: 48px;
+    vertical-align: middle;
+}
+
+.monright {
+    max-width: calc(100% - 53px);
+}
+
+.monright span {
+    line-height: 1.5;
+    padding-left: 3px;
+    padding-right: 3px;
+    white-space: nowrap;
+}
+
+.com_result {
+    background-color: rgba(255, 255, 255, 1);
+    text-align: center;
+    padding: 0 0 20px;
+}
+
+.com_result input {
+    width: 150px;
+    height: 40px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 2px solid;
+}
+
+.com_result .mul {
+    width: 50px;
+}
+
+.com_result select {
+    height: 40px;
+}
+
+input[name="level"] {
+    display: none;
+}
+
+input[name="interval"] {
+    margin-left: 5px;
+    margin-right: 3px;
+}
+
+.com_result button {
+    height: 40px;
+    color: #fff;
+    background-color: #27363e;
+    border-radius: 5px;
+}
+
+.mon_intro {
+    text-align: left;
+    padding: 20px 20px;
+    white-space: pre-wrap;
+    font-size: 15px;
+}
+
+.mon_tutorial {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+.tut_single {
+    width: calc(50% - 15px);
+    font-size: 15px;
+    line-height: 2;
+    background-color: #27363e;
+    border-radius: 5px;
+    margin: 6px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.tut_img_wrapper {
+    width: 100%;
+    margin: 0;
+}
+
+.tut_image_icon {
+    display: none;
+}
+
+.tut_large {
+    width: calc(70% - 15px)!important;
+}
+
+.tut_single img {
+    width: 80%;
+    max-width: 600px;
+    margin: 10px 15px 0px;
+}
+
+.tut_single p {
+    margin: 0 15px 15px;
+    color: #eeeeee;
+    text-align: left;
+}
+
+.table-2, .logoshow {
+    font-size: 15px;
+}
+
+.result_head {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 20px;
+    line-height: 2;
+    padding-top: 20px;
+}
+
+.result_head img {
+    vertical-align: middle;
+}
+
+.result_head>div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.result_head>div span {
+    margin: 0 12px;
+}
+
+.result_head>div span i {
+    font-style: normal;
+    color: red;
+}
+
+.resEN {
+    display: inline-block;
+    width: 72px;
+}
+
+.SkillData {
+    padding: 10px;
+    text-align: center;
+}
+
+.SkillData img {
+    width: 100%;
+}
+
+.skill_warp_input {
+    text-align: center;
+}
+
+.skill_warp table {
+    width: 100%;
+}
+
+.skill_warp table th {
+    width: 33.3%;
+}
+
+.DMG_td span {
+    display: none;
+}
+
+.Fire {
+    color: red;
+}
+
+.Water {
+    color: red;
+}
+
+.mon_table {
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.mon_table .table-1 {
+    width: 100%;
+    line-height: 32px;
+    text-align: center;
+}
+
+.mon_table .table-2 {
+    width: 350px;
+    line-height: 2.5;
+}
+
+.table-2 td {
+    text-align: left;
+}
+
+tbody>tr:nth-child(odd) {
+    background: none;
+    border-bottom: 1px solid antiquewhite;
+}
+
+
+popheader {
+    height: 40px;
+    line-height: 40px;
+    background: #fff;
+    color: #333;
+    font-size: 16px;
+    font-weight: 600;
+    overflow: hidden;
+}
+
+popbody table {
+    width: 100%;
+}
+
+popbody div {
+    line-height: 2;
+}
+
+.buttons {
+    padding: 20px 0px;
+}
+
+.scroller {
+    overflow-x: hidden !important;
+}
+
+.big-img {
+    height: 240px;
+}
+
+.dmg_Table th,
+.dmg_Table td,
+.dmg_Table span {
+    font-size: 16px;
+}
+
+.disorder {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.table-1 th, .table-1 td {
+    font-size: 15px;
+}
+
+.resicon {
+    height: 26px;
+    top: 6px;
+    position: relative;
+    margin-right: 4px;
+}
+
+.table-1 th, .table-2 th {
+    height: 40px;
+}
+
+.csxdiv {
+    color: black;
+}
+
+.csxdiv:hover {
+    background-color: black;
+    color: white;
+}
+
+.showtop {
+    font-size: 38px;
+    text-align: center;
+    margin-top: -15px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    width: 100%;
+}
+
+.title {
+    font-size: 18px;
+}
+
+.name {
+    font-size: 26px;
+}
+
+.box {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.td_1 {
+    width: 0%;
+}
+
+.td_2 {
+    width: 0%;
+}
+
+.td_3 {
+    width: 100%;
+}
+
+td {
+    height: 42px;
+}
+
+@media screen and (max-width: 800px) {
+
+    .buttons {
+        flex-direction: row !important;
+        flex-wrap: wrap;
+    }
+
+    .mon_table .table-1 {
+        width: 100%;
+        padding-bottom: 18px
+    }
+
+    .mon_table .table-2 {
+        width: 100%;
+        padding-bottom: 18px;
+    }
+
+    popbody f1 {
+        width: 100%;
+    }
+
+    popdialog {
+        width: 93% !important;
+    }
+
+    .kingdom kingdom {
+        width: calc(100% / 3 - 20px);
+        font-size: 15px;
+    }
+
+    .big-img {
+        height: 160px;
+    }
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+
+    .tut_single p {
+        margin: 0 15px 15px;
+    }
+    .tut_single {
+        width: calc(100% - 16px);
+        font-size: 14px;
+        margin: 4px 0px;
+    }
+    .tut_large {
+        width: calc(100% - 16px)!important;
+    }
+    .title {
+        font-size: 17px;
+    }
+
+    .name {
+        font-size: 24px;
+    }
+
+    .mon_intro {
+        font-size: 14px;
+        padding: 20px 15px;
+    }
+
+    .table-2, .logoshow {
+        font-size: 14px;
+    }
+
+    .showtop {
+        font-size: 32px;
+    }
+
+    .dmg_Table th,
+    .dmg_Table td,
+    .dmg_Table span {
+        font-size: 14px;
+    }
+
+    .class_monster, .class_monster_2 {
+        padding: 0px 10px 20px 8px;
+    }
+
+    .disorder {
+        font-size: 16px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .table-1 th, .table-1 td {
+        font-size: 14px;
+    }
+
+    .resicon {
+        height: 25px;
+        top: 6px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    .box {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .tut_single p {
+        margin: 0 15px 15px;
+    }
+    .tut_single {
+        width: calc(100% - 12px);
+        font-size: 14px;
+        margin: 3px 0px;
+    }
+    .tut_large {
+        width: calc(100% - 16px)!important;
+    }
+    .title {
+        font-size: 16px;
+    }
+
+    .name {
+        font-size: 22px;
+    }
+
+    .mon_intro {
+        font-size: 14px;
+        padding: 20px 15px;
+    }
+
+    .table-2, .logoshow {
+        font-size: 14px;
+    }
+
+    .showtop {
+        font-size: 26px;
+    }
+
+    .disorder {
+        font-size: 14px;
+        margin-left: 0px;
+        margin-right: 8px;
+    }
+
+    .dmg_Table th,
+    .dmg_Table td,
+    .dmg_Table span {
+        font-size: 12px;
+    }
+
+    .monicon {
+        height: 38px;
+        width: 38px;
+        vertical-align: middle;
+    }
+
+    .kingdom kingdom {
+        width: 46%;
+        font-size: 14px;
+    }
+
+    .category_monster {
+        width: calc(100%);
+        font-size: 13px;
+    }
+
+    .monster_card {
+        height: 58px;
+        margin: 7px 0px 7px 7px
+    }
+
+    .monright {
+        max-width: calc(100% - 43px);
+    }
+
+    .class_monster, .class_monster_2 {
+        padding: 0px 0px 20px 8px;
+    }
+
+    .table-1 th, .table-1 td {
+        font-size: 13px;
+    }
+
+    .resicon {
+        height: 24px;
+        top: 6px;
+    }
+}

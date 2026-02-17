@@ -1,0 +1,162 @@
+popbody {
+    max-height: calc(100% - 40px) !important
+}
+
+::-webkit-scrollbar:horizontal {
+    display: none;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+    background-color: #aaaaaa;
+    border-radius: 4px;
+}
+
+.scroller {
+    overflow-x: hidden !important;
+}
+
+#INPUT, #INPUT_2 {
+    width: 200px;
+    height: 30px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 2px solid;
+}
+
+.but, .but_2, .but_3 {
+    height: 30px;
+    padding: 5px 10px;
+    color: #fff;
+    background-color: #27363e;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    margin-left: 10px;
+    border-radius: 5px;
+    border: 2px solid;
+    border-color: #27363e;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.input_wrap, .input_wrap_2 {
+    display: flex;
+    justify-content: center;
+}
+
+.hits, .hits_2 {
+    text-align: center;
+}
+
+.result_single p {
+    line-height: 1.6;
+}
+
+.result_single {
+    border-top: 1px solid black;
+    margin: 0px 6px;
+    padding: 0px 6px;
+    font-size: 14px;
+}
+
+.results, .results_2 {
+    margin-bottom: 50px;
+}
+
+.ttl {
+    font-size: 18px;
+}
+
+schedule.active {
+    background-color: #2545ba;
+}
+
+schedule {
+    font-size: 14px;
+    margin: 8px 6px;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+._up, ._down {
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    height: 30px;
+    padding: 5px 10px;
+    color: #fff;
+    background-color: #27363e;
+    cursor: pointer;
+    margin-left: 10px;
+    border-radius: 5px;
+    border: 2px solid;
+    border-color: #27363e;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+._up {
+    margin: 18px 0 0 0;
+}
+
+._down {
+    margin: 0 0 18px 0;
+    
+}
+
+.choice {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+.tip_3 {
+    font-size: 13px;
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+    .tip_3 {
+        font-size: 14px;
+    }
+    #INPUT, #INPUT_2 {
+        width: 250px;
+    }
+    schedule {
+        font-size: 15px;
+    }
+    .result_single {
+        border-top: 1px solid black;
+        margin: 0px 8px;
+        padding: 0px 8px;
+        font-size: 15px;
+    }
+    .ttl {
+        font-size: 20px;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .tip_3 {
+        font-size: 15px;
+    }
+    #INPUT, #INPUT_2 {
+        width: 300px;
+    }
+    schedule {
+        font-size: 16px;
+    }
+    .result_single {
+        border-top: 1px solid black;
+        margin: 0px 10px;
+        padding: 0px 10px;
+        font-size: 16px;
+    }
+    .ttl {
+        font-size: 22px;
+    }
+}

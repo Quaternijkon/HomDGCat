@@ -1,0 +1,472 @@
+header {
+    display: none;
+}
+
+container {
+    display: block;
+}
+
+.content {
+    padding-top: 15px;
+    padding-bottom: 30px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    min-height: 600px;
+}
+
+popheader {
+    height: 40px;
+    line-height: 40px;
+    background: #fff;
+    color: #333;
+    font-size: 18px;
+    font-weight: 600;
+    overflow: hidden;
+}
+
+.path {
+    margin-bottom: 10px
+}
+
+.path schedule {
+    background-color: #27363e;
+    width: 80px;
+    border-radius: 9px;
+    border-width: 0px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.path schedule.active {
+    background-color: #2545ba;
+}
+
+.path img {
+    width: 60px;
+}
+
+schedule.active {
+    background-color: rgb(37, 69, 186);
+    color: #fff;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0px 15px;
+}
+
+.blessing_card_area {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card {
+    background-color: #27363e;
+    border-radius: 5px;
+    margin: 5px 0px;
+    padding: 10px;
+    color: #eeeeee;
+    width: calc(100% - 20px);
+}
+
+.avatar-card p {
+    text-align: center;
+}
+
+.name {
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.desc {
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 5px;
+    line-height: 2;
+}
+.image {
+    width: calc(100%);
+    margin: 0px 0px 10px 0px;
+}
+
+.avatar-card {
+    border-radius: 5px;
+    padding: 14px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    width: calc(50% - 9px);
+    line-height: 2;
+    background-color: #27363E;
+    color: #eeeeee;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+}
+
+.avatar-head1 {
+    width: 90%;
+    margin: auto;
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 6px;
+}
+
+.avatar-head2 {
+    width: 90%;
+    margin: auto;
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 6px;
+    max-width: 150px;
+}
+
+.avatar-head1 img {
+    width: 100%;
+}
+
+.avatar-head2 img {
+    width: 80%;
+}
+
+.mon_head {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: -6px auto 10px;
+}
+
+.mon_head_ {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.weapon_left {
+    width: 70%;
+    max-width: 200px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.weapon_right {
+    width: 100%;
+}
+.weapon_left img {
+    width: 100%;
+    margin: 20px auto;
+}
+.weapon_title {
+    font-size: 16px;
+}
+.weapon_story {
+    font-size: 14px;
+}
+
+#back_2 {
+    margin: 0;
+    cursor: pointer;
+    background-color: white;
+    position: absolute;
+    width: calc(100%);
+    top: 0;
+    left: 0;
+    padding: 6px 0;
+    z-index: 114514;
+    display: none;
+    color: red;
+}
+#back_2 closeicon {
+    position: absolute;
+    right: 10px;
+    font-size: 24px;
+}
+#back_1 {
+    margin-top: -6px;
+    padding-top: 6px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    background-color: white;
+    color: red;
+}
+
+#back_2:hover {
+    color: black;
+}
+#back_1:hover {
+    color: black;
+}
+
+.mon_body {
+    margin-top: 0px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 70px;
+}
+
+.a_section ::-webkit-scrollbar-thumb {
+    background-color: #ffffff;
+}
+
+.a_section {
+    width: calc(100% - 16px);
+    display: inline-block;
+    border-radius: 10px;
+    background-color: #27363E;
+    color: #eeeeee;
+    position: relative;
+    margin: 4px 0;
+    padding: 15px;
+    line-height: 2;
+}
+
+.a_section_content {
+    font-size: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    line-height: 2;
+}
+
+.a_section_content span {
+    font-size: 15px;
+    line-height: 2;
+    margin-left: 0px;
+}
+
+.a_section_head,
+.a_section_head span {
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 15px;
+    margin-right: 15px;
+    line-height: 1.55;
+}
+
+.tags {
+    margin-top: 30px;
+    margin-bottom: -10px;
+}
+
+.tag_span {
+    padding: 4px 8px;
+    font-size: 0.8em!important;
+}
+
+.event-name {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.event-desc {
+    font-size: 15px;
+    text-align: center;
+    margin: 5px auto 15px;
+}
+.event-desc2 {
+    font-size: 13px;
+    text-align: center;
+    margin: 5px auto 15px;
+}
+.event-story {
+    font-size: 14px;
+    margin: 0px 0px 10px;
+}
+.event-img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.event-img img {
+    margin: 20px auto;
+}
+.event-reward {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 0px;
+}
+.hover-shadow- {
+    width: 50px;
+    margin: 5px;
+    padding: 4px;
+    position: relative;
+    cursor: pointer;
+    border: 2px solid #27363e;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.hover-shadow-:hover {
+    border: 2px solid #eeeeee;
+}
+
+.talk_section p {
+    margin: 10px 0;
+}
+
+.intro {
+    margin: 0;
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+
+    .intro {
+        margin: 0;
+    }
+    .switch {
+        margin-bottom: 4px;
+    }
+    .hover-shadow- {
+        width: 60px;
+        margin: 7px;
+    }
+    .event-name {
+        font-size: 23px;
+    }
+    .event-desc {
+        font-size: 16px;
+    }
+    .event-desc2 {
+        font-size: 15px;
+    }
+    .event-story {
+        font-size: 15px;
+    }
+    .weapon_title {
+        font-size: 18px;
+    }
+    .weapon_story {
+        font-size: 15px;
+    }
+    .weapon_left {
+        width: 70%;
+        max-width: 200px;
+    }
+    .weapon_right {
+        width: 100%;
+    }
+    .a_section_head,
+    .a_section_head span {
+        font-size: 19px;
+    }
+    .a_section_content {
+        font-size: 16px;
+    }
+    .a_section_content span {
+        font-size: 16px;
+    }
+    #back_2 {
+        width: calc(100% - 10px);
+    }
+    .avatar-card {
+        width: calc(33% - 8px);
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    .name {
+        font-size: 19px;
+    }
+    .desc {
+        font-size: 15px;
+    }
+    .card {
+        width: calc(100% - 40px);
+    }
+    .image {
+        width: calc(100% - 20px);
+        margin: 10px;
+    }
+}
+
+@media screen and (min-width: 800px) {
+
+    .intro {
+        margin: 0 10px;
+    }
+    .switch {
+        margin-bottom: 10px;
+    }
+    .hover-shadow- {
+        width: 70px;
+        margin: 10px;
+    }
+    .event-name {
+        font-size: 26px;
+    }
+    .event-desc {
+        font-size: 17px;
+    }
+    .event-desc2 {
+        font-size: 16px;
+    }
+    .event-story {
+        font-size: 16px;
+    }
+    .weapon_title {
+        font-size: 20px;
+    }
+    .weapon_story {
+        font-size: 16px;
+    }
+    .weapon_left {
+        width: 38%;
+        max-width: 200px;
+    }
+    .weapon_right {
+        width: calc(62% - 40px);
+        margin-top: 15px;
+    }
+    .a_section_head,
+    .a_section_head span {
+        font-size: 20px;
+    }
+    .a_section_content {
+        font-size: 17px;
+    }
+    .a_section_content span {
+        font-size: 17px;
+    }
+    #back_2 {
+        width: calc(100% - 10px);
+    }
+    .name {
+        font-size: 20px;
+    }
+    .desc {
+        font-size: 16px;
+    }
+    .card {
+        width: calc(50% - 20px);
+    }
+    .image {
+        width: calc(100% - 20px);
+        margin: 10px;
+    }
+}
+
+@media screen and (min-width: 800px) and (max-width: 1000px) {
+    .avatar-card {
+        width: calc(25% - 7.5px);
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .avatar-card {
+        width: calc(20% - 8px);
+        margin-top: 4px;
+        margin-bottom: 4px;
+    }
+}

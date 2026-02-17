@@ -1,0 +1,387 @@
+header {
+    display: none;
+}
+
+.title {
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.blessing_card_area p, .blessing_card_area span {
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.rel {
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+container {
+    display: block;
+}
+
+.content {
+    padding-top: 15px;
+    padding-bottom: 30px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    min-height: 600px;
+}
+
+popheader {
+    height: 40px;
+    line-height: 40px;
+    background: #fff;
+    color: #333;
+    font-size: 18px;
+    font-weight: 600;
+    overflow: hidden;
+}
+
+schedule {
+    display: block;
+    width: calc((100% / 3) - 10px);
+    text-align: center;
+    padding: 10px 5px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+.sch {
+    font-size: 14px;
+}
+.sch_2 {
+    font-size: 19px;
+}
+
+schedule.active {
+    background-color: rgb(37, 69, 186);
+    color: #fff;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0px 15px;
+}
+
+.blessing_card_area {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.blessing_card_area_2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card, .card_2 {
+    background-color: #27363e;
+    border-radius: 5px;
+    margin: 4px 0px;
+    padding: 10px 10px 20px;
+    color: #eeeeee;
+    width: calc(100% - 16px);
+}
+
+.card_3 {
+    border-radius: 5px;
+    margin: 5px 0px;
+    padding: 10px 0px;
+    color: #eeeeee;
+    width: calc(100%);
+}
+.card_4 {
+    border-radius: 5px;
+    margin: 5px 0px;
+    padding: 10px 0px;
+    color: #eeeeee;
+    width: calc(100%);
+}
+.card_flex {
+    border-radius: 5px;
+    margin: 0px 10px;
+    padding: 10px 0px;
+    color: #eeeeee;
+    width: max-content;
+}
+
+.card_6 {
+    background-color: #27363e;
+    border-radius: 5px;
+    margin: 4px 0px;
+    padding: 20px 10px 10px;
+    color: #eeeeee;
+    width: calc((100% - 24px) / 2);
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+}
+
+.active_g {
+    color: #f39001;
+}
+
+.card_5 {
+    background-color: #27363e;
+    border-radius: 5px;
+    margin: 4px 0px;
+    padding: 20px 10px 10px;
+    color: #eeeeee;
+    width: calc((100% - 24px) / 2);
+}
+.tip_5 {
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+}
+
+.card_7 {
+    background-color: #27363e;
+    border-radius: 5px;
+    margin: 4px 0px;
+    padding: 20px 15px 10px;
+    color: #eeeeee;
+    width: calc(100% - 16px);
+    font-size: 13px;
+}
+
+.name {
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.name_2 {
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.desc {
+    font-size: 14px;
+    margin-bottom: 5px;
+    line-height: 2;
+}
+.image {
+    width: calc(100%);
+    margin: 0px 0px 10px 0px;
+}
+.tip_ {
+    font-size: 14px;
+    color: #eeeeee;
+}
+.tip_2 {
+    font-size: 14px;
+}
+.tip_3 {
+    font-size: 13px;
+}
+.v_l {
+    margin-right: 8px;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+}
+.v_r {
+    margin-left: 8px;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+}
+
+.minion {
+    width: 100%;
+}
+
+.minion_hp {
+    font-size: 12px;
+    text-align: center;
+    margin: 0;
+    text-decoration: none;
+    color: rgb(221, 221, 221);
+}
+
+.minion_wrapper {
+    width: 40px;
+    margin: 5px 5px;
+    height: min-content;
+}
+
+.rotate_child {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.mon_desc {
+    font-size: 13px;
+    margin: 10px 8px 0;
+    line-height: 2;
+}
+
+.tarot_img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+.tarot_img img {
+    width: 80%;
+    max-width: 220px;
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+
+    .card_5 {
+        width: calc((100% - 32px) / 3)
+    }
+    .card_7 {
+        width: calc((100% - 24px) / 2);
+        font-size: 14px;
+    }
+    .card_6 {
+        width: calc((100% - 32px) / 3)
+    }
+
+    .mon_desc {
+        font-size: 14px;
+    }
+
+    .minion_hp {
+        font-size: 13px;
+    }
+    .minion_wrapper {
+        width: 48px;
+    }
+    .sch {
+        font-size: 15px;
+    }
+    .sch_2 {
+        font-size: 21px;
+    }
+    .name {
+        font-size: 19px;
+    }
+    .name_2 {
+        font-size: 17px;
+    }
+    .desc {
+        font-size: 15px;
+    }
+    .card {
+        width: calc(100% - 16px);
+    }
+    .card_3 {
+        width: calc(50%);
+    }
+    .card_4 {
+        width: calc(50%);
+    }
+    .tip_5 {
+        padding-left: 5px;
+        padding-right: 5px;
+        text-align: center;
+    }
+    .image {
+        width: calc(100% - 20px);
+        margin: 10px;
+    }
+    .tip_ {
+        font-size: 15px;
+    }
+    .tip_2 {
+        font-size: 15px;
+    }
+    .tip_3 {
+        font-size: 14px;
+    }
+    schedule {
+        width: calc((100% / 3) - 10px);
+    }
+}
+
+@media screen and (min-width: 800px) {
+
+    .card_5 {
+        width: calc((100% - 40px) / 4)
+    }
+    .card_7 {
+        width: calc((100% - 30px) / 3);
+        font-size: 15px;
+    }
+    .card_6 {
+        width: calc((100% - 48px) / 6)
+    }
+
+    .mon_desc {
+        font-size: 15px;
+    }
+
+    .minion_hp {
+        font-size: 14px;
+    }
+    .minion_wrapper {
+        width: 56px;
+    }
+    .sch {
+        font-size: 16px;
+    }
+    .sch_2 {
+        font-size: 24px;
+    }
+    .name {
+        font-size: 20px;
+    }
+    .name_2 {
+        font-size: 18px;
+    }
+    .desc {
+        font-size: 16px;
+    }
+    .card {
+        width: calc(50% - 12px);
+    }
+    .image {
+        width: calc(100% - 20px);
+        margin: 10px;
+    }
+    .card_3 {
+        width: calc(33%);
+    }
+    .card_4 {
+        width: calc(50%);
+    }
+    .tip_5 {
+        padding-left: 5px;
+        padding-right: 5px;
+        text-align: center;
+    }
+    .tip_ {
+        font-size: 16px;
+    }
+    .tip_2 {
+        font-size: 15px;
+    }
+    .tip_3 {
+        font-size: 15px;
+    }
+    schedule {
+        width: calc((100% / 6) - 10px);
+    }
+}

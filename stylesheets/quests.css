@@ -1,0 +1,221 @@
+header {
+    display: none;
+}
+
+container {
+    display: block;
+}
+
+.content {
+    padding-top: 15px;
+    padding-bottom: 30px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    min-height: 600px;
+}
+
+popheader {
+    height: 40px;
+    line-height: 40px;
+    background: #fff;
+    color: #333;
+    font-size: 18px;
+    font-weight: 600;
+    overflow: hidden;
+}
+
+.path {
+    margin-bottom: 10px
+}
+
+schedule {
+    display: block;
+    width: calc((100% / 3) - 10px);
+    text-align: center;
+    padding: 10px 5px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.path schedule.active {
+    background-color: #2545ba;
+}
+
+.path img {
+    width: 60px;
+}
+
+schedule.active {
+    background-color: rgb(37, 69, 186);
+    color: #fff;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0px 5px;
+}
+
+.blessing_card_area {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card {
+    background-color: #27363e;
+    border-radius: 5px;
+    margin: 5px 0px;
+    padding: 10px;
+    color: #eeeeee;
+    width: calc(100% - 20px);
+}
+
+.avatar-card p {
+    text-align: center;
+}
+
+.name {
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.desc {
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 5px;
+    line-height: 2;
+}
+.image {
+    width: calc(100%);
+    margin: 0px 0px 10px 0px;
+}
+
+.avatar-card {
+    border-radius: 5px;
+    padding: 14px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    width: calc(50% - 9px);
+    line-height: 2;
+    background-color: #27363E;
+    color: #eeeeee;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+}
+
+.avatar-head1 {
+    width: 90%;
+    margin: auto;
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 6px;
+}
+
+.avatar-head2 {
+    width: 90%;
+    margin: auto;
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 6px;
+    max-width: 150px;
+}
+
+.avatar-head1 img {
+    width: 100%;
+}
+
+.avatar-head2 img {
+    width: 80%;
+}
+.tip_3 {
+    font-size: 13px;
+}
+.sch {
+    font-size: 14px;
+}
+.sch_2 {
+    font-size: 19px;
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+    .avatar-card {
+        width: calc(33% - 8px);
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    .name {
+        font-size: 19px;
+    }
+    .desc {
+        font-size: 15px;
+    }
+    .card {
+        width: calc(100% - 40px);
+    }
+    .image {
+        width: calc(100% - 20px);
+        margin: 10px;
+    }
+    .tip_3 {
+        font-size: 14px;
+    }
+    .sch {
+        font-size: 15px;
+    }
+    .sch_2 {
+        font-size: 21px;
+    }
+    schedule {
+        width: calc((100% / 3) - 10px);
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .name {
+        font-size: 20px;
+    }
+    .desc {
+        font-size: 16px;
+    }
+    .card {
+        width: calc(50% - 20px);
+    }
+    .image {
+        width: calc(100% - 20px);
+        margin: 10px;
+    }
+    .tip_3 {
+        font-size: 15px;
+    }
+    .sch {
+        font-size: 16px;
+    }
+    .sch_2 {
+        font-size: 24px;
+    }
+    schedule {
+        width: calc((100% / 6) - 10px);
+    }
+}
+
+@media screen and (min-width: 800px) and (max-width: 1000px) {
+    .avatar-card {
+        width: calc(25% - 7.5px);
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .avatar-card {
+        width: calc(20% - 8px);
+        margin-top: 4px;
+        margin-bottom: 4px;
+    }
+}

@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+}
+
+header {
+    display: none;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 15px 0;
+}
+
+container {
+    display: block;
+}
+
+.content {
+    padding: 15px 0px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    min-height: 600px;
+}
+
+popheader {
+    height: 40px;
+    line-height: 40px;
+    background: #fff;
+    color: #333;
+    font-size: 18px;
+    font-weight: 600;
+    overflow: hidden;
+}
+
+popbody {
+    overflow-y: scroll;
+    padding: 10px 12px 15px;
+    max-height: calc(90vh - 90px) !important
+}
+
+popdialog {
+    max-height: 90%;
+}
+
+popbody::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
+
+.scroller {
+    overflow-x: hidden !important;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+    background-color: #aaaaaa;
+    border-radius: 4px;
+}
+
+schedule {
+    display: block;
+    width: calc((100% - 50px) / 5);
+    text-align: center;
+    padding: 10px 0px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+schedule.active {
+    background-color: #2545ba;
+    color: #fff
+}
+
+.area {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+    overflow: scroll;
+}
+
+.area::-webkit-scrollbar{
+    display: none;
+}
+
+.rar {
+    margin-top: 0;
+}
+
+.rar schedule {
+    font-size: 14px;
+    width: calc(100% / 2 - 10px);
+}
+
+.plus, .minus, .mid {
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0px 10px;
+    cursor: pointer;
+}
+
+#s2 {
+    display: none;
+    position: absolute;
+    z-index: 114514;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    width: calc(100%);
+    padding: 6px 0;
+}
+#s1 {
+    padding: 6px 0;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+    .plus, .minus, .mid {
+        font-size: 23px;
+    }
+    .rar schedule {
+        font-size: 14px;
+        width: calc(100% / 4 - 10px);
+    }
+    #s2 {
+        width: calc(100% - 10px);
+        padding: 4px 0;
+    }
+    #s1 {
+        padding: 4px 0;
+        margin-top: 6px;
+        margin-bottom: 6px;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .plus, .minus, .mid {
+        font-size: 26px;
+    }
+    .rar schedule {
+        font-size: 15px;
+        width: calc(100% / 6 - 10px);
+    }
+    #s2 {
+        width: calc(100% - 10px);
+        padding: 4px 0;
+    }
+    #s1 {
+        padding: 4px 0;
+        margin-top: 6px;
+        margin-bottom: 6px;
+    }
+}

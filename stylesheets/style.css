@@ -1,0 +1,485 @@
+@font-face {
+    font-family: 'GCG';
+    src: url('../fonts/GCG.woff');
+}
+
+.hover-shadow {
+    position: relative;
+    cursor: pointer;
+}
+
+.hover-shadow:hover {
+    box-shadow: 8px 8px 5px 0px rgba(0, 0, 0, 0.2);
+    left: -3px;
+    top: -3px;
+}
+
+body {
+    background-color: #29105a
+}
+
+.bg {
+    background: #29105a url('../images/bg.jpg') no-repeat right center/cover;
+}
+
+.bg_2 {
+    background: url('../images/bg.jpg');
+    background-repeat: repeat-y;
+    height: auto;
+}
+
+.bg_2 *:not(em) {
+    overflow: hidden!important;
+}
+
+h3 {
+    margin: 50px auto 20px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    line-height: 1.1;
+}
+
+h3 .title {
+    font-size: 40px;
+    position: relative;
+}
+
+h3 .lang {
+    margin: 10px 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    display: block;
+    line-height: 1.7;
+    font-style: normal;
+}
+
+.lang a {
+    color: #df903b;
+    font-style: normal;
+}
+
+a {
+    text-decoration: none;
+}
+
+h3 .subtitle {
+    font-size: 16px;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    font-style: normal;
+    line-height: 33px;
+    font-weight: normal;
+    margin-top: -4px;
+}
+
+h3 p {
+    margin: 13px;
+}
+
+h3 a {
+    color: #df903b;
+}
+
+h3 .links {
+    font-size: 20px;
+    font-style: normal;
+    display: block;
+    line-height: 1.6;
+    margin-top: 13px;
+    cursor: pointer;
+    color: #df903b;
+}
+
+popheader {
+    height: 40px;
+    line-height: 40px;
+    background: #fff;
+    color: #333;
+    font-size: 18px;
+    font-weight: 600;
+    overflow: hidden;
+}
+
+popbody {
+    max-height: calc(100% - 40px)!important;
+}
+
+body, html {
+    
+    height: 100%;
+    overflow: hidden;
+    margin: 0px;
+}
+
+container {
+    display: block;
+    height: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.content {
+    padding: 1px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    min-height: 600px;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 15px;
+}
+
+schedule {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 8px;
+}
+
+schedule.active{
+    background-color: rgb(37, 69, 186);
+    color: #fff;
+}
+
+.elem {
+    height: 18px;
+    width: 18px;
+}
+
+.elem_small {
+    height: 20px;
+    width: 20px;
+}
+
+.elem_ {
+    height: 25px;
+    width: 25px;
+}
+
+::-webkit-scrollbar {
+    height: 10px;
+    width: 10px;
+}
+
+.yuhengcup popbody {
+    padding: 10px;
+    max-height: calc(100% - 40px) !important;
+    overflow-x: hidden;
+}
+
+.yuhengcup popdialog {
+    height: 95%
+}
+
+.yuhengcup ::-webkit-scrollbar {
+    width: 0px
+}
+
+.yuhengcup section {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 3px;
+}
+
+.yuhengcup schedule { 
+    width: calc((100% - 20px));
+    padding: 10px 5px;
+}
+.menu_CTRL schedule {
+    width: calc((100% - 60px) / 3);
+    margin: 0px;
+}
+
+.figure {
+    height: 260px;
+}
+
+.lt {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    width: 160px;
+    height: 160px;
+    background-color: #fff;
+    border-radius: 25px;
+    z-index: 99999;
+    padding: 20px;
+    max-width: 80%;
+    text-align: center;
+}
+
+.lt p {
+    font-weight: bold;
+    font-size: 18px;
+    color: #000;
+    width: 100%
+}
+
+.lt img {
+    display: block;
+    margin: auto
+}
+
+._menu_, ._translate_ {
+    width: 30px;
+    height: 30px;
+    margin: auto 10px;
+}
+
+.menu_CTRL, .menu_GI, .menu_SR {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+    margin: 0px auto 60px;
+}
+
+.menu_GI_2, .menu_SR_2 {
+    width: 100%;
+    position: relative;
+}
+
+.menu_CTRL .hover-shadow, .menu_GI .hover-shadow, .menu_SR .hover-shadow {
+    text-align: center;
+    border: 1px solid #333;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+    padding: 10px 0;
+}
+
+.menu_CTRL a, .menu_GI a, .menu_SR a {
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+closeicon {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.panel {
+    font-size: 13px;
+    height: auto;
+    width: auto;
+}
+
+.menu_CTRL .panelw, .menu_GI .panelw, .menu_SR .panelw {
+    padding: 6px 8px!important;
+    margin: 5px 3px;
+    border: 1.5px solid #f29e38;
+}
+
+.emote_ img {
+    width: 100%;
+    height: 100%;
+}
+
+.emote_ {
+    width: 60px;
+    height: 60px;
+    margin: 0 5px;
+}
+
+.emote_block_ {
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.cntd_emote {
+    width: 40px;
+    height: 40px;
+}
+
+.cntd_emote_small {
+    width: 25px;
+    height: 25px;
+    margin-left: 5px;
+}
+
+.cntd_emote img {
+    width: 100%;
+    height: 100%;
+}
+
+.cntd_emote_small img {
+    width: 100%;
+    height: 100%;
+}
+
+.c_f {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 8px;
+}
+
+.c1_a, .c2_a {
+    margin: 3px 0 0 7px;
+}
+
+.c_a_w {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.about_button_wrap {
+    margin: 0px 10px;
+    position: relative;
+    top: -9px;
+}
+
+.about_button {
+    padding: 6px 8px;
+    font-size: 14px;
+    color: #eeeeee;
+    border-radius: 5px;
+    border: 2px solid #F29E38;
+    font-weight: bold;
+}
+
+.logo_img_yhb {
+    width: 250px;
+    margin-top: -20px;
+    margin-bottom: 4px;
+}
+
+.game_img {
+    width: 60px;
+    margin-top: -16px;
+    position: relative;
+    top: 15px;
+}
+
+.game_img_2 {
+    width: 60px;
+    margin-top: -6px;
+    position: relative;
+    top: 15px;
+}
+
+.newyear_wrap {
+    display: flex;
+    justify-content: center;
+    padding-top: 16px;
+    padding-bottom: 4px;
+}
+
+.newyear_img {
+    width: 300px;
+    border-radius: 7px;
+}
+
+@media screen and (min-width: 600px) and (max-width: 800px) {
+    .elem_ {
+        height: 27px;
+        width: 27px;
+    }
+    .figure {
+        height: 290px;
+    }
+    .yuhengcup schedule { width: calc((100% - 40px) / 2) }
+    .menu_CTRL schedule {
+        width: calc((100% - 60px) / 3)
+    }
+    .elem {
+        height: 20px;
+        width: 20px;
+    }
+    .elem_small {
+        height: 20px;
+        width: 20px;
+    }
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+
+    .logo_img_yhb {
+        width: 275px;
+        margin-top: -15px;
+    }
+
+    .emote_ {
+        width: 60px;
+        height: 60px;
+    }
+    .panel {
+        font-size: 14px;
+    }
+    .menu_CTRL .panelw, .menu_GI .panelw, .menu_SR .panelw {
+        padding: 8px 10px!important;
+        margin: 5px 4px;
+        border: 1.5px solid #f29e38;
+    }
+}
+
+@media screen and (min-width: 800px) {
+
+    .logo_img_yhb {
+        width: 300px;
+        margin-top: -10px;
+    }
+
+    .emote_ {
+        width: 60px;
+        height: 60px;
+    }
+    .menu_CTRL .panelw, .menu_GI .panelw, .menu_SR .panelw {
+        padding: 10px 12px!important;
+        margin: 5px 5px;
+        border: 2px solid #f29e38;
+    }
+    .panel {
+        font-size: 15px;
+    }
+    .elem_ {
+        height: 30px;
+        width: 30px;
+    }
+    .figure {
+        height: 320px;
+    }
+    .yuhengcup schedule { width: calc((100% - 60px) / 3) }
+    .menu_CTRL schedule {
+        width: calc((100% - 60px) / 3)
+    }
+    .elem {
+        height: 22px;
+        width: 22px;
+    }
+    .elem_small {
+        height: 22px;
+        width: 22px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .scroller::-webkit-scrollbar {
+        display: none;
+    } 
+    popbody::-webkit-scrollbar {
+        display: none;
+    }
+    container::-webkit-scrollbar {
+        display: none;
+    }
+}

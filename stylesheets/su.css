@@ -1,0 +1,329 @@
+::-webkit-scrollbar:horizontal {
+    display: none;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+    background-color: #aaaaaa;
+    border-radius: 4px;
+}
+
+schedule {
+    font-size: 14px;
+    margin: 8px 6px;
+}
+
+.content {
+    padding-bottom: 50px;
+}
+
+.blessing_card_area {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.curio {
+    border-radius: 5px;
+    padding: 18px;
+    margin-top: 11px;
+    width: calc(100% - 50px);
+    line-height: 2;
+    background-color: #27363E;
+    color: #eeeeee;
+    position: relative;
+}
+
+.curio_2 {
+    border-radius: 5px;
+    padding: 18px;
+    margin-top: 11px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: calc((100% / 1) - 50px);
+    line-height: 2;
+    background-color: #27363E;
+    color: #eeeeee;
+    position: relative;
+}
+
+.extra_desc p {
+    text-align: center;
+}
+
+.need {
+    width: 100%;
+    height: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: -13px;
+    margin-bottom: -5px;
+}
+
+.needsub {
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+}
+
+.needsub div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.icon {
+    height: 90px;
+    margin: auto;
+    display: block;
+    margin-top: 15px;
+}
+
+.icon_small {
+    height: 45px;
+    margin: auto;
+    display: block;
+    margin-top: 15px;
+}
+
+.name {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.desc {
+    font-size: 13px;
+    margin-bottom: 0px;
+}
+
+.info {
+    position: absolute;
+    top: 0px;
+    left: 12px;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.ml {
+    position: absolute;
+    top: -9px;
+    right: 12px;
+    font-size: 32px;
+    cursor: pointer;
+}
+
+.infou {
+    cursor: pointer;
+}
+
+.path schedule {
+    background-color: #27363e;
+    width: 60px;
+    border-radius: 9px;
+    border-width: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+schedule.active {
+    background-color: #2545ba;
+}
+
+.miracle_card_area {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.path img {
+    width: 40px;
+}
+
+.story {
+    font-size: 12px;
+}
+
+.star {
+    margin: 6px 10px;
+}
+
+.v_r, .v_l {
+    font-weight: bold;
+    font-size: 37px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    margin: 0px 6px;
+}
+
+.ver {
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.ver_text_name, .ver_text_time {
+    font-size: 15px;
+    margin: 5px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.mon {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.moneach {
+    margin: 0px 5px;
+    width: 55px;
+}
+
+.monimg {
+    width: 100%
+}
+
+.monelem {
+    height: 22px;
+    margin-top: 5px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.mon {
+    margin-top: 20px;
+}
+
+.elem_modify {
+    height: 18px;
+    width: 18px;
+}
+
+.ttl {
+    font-size: 16.5px;
+}
+
+@media screen and (min-width: 600px) and (max-width: 900px) {
+
+    .monelem {
+        margin-top: -5px;
+    }
+
+    .elem_modify {
+        height: 23px;
+        width: 23px;
+    }
+    schedule {
+        font-size: 15px;
+    }
+    .icon {
+        height: 105px;
+    }
+
+    .icon_small {
+        height: 55px;
+    }
+    .curio {
+        width: calc((100% - 100px) / 2);
+    }
+    .name {
+        font-size: 18px;
+    }
+    .desc {
+        font-size: 14px;
+    }
+    .story {
+        font-size: 13px;
+    }
+    .v_r, .v_l {
+        font-size: 41px;
+    }
+    .ver_text_name, .ver_text_time {
+        font-size: 16px;
+    }
+    .moneach {
+        margin: 0px 8px;
+        width: 75px;
+    }
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+    .curio_2 {
+        width: calc((100% / 2) - 50px);
+    }
+
+    .ttl {
+        font-size: 19px;
+    }
+}
+
+@media screen and (min-width: 800px) and (max-width: 1000px) {
+    .curio_2 {
+        width: calc((100% / 3) - 50px);
+    }
+
+    .ttl {
+        font-size: 21px;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .curio_2 {
+        width: calc((100% / 4) - 50px);
+    }
+
+    .ttl {
+        font-size: 23px;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    .monelem {
+        margin-top: -5px;
+    }
+
+    .elem_modify {
+        height: 27px;
+        width: 27px;
+    }
+    schedule {
+        font-size: 16px;
+    }
+    .icon {
+        height: 120px;
+    }
+
+    .icon_small {
+        height: 65px;
+    }
+    .curio {
+        width: calc((100% - 150px) / 3);
+    }
+    .name {
+        font-size: 19px;
+    }
+    .desc {
+        font-size: 15px;
+    }
+    .story {
+        font-size: 14px;
+    }
+    .v_r, .v_l {
+        font-size: 43px;
+    }
+    .ver_text_name, .ver_text_time {
+        font-size: 17px;
+    }
+    .moneach {
+        margin: 0px 11px;
+        width: 100px;
+    }
+}

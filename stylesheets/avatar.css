@@ -1,0 +1,2192 @@
+
+header {
+    display: none;
+}
+
+.c1_a {
+    font-size: 16px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.countdown {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -2px;
+    margin-bottom: 8px;
+}
+
+container {
+    display: block;
+}
+
+.nsc::-webkit-scrollbar {
+    display: none;
+}
+.nsc.nsc::-webkit-scrollbar-x {
+    display: none;
+}
+
+.delete .hr_1 {
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.show_up {
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.to_mtc {
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.content, .content_2 {
+    padding: 15px 0px 5px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    min-height: 600px;
+    display: block;
+}
+
+divv div {
+    margin: 15px 0;
+}
+
+popdialog {
+    height: 100%;
+}
+
+.norm popdialog {
+    height: 70%;
+}
+
+popheader {
+    height: 40px;
+    line-height: 40px;
+    background: #fff;
+    color: #333;
+    font-size: 18px;
+    font-weight: 600;
+    overflow: hidden;
+}
+
+popbody {
+    max-height: calc(100% - 40px) !important
+}
+
+#back_2 {
+    margin: 0;
+    cursor: pointer;
+    background-color: white;
+    position: absolute;
+    width: calc(100%);
+    top: 0;
+    left: 0;
+    padding: 6px 0;
+    z-index: 114514;
+    display: none;
+    color: red;
+}
+#back_2 closeicon {
+    position: absolute;
+    right: 10px;
+    font-size: 24px;
+}
+#back_1 {
+    margin-top: -6px;
+    padding-top: 6px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    background-color: white;
+    color: red;
+}
+
+#back_2:hover {
+    color: black;
+}
+#back_1:hover {
+    color: black;
+}
+
+.mat-pop popbody {
+    overflow-x: hidden;
+}
+
+.cur_story_ver_select {
+    padding: 2px 10px;
+    border: 2px solid #eeeeee;
+    border-radius: 5px;
+    margin-right: 15px;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+}
+
+.active_w {
+    border: 2px solid #f29e38!important;
+}
+
+.avatar_mat {
+    margin: 10px 2px;
+    padding: 0px 6px;
+    text-align: center;
+    line-height: 24px;
+}
+
+#skill_mat .avatar_mat {
+    margin: 0 2px;
+}
+
+#add_avatar_mat .avatar_mat {
+    margin: 0 2px;
+}
+
+.avatar_mat img {
+    width: 46px;
+    margin: auto;
+}
+
+.a_select,
+.r_select {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.a_select {
+    margin-bottom: 10px;
+}
+
+.a_select span {
+    width: 46%;
+    text-align: center;
+    margin: 1%;
+    border: 1px solid #333;
+    padding: 10px 0;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.r_select span {
+    width: 31%;
+    text-align: center;
+    margin: 1%;
+    border: 1px solid #333;
+    padding: 10px 0;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.a_select span.active {
+    background-color: rgb(37, 69, 186);
+    color: #fff;
+}
+
+.r_select span.active {
+    background-color: rgb(37, 69, 186);
+    color: #fff;
+}
+
+.battle_desc {
+    border-radius: 10px;
+    background-color: #27363E;
+    color: #eeeeee;
+    width: calc(100% - 8px);
+    margin: 3px 0;
+}
+
+.battle_stat {
+    border-radius: 10px;
+    background-color: #27363E;
+    color: #eeeeee;
+    width: calc(100% - 8px);
+    margin: 3px 0;
+}
+
+.a_section,
+.a_section_skill,
+.a_section_small,
+.a_section_small_1,
+.a_section_small_2 {
+    width: calc(100% - 8px);
+    display: inline-block;
+    border-radius: 10px;
+    background-color: #27363E;
+    color: #eeeeee;
+    position: relative;
+    margin: 3px 0;
+}
+
+.a_section_head,
+.a_section_head span {
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 15px;
+    margin-right: 15px;
+    line-height: 1.55;
+}
+
+.a_section_content {
+    font-size: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    line-height: 2;
+    overflow-x: scroll;
+}
+
+.TUT_Text {
+    font-size: 15px;
+}
+
+.a_section_content span {
+    font-size: 15px;
+    line-height: 2;
+    margin-left: 0px;
+}
+
+.a_section_content input {
+    width: 47%;
+    height: 40px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(255, 255, 255, 1);
+    font-size: 15px;
+    margin: auto;
+}
+
+.a_section_head input {
+    width: 72px;
+    height: 28px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(255, 255, 255, 1);
+    font-size: 15px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+}
+
+.generation {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 15px 0 15px;
+}
+
+.cl,
+.weapon,
+.sort {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0px 10px 15px;
+}
+
+.cl schedule {
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+}
+
+.avatar-rarity, .avatar-elem, .avatar-type, .weapon-rarity, .weapon-type {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 8px 0;
+}
+
+schedule {
+    display: block;
+    width: calc((100% - 50px) / 3);
+    text-align: center;
+    padding: 10px 5px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+schedule.active {
+    background-color: rgb(37, 69, 186);
+    color: #fff;
+}
+
+.select_parts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.select_parts schedule {
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.select_parts_size_1 schedule {
+    background-color: #27363E;
+    color: #fff;
+    width: 60px;
+    height: 60px;
+    padding: 8px;
+    margin: 0px 5px;
+}
+
+.select_parts_size_2 schedule {
+    border: 1.5px solid #333;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 14px;
+    width: 50px;
+    height: 35px;
+    padding: 5px;
+    margin: 0px 3px;
+}
+
+.select_parts_size_3 schedule {
+    background-color: #27363E;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    margin: 0px 3px;
+}
+
+.select_parts_size_1 schedule.active {
+    background-color: rgb(37, 69, 186);
+}
+
+.select_parts_size_2 schedule.active {
+    background-color: rgb(37, 69, 186);
+}
+
+.select_parts_size_3 schedule.active {
+    background-color: rgb(37, 69, 186);
+}
+
+.select_parts schedule img {
+    width: 100%;
+    height: 100%;
+}
+
+button {
+    width: 47%;
+    height: 40px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(255, 255, 255, 1);
+    font-size: 15px;
+}
+
+.skill_lv_up, .skill_lv_down {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 2px solid #eeeeee;
+    height: 26px;
+    width: 30px;
+    border-radius: 3px;
+    margin: auto 8px;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.stat_ver_choose_wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.stat_ver_choose_wrap span {
+    margin: 0px 15px;
+}
+
+.stat_ver_choose select, .cl_choose select {
+    width: 108px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    height: 29px;
+}
+
+.mat_calc_choose select {
+    width: 72px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    height: 29px;
+}
+
+.stat_ver_choose_w select,
+.story_this select {
+    width: 72px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    height: 22px;
+    position: relative;
+    bottom: 3px;
+}
+.changelog select {
+    width: 108px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    height: 33px;
+}
+
+.changelog {
+    text-align: center;
+}
+
+.cl_data div {
+    margin: 3px 0;
+}
+.hn_data div {
+    margin: 3px 0;
+}
+.up_data div {
+    margin: 3px 0;
+}
+.hd_data div {
+    margin: 3px 0;
+}
+.boss_data div {
+    margin: 3px 0;
+}
+.pic_data div {
+    margin: 3px 0;
+}
+
+.boss_icon {
+    width: calc(100% - 30px);
+    display: flex;
+    justify-content: center;
+}
+
+.boss_icon a {
+    height: 60px;
+    width: 60px;
+}
+
+.boss_icon a img {
+    height: 100%;
+    width: 100%;
+}
+
+.boss_desc {
+    font-size: 14px;
+}
+
+.cl_all .a_section div {
+    margin: 15px;
+}
+.cl_all .a_section .as_2 {
+    margin: 10px 0;
+}
+.cl_all .a_section_skill div {
+    margin: 15px;
+}
+.cl_all .a_section_skill .as_2 {
+    margin: 10px 0;
+}
+.hn_all .a_section div {
+    margin: 15px;
+}
+.hd_all .a_section div {
+    margin: 15px;
+}
+.boss_all .a_section div {
+    margin: 15px;
+}
+.boss_all .a_section_small div {
+    margin: 15px;
+}
+.up_all .a_section div {
+    margin: 15px;
+}
+.pic_all .a_section div {
+    margin: 15px;
+}
+
+.cl_data, .up_data, .hn_data, .hd_data, .boss_data, .pic_data {
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #aaa;
+}
+
+.cl2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: -10px 10px 15px;
+}
+
+.cl2 schedule {
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.toggle_stat {
+    width: 108px;
+    height: 33px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(255, 255, 255, 1);
+    color: #27363E;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    margin: auto;
+    float: right;
+    text-align: center;
+    cursor: pointer;
+    font-weight: normal;
+}
+
+.param {
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.windzone_table {
+    background-color: transparent !important;
+    text-align: center
+}
+
+.windzone_table:hover {
+    background-color: #666 !important;
+}
+
+.windzone_table>td {
+    padding: 7px;
+}
+
+.attack_div {
+    width: calc(100% - 20px);
+    overflow-x: scroll;
+    transform: rotateX(180deg);
+    scrollbar-width: thin;
+}
+
+::-webkit-scrollbar {
+    height: 10px;
+    width: 10px;
+}
+
+.a_section_small ::-webkit-scrollbar-thumb {
+    background-color: #ffffff;
+}
+
+.a_section ::-webkit-scrollbar-thumb {
+    background-color: #ffffff;
+}
+
+.attack_div table {
+    transform: rotateX(180deg);
+    font-size: 14px;
+}
+
+.attack_div th,
+tr {
+    white-space: nowrap;
+    line-height: 28px;
+}
+
+.attack_div td {
+    padding: 8px;
+}
+
+.attack_div th {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.attack_center {
+    text-align: center;
+}
+
+.scroller {
+    overflow-x: hidden !important;
+}
+
+.main-table th,
+.main-table td {
+    padding: 0px 5px
+}
+
+.avatar-table {
+    margin-left: -5px;
+    margin-right: -5px;
+    width: calc(100% + 10px);
+    font-size: 14px;
+}
+
+.relic-table {
+    table-layout: fixed;
+    width: calc(100% + 20px);
+    min-width: 660px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.relic-table th {
+    padding: 9px;
+    text-wrap: wrap;
+    font-size: 14px;
+    line-height: 27px;
+}
+
+.relic-table td {
+    text-wrap: wrap;
+    font-size: 14px;
+    line-height: 27px;
+    padding: 0px 5px;
+}
+
+.relic-head tr :nth-child(2) {
+    width: 108px;
+}
+
+.relic-head tr :nth-child(3) {
+    width: 108px;
+}
+
+.relic-head tr :nth-child(4) {
+    width: 108px;
+}
+
+.relic-head tr :nth-child(5) {
+    width: 108px;
+}
+
+.relic-head tr :nth-child(6) {
+    width: 108px;
+}
+
+.weapon_pop popbody {
+    padding: 5px 10px 30px;
+}
+
+.weapon-table {
+    table-layout: fixed;
+    width: calc(100% + 20px);
+    min-width: 1008px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.weapon-table td {
+    padding: 0px 9px;
+    text-wrap: wrap;
+    font-size: 14px;
+    line-height: 27px;
+}
+
+.weapon-table th {
+    padding: 0px 9px;
+    font-size: 14px;
+    line-height: 27px;
+}
+
+.weapon-head tr :nth-child(1) {
+    width: 8%
+}
+
+.weapon-head tr :nth-child(2) {
+    width: 8%
+}
+
+.weapon-head tr :nth-child(3) {
+    width: 16%
+}
+
+.weapon-head tr :nth-child(4) {
+    width: 10%
+}
+
+.weapon-head tr :nth-child(5) {
+    width: 21%
+}
+
+.weapon-head tr :nth-child(6) {
+    width: 12%
+}
+
+.toggle_story_button {
+    margin-top: 12px;
+}
+
+.relic_image {
+    width: 80px;
+}
+
+.weaponpic {
+    height: 80px;
+    display: block;
+    margin: auto;
+}
+
+.mat-img {
+    height: 160px;
+    margin: auto;
+    display: block;
+}
+
+.mat-desc {
+    margin: 6px 16px;
+    line-height: 2;
+    font-size: 15px;
+}
+
+.mat-desc_ {
+    margin: 6px 16px;
+    line-height: 2;
+    font-size: 15px;
+}
+
+.mat-name {
+    margin: 4px 18px;
+    line-height: 2;
+    font-size: 20px;
+    text-align: center;
+}
+
+.mat-name_ {
+    margin: 13px 18px 10px;
+    line-height: 2;
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.avatar_mat_1,
+.avatar_mat_2 .img_2,
+.avatar_mat_2 p {
+    cursor: pointer;
+}
+
+.mat-pop popbody {
+    height: 100%;
+}
+
+.mat-pop popbody::-webkit-scrollbar-thumb {
+    background-color: #888888;
+}
+
+.avatar_costume_img {
+    height: 140px;
+}
+
+.gacha {
+    width: 170%;
+    margin-left: calc(50% - min(900px, 170%) / 2);
+    max-width: 900px;
+}
+.figure_big {
+    height: 300px;
+}
+.namecard {
+    width: 100%;
+    margin-left: calc(50% - min(700px, 100%) / 2);
+    max-width: 700px;
+}
+.constellation {
+    max-height: calc(80%);
+    max-width: calc(80%);
+    aspect-ratio: 1;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+    z-index: -1;
+}
+
+.reset_talk {
+    width: 130px;
+}
+
+.reset_talk_ {
+    width: auto;
+    cursor: default;
+}
+
+.reset_talk:hover {
+    background-color: #2545ba;
+    color: #fff
+}
+
+.reset_talk_:hover {
+    background-color: #fff;
+    color: #000
+}
+
+.talk {
+    font-size: 15px;
+    padding: 15px;
+    margin: 8px auto;
+    border-radius: 10px;
+    width: 95%;
+    max-width: 700px;
+    line-height: 1.8;
+}
+
+.talk_0,
+.talk_20,
+.talk_0_ {
+    background-color: #27363E;
+    color: #eeeeee;
+}
+
+.talk_1,
+.talk_21 {
+    border: 1px solid #27363E;
+}
+
+.talk_2,
+.talk_0 {
+    cursor: pointer;
+}
+
+.content section.sort schedule {
+    font-size: 13px;
+}
+
+.ml_b, .ml_e, .ml_w {
+    cursor: pointer;
+}
+
+.TUT popdialog {
+    height: auto;
+}
+
+.figure_wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0!important;
+}
+
+.figure {
+    height: 150px;
+    margin: 0 5px;
+}
+
+.figure_2 {
+    height: 80px;
+    margin: 0 5px;
+}
+
+.figure_3 {
+    height: 40px;
+    margin: 0 5px;
+}
+.emote {
+    width: 90px;
+    margin: 0 4px;
+    cursor: pointer;
+}
+
+.showtop {
+    font-size: 26px;
+    text-align: center;
+    margin-top: -22px;
+    margin-bottom: -2px;
+    cursor: pointer;
+}
+
+.head_withimg {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.head_left {
+    width: 40px;
+    height: 40px;
+}
+
+.head_right {
+    margin: 0 0 0 5px;
+}
+.hr_1 {
+    width: calc(100% - 45px);
+}
+.hr_2 {
+    width: calc(100% - 90px);
+}
+.hr_3 {
+    width: calc(100% - 135px);
+}
+
+.dissolve {
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.avatar-area {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.avatar-card {
+    border-radius: 5px;
+    padding: 14px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    width: calc(50% - 7px);
+    line-height: 2;
+    background-color: #27363E;
+    color: #eeeeee;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+}
+
+.avatar-card-slim {
+    border-radius: 5px;
+    padding: 14px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    width: calc(33% - 6px);
+    line-height: 2;
+    background-color: #27363E;
+    color: #eeeeee;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+}
+
+.avatar-card2 {
+    border-radius: 5px;
+    padding: 14px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    width: calc(100% - 14px);
+    line-height: 2;
+    background-color: #27363E;
+    color: #eeeeee;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+}
+
+.avatar-head {
+    height: 80px;
+    margin: auto;
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 6px;
+    max-width: 100%;
+}
+
+.avatar-name {
+    font-size: 16px;
+} 
+.avatar-name2 {
+    font-size: 17px;
+}  
+.avatar-title {
+    font-size: 14px;
+} 
+.avatar-title2 {
+    font-size: 12px;
+} 
+.weapon-atk {
+    height: 26px;
+    position: relative;
+    top: 7px;
+    margin-right: 4px;
+}
+.avatar-stat {
+    font-size: 13px;
+    margin-left: 4px;
+    margin-right: 4px;
+    white-space: pre;
+}
+.avatar-staticon {
+    height: 23px;
+    width: 23px;
+    position: relative;
+    top: 6px;
+}
+
+.Norm {
+    font-size: 15px;
+    text-align: center;
+    margin: auto;
+    position: relative;
+    top: -5px;
+    padding: 10px 20px;
+    width: max-content;
+    cursor: pointer;
+}
+
+schedule.selected {
+    border-width: 2px;
+    height: 63px;
+}
+schedule.selected:hover {
+    border: 2px solid red
+}
+schedule.selected img {
+    position: relative;
+    top: -2px;
+}
+
+.tk p {
+    margin: 15px 0
+}
+
+.sort_w {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 5px 0px 15px;
+}
+
+.sort_w schedule {
+    padding: 0;
+    width: calc(20% - 12px);
+    margin: 0;
+}
+
+.sort_w img {
+    height: 100%;
+    max-height: 60px;
+    max-width: 100%;
+    aspect-ratio: 1;
+}
+
+.addprop img {
+    height: 36px;
+    position: relative;
+    top: 12px;
+    margin-right: 3px;
+}
+
+.addprop {
+    margin: -8px 7px 0px;
+    font-weight: bold;
+}
+
+.addprop span {
+    margin: 0!important;
+}
+
+.mon_head {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: -6px auto 10px;
+}
+
+.relic-area {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+.relic-card {
+    width: calc(100% - 12px);
+    background-color: #27363E;
+    border-radius: 8px;
+    margin: 3px 0;
+    padding: 18px;
+    color: #eeeeee;
+    line-height: 2;
+}
+
+.relic-left {
+    width: 80px;
+}
+
+.relic-right {
+    width: calc(100% - 120px);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.common-area, .common-area-2 {
+    min-height: 1200px;
+}
+
+.delete .a_section_head {
+    cursor: pointer;
+}
+
+.avatar_stats {
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 0;
+    padding-top: 10px;
+    width: 100%;
+    justify-content: center;
+}
+
+#special::-webkit-scrollbar {
+    display: none;
+}
+
+#special {
+    overflow: hidden;
+}
+
+#special .avatar_stats {
+    margin-top: 5px;
+    margin-left: 0;
+    margin-right: 0;
+    padding-top: 0px;
+    width: 100%;
+    justify-content: center;
+}
+
+#avatar_stat_special {
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding-top: 10px;
+    width: 100%;
+    justify-content: center;
+}
+
+.after_1 {
+    margin-bottom: 3px!important;
+}
+
+.as {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: -5px 0 10px;
+    width: 100%;
+}
+
+.as_left {
+    width: calc(min(35%, 120px));
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.as_right {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+
+.as_2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px 0!important;
+    width: 100%;
+}
+
+.as_left_2 {
+    width: calc(min(25%, 110px));
+    margin: 0!important;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.as_right_2 {
+    display: flex;
+    flex-direction: column;
+    margin: 0 10px!important;
+    padding: 0;
+    justify-content: center;
+}
+
+.mat_num {
+    position: absolute;
+    right: 0px;
+    top: -3px;
+    font-weight: bold;
+    font-size: 12px!important;
+    background-color: #27363E;
+    line-height: 1!important;
+    border-radius: 6px;
+    padding: 3px;
+    margin: 0!important;
+}
+
+.mat_a {
+    position: relative;
+    color: #eeeeee;
+}
+
+.av {
+    font-size: 16px;
+}
+
+.icon {
+    height: 90px;
+    margin: auto;
+    display: block;
+}
+
+.relic_id {
+    font-size: 0.8em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 8px;
+    margin-bottom: -13px;
+}
+
+.name {
+    text-align: center;
+    font-weight: bold;
+    margin: 15px auto;
+    font-size: 14px;
+}
+
+.desc {
+    font-size: 13px;
+    margin-top: 11px;
+}
+
+.mtc_half {
+    width: 100%;
+}
+
+.watch {
+    width: 60px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    height: 24px;
+}
+
+.mtc_1 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.mtc_2 {
+    width: 100%;
+}
+
+.mtc_upper {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px 10px;
+}
+
+.mtc_lower {
+    display: flex;
+    justify-content: center;
+    padding: 5px 10px;
+}
+
+.mtc_1, .mtc_2 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+.mtc_result_item_icon {
+    margin: 5px 0 -8px 0;
+    width: 100%;
+}
+
+.mtc_result_item_icon img {
+    width: 100%;
+}
+
+.mtc_result_item_num {
+    margin: 0;
+    text-align: center;
+    width: 100%;
+}
+
+.mtc_result_item {
+    width: 60px;
+    margin: 5px;
+    color: #eeeeee;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.as_left_name {
+    margin: 3px 0;
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+}
+
+.as_left_name a {
+    color: #f29e38;
+}
+
+.pic_span {
+    border: 2px solid #FFD780;
+    border-radius: 3px;
+    padding: 0 9px;
+    margin: 8px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.anni {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 26px;
+    line-height: 1;
+}
+
+.anni_p {
+    width: 100%;
+    margin: 4px 0 0 0;
+    font-size: 11px;
+    font-weight: bold;
+    white-space: pre;
+    color: #ffcc00;
+}
+
+.anni_p_a {
+    margin: 4px 0 0 0;
+    font-size: 11px;
+    font-weight: bold;
+    color: #cc0000;
+    background-color: white;
+    padding: 10px 5px;
+    border-radius: 3px;
+}
+
+.anni img {
+    height: 26px;
+}
+
+.name_cake {
+    height: 25px;
+    width: 25px;
+    margin-left: 8px;
+    margin-right: 8px;
+    position: relative;
+    top: -4px;
+}
+
+.some_title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+@media screen and (min-width: 900px) {
+    .relic-head tr :nth-child(2) {
+        width: 12%;
+    }
+
+    .relic-head tr :nth-child(3) {
+        width: 12%;
+    }
+
+    .relic-head tr :nth-child(4) {
+        width: 12%;
+    }
+
+    .relic-head tr :nth-child(5) {
+        width: 12%;
+    }
+
+    .relic-head tr :nth-child(6) {
+        width: 12%;
+    }
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+
+    .some_title {
+        font-size: 18px;
+    }
+
+    .anni_p {
+        font-size: 12px;
+    }
+    .anni_p_a {
+        font-size: 12px;
+    }
+
+    .anni {
+        top: 7px;
+        right: 7px;
+        width: 30px;
+    }
+
+    .anni img {
+        height: 30px;
+    }
+
+    .boss_icon a {
+        height: 75px;
+        width: 75px;
+    }
+
+    .boss_desc {
+        font-size: 15px;
+    }
+
+    .select_parts_size_1 schedule {
+        width: 60px;
+        height: 60px;
+        padding: 8px;
+        margin: 0px 5px;
+    }
+
+    .select_parts_size_2 schedule {
+        font-size: 15px;
+        width: 62px;
+        height: 40px;
+        padding: 7px;
+        margin: 0px 4px;
+    }
+
+    .select_parts_size_3 schedule {
+        width: 45px;
+        height: 45px;
+        padding: 6px;
+        margin: 0px 3px;
+    }
+
+    .as_left_name {
+        font-size: 15px;
+    }
+
+    .mtc_upper {
+        font-size: 15px;
+    }
+
+    .mtc_result_item {
+        width: 70px;
+        font-size: 14px;
+    }
+
+    .mtc_1, .mtc_2 {
+        margin-top: 15px;
+    }
+    .mtc_half {
+        width: 50%;
+    }
+
+    .desc {
+        font-size: 14px;
+    }
+    .name {
+        font-size: 16px;
+    }
+    .icon {
+        height: 110px;
+    }
+    .figure {
+        height: 200px;
+        margin: 0 7px;
+    }
+    .figure_2 {
+        height: 120px;
+        margin: 0 7px;
+    }
+    .figure_3 {
+        height: 60px;
+        margin: 0 7px;
+    }
+    .emote {
+        width: 120px;
+        margin: 0 4px;
+    }
+
+    .mat_num {
+        right: 0px;
+        font-size: 13px!important;
+    }
+
+    .cl_data div {
+        margin: 4px 0;
+    }
+    .hn_data div {
+        margin: 4px 0;
+    }
+    .hd_data div {
+        margin: 4px 0;
+    }
+    .boss_data div {
+        margin: 4px 0;
+    }
+    .pic_data div {
+        margin: 4px 0;
+    }
+    .up_data div {
+        margin: 4px 0;
+    }
+    #back_2 {
+        width: calc(100% - 10px);
+    }
+    .relic-card {
+        width: calc(50% - 10px);
+        margin: 4px 0;
+    }
+    schedule.selected {
+        border-width: 2px;
+        height: 73px;
+    }
+    
+    .avatar-name {
+        font-size: 16px;
+    } 
+    .avatar-name2 {
+        font-size: 17px;
+    }  
+    .avatar-title {
+        font-size: 14px;
+    }
+    .avatar-title2 {
+        font-size: 13px;
+    } 
+    .weapon-atk {
+        height: 26px;
+        top: 7px;
+    }
+
+    .avatar-head {
+        height: 120px;
+    }
+
+    .avatar-card {
+        margin-top: 4px;
+        margin-bottom: 4px;
+        width: calc(33% - 6px);
+    }
+    .avatar-card2 {
+        margin-top: 4px;
+        margin-bottom: 4px;
+        width: calc(50% - 13px);
+    }
+
+    .head_left {
+        width: 45px;
+        height: 45px;
+    }
+    
+    .head_right {
+        margin: 0 0 0 5px;
+    }
+    .hr_1 {
+        width: calc(100% - 50px);
+    }
+    .hr_2 {
+        width: calc(100% - 100px);
+    }
+    .hr_3 {
+        width: calc(100% - 150px);
+    }
+
+    .showtop {
+        font-size: 32px;
+    }
+
+    .content section.sort schedule {
+        font-size: 15px;
+    }
+
+    .talk {
+        font-size: 16px;
+    }
+
+    .content, .content_2 {
+        padding: 15px 0px 10px;
+    }
+
+    .avatar-table {
+        margin-left: -10px;
+        margin-right: -10px;
+        width: calc(100% + 20px);
+        font-size: 15px;
+    }
+
+    .mat-desc {
+        margin: 4px 18px;
+        line-height: 2;
+        font-size: 17px;
+    }
+
+    .mat-desc_ {
+        margin: 6px 16px;
+        line-height: 2;
+        font-size: 16px;
+    }
+
+    .mat-img {
+        height: 200px;
+        margin: auto;
+    }
+
+    .avatar_mat img {
+        width: 54px;
+        margin: auto;
+    }
+
+    .avatar_mat {
+        padding: 0px 9px;
+        line-height: 27px;
+    }
+
+    .a_select span {
+        width: 31%;
+        font-size: 14px;
+    }
+
+    .relic_image {
+        width: 100px
+    }
+
+    .TUT_Text {
+        font-size: 16px;
+    }
+
+    .a_section_content {
+        font-size: 16px;
+    }
+
+    .a_section_content span {
+        font-size: 16px;
+    }
+
+    .a_section_content input {
+        font-size: 16px;
+    }
+
+    .a_section_head input {
+        font-size: 16px;
+    }
+
+    .a_section_head,
+    .a_section_head span {
+        font-size: 19px;
+    }
+    
+    .stat_ver_choose_w select,
+    .story_this select {
+        width: 75px;
+        font-size: 13px;
+        height: 24px;
+    }
+
+    .avatar_costume_img {
+        height: 150px;
+    }
+
+    .gacha {
+        width: 130%;
+        margin-left: calc(50% - min(900px, 130%) / 2);
+    }
+    .figure_big {
+        height: 400px;
+    }
+
+    .weaponpic {
+        height: 100px;
+    }
+
+    .weapon-head tr :nth-child(1) {
+        width: 10%
+    }
+
+    .weapon-head tr :nth-child(2) {
+        width: 10%
+    }
+
+    .battle_desc {
+        margin: 2.5px 0;
+        width: calc(100% - 10px);
+    }
+
+    .battle_stat {
+        margin: 2.5px 0;
+        width: calc(100% - 10px);
+    }
+
+    .a_section {
+        margin: 2.5px 0;
+        width: calc(100% - 10px);
+    }
+
+    .a_section_small {
+        margin: 2.5px 0;
+        width: calc(100% - 10px);
+    }
+
+    .a_section_skill {
+        margin: 2.5px 0;
+        width: calc(100% - 10px);
+    }
+
+    .a_section_small_1 {
+        margin: 2.5px 0;
+        width: calc(100% - 1210pxpx);
+    }
+
+    .a_section_small_2 {
+        margin: 2.5px 0;
+        width: calc(100% - 10px);
+    }
+}
+
+.boss_tut {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.boss_tut img {
+    max-width: 300px;
+    margin: 0 0 20px;
+}
+
+@media screen and (min-width: 800px) and (max-width: 1000px) {
+
+    .boss_tut img {
+        max-width: 400px;
+    }
+    .avatar-name {
+        font-size: 17px;
+    }
+    .avatar-name2 {
+        font-size: 18px;
+    }  
+    .avatar-title {
+        font-size: 15px;
+    }
+    .avatar-title2 {
+        font-size: 14px;
+    } 
+    .weapon-atk {
+        height: 28px;
+        top: 8px;
+    }
+    .avatar-card {
+        margin-top: 4px;
+        margin-bottom: 4px;
+        width: calc(25% - 10px);
+    }
+    .avatar-card2 {
+        margin-top: 4px;
+        margin-bottom: 4px;
+        width: calc(33% - 8px);
+    }
+}
+
+@media screen and (min-width: 800px) {
+
+    .some_title {
+        font-size: 20px;
+    }
+
+    .anni_p {
+        font-size: 13px;
+    }
+
+    .anni_p_a {
+        font-size: 13px;
+    }
+
+    .anni {
+        top: 9px;
+        right: 9px;
+        width: 34px;
+    }
+
+    .anni img {
+        height: 34px;
+    }
+
+    .boss_tut img {
+        max-width: 500px;
+    }
+
+    .boss_icon a {
+        height: 90px;
+        width: 90px;
+    }
+
+    .boss_desc {
+        font-size: 16px;
+    }
+
+    .select_parts_size_1 schedule {
+        width: 60px;
+        height: 60px;
+        padding: 8px;
+        margin: 0px 5px;
+    }
+
+    .select_parts_size_2 schedule {
+        font-size: 16px;
+        width: 75px;
+        height: 45px;
+        padding: 8px;
+        margin: 0px 5px;
+    }
+
+    .select_parts_size_3 schedule {
+        width: 50px;
+        height: 50px;
+        padding: 7px;
+        margin: 0px 3px;
+    }
+
+    .as_left_name {
+        font-size: 16px;
+    }
+
+    .mtc_upper {
+        font-size: 16px;
+    }
+
+    .mtc_result_item {
+        width: 80px;
+        font-size: 15px;
+    }
+
+    .mtc_1, .mtc_2 {
+        margin-top: 20px;
+    }
+    .mtc_half {
+        width: 50%;
+    }
+
+    .desc {
+        font-size: 15px;
+    }
+    .name {
+        font-size: 17px;
+    }
+    .icon {
+        height: 130px;
+    }
+    .figure {
+        height: 250px;
+        margin: 0 10px;
+    }
+    .figure_2 {
+        height: 140px;
+        margin: 0 10px;
+    }
+    .figure_3 {
+        height: 70px;
+        margin: 0 10px;
+    }
+    .emote {
+        width: 150px;
+        margin: 0 4px;
+    }
+
+    .mat_num {
+        right: 0px;
+        font-size: 14px!important;
+    }
+
+    .cl_data div {
+        margin: 5px 0;
+    }
+    .hn_data div {
+        margin: 5px 0;
+    }
+    .hd_data div {
+        margin: 4px 0;
+    }
+    .boss_data div {
+        margin: 4px 0;
+    }
+    .pic_data div {
+        margin: 4px 0;
+    }
+    .up_data div {
+        margin: 5px 0;
+    }
+    #back_2 {
+        width: calc(100% - 10px);
+    }
+    .relic-card {
+        width: calc(33% - 7px);
+        margin: 4px 0;
+    }
+    schedule.selected {
+        border-width: 2px;
+        height: 83px;
+    }
+    .avatar-stat {
+        font-size: 14px;
+    }
+    .avatar-staticon {
+        height: 27px;
+        width: 27px;
+        top: 8px;
+    }
+    .avatar-head {
+        height: 140px;
+    }
+
+    .head_left {
+        width: 50px;
+        height: 50px;
+    }
+    
+    .head_right {
+        margin: 0 0 0 5px;
+    }
+    .hr_1 {
+        width: calc(100% - 55px);
+    }
+    .hr_2 {
+        width: calc(100% - 110px);
+    }
+    .hr_3 {
+        width: calc(100% - 165px);
+    }
+
+    .showtop {
+        font-size: 38px;
+    }
+
+    .content section.sort schedule {
+        font-size: 16px;
+    }
+
+    .talk {
+        font-size: 17px;
+    }
+
+    .content, .content_2 {
+        padding-top: 15px;
+    }
+
+    .avatar-table {
+        margin-left: -20px;
+        margin-right: -20px;
+        width: calc(100% + 40px);
+        font-size: 16px;
+    }
+
+    .mat-desc {
+        margin: 4px 20px;
+        line-height: 2;
+        font-size: 18px;
+    }
+
+    .mat-desc_ {
+        margin: 6px 16px;
+        line-height: 2;
+        font-size: 17px;
+    }
+
+    .mat-img {
+        height: 240px;
+        margin: auto;
+    }
+
+    .avatar_mat img {
+        width: 62px;
+        margin: auto;
+    }
+
+    .avatar_mat {
+        padding: 0px 12px;
+        line-height: 30px;
+    }
+
+    .battle_desc {
+        margin: 3px 0;
+        width: calc(54% - 8px);
+    }
+
+    .battle_stat {
+        margin: 3px 0;
+        width: calc(46% - 8px);
+    }
+
+    .a_section {
+        margin: 3px 0;
+        width: calc(100% - 10px);
+    }
+
+    .a_section_skill {
+        margin: 3px 0;
+        width: calc(100% - 10px);
+    }
+
+    .a_section_small {
+        margin: 3px 0;
+        width: calc(50% - 8px);
+    }
+
+    .a_section_small_1 {
+        margin: 3px 0;
+        width: calc(40% - 8px);
+    }
+
+    .a_section_small_2 {
+        margin: 3px 0;
+        width: calc(60% - 8px);
+    }
+
+    .a_select span {
+        width: 22%;
+        font-size: 15px;
+    }
+
+    schedule {
+        width: calc((100% - 50px) / 5);
+    }
+
+    .relic_image {
+        width: 100px
+    }
+
+    .TUT_Text {
+        font-size: 17px;
+    }
+
+    .a_section_content {
+        font-size: 17px;
+    }
+
+    .a_section_content span {
+        font-size: 17px;
+    }
+
+    .a_section_content input {
+        font-size: 17px;
+    }
+
+    .a_section_head input {
+        font-size: 17px;
+    }
+
+    .a_section_head,
+    .a_section_head span {
+        font-size: 20px;
+    }
+    
+    .stat_ver_choose_w select,
+    .story_this select {
+        width: 77px;
+        font-size: 14px;
+        height: 26px;
+    }
+
+    .avatar_costume_img {
+        height: 160px;
+    }
+
+    .gacha {
+        width: 100%;
+        margin-left: calc(50% - min(900px, 100%) / 2);
+    }
+    .figure_big {
+        height: 500px;
+    }
+
+    .weaponpic {
+        height: 120px;
+    }
+
+    .weapon-head tr :nth-child(1) {
+        width: 12%
+    }
+
+    .weapon-head tr :nth-child(2) {
+        width: 12%
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    .av {
+        font-size: 14px;
+    }
+    .stat_fin {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .avatar-name {
+        font-size: 18px;
+    }
+    .avatar-name2 {
+        font-size: 18px;
+    }  
+    .avatar-title {
+        font-size: 16px;
+    }
+    .avatar-title2 {
+        font-size: 15px;
+    } 
+    .weapon-atk {
+        height: 30px;
+        top: 9px;
+    }
+    .avatar-card {
+        margin-top: 4px;
+        margin-bottom: 4px;
+        width: calc(20% - 10px);
+    }
+    .avatar-card2 {
+        margin-top: 4px;
+        margin-bottom: 4px;
+        width: calc(25% - 10px);
+    }
+
+    .a_section_skill {
+        margin: 3px 0;
+        width: calc(50% - 8px);
+    }
+}
