@@ -1,0 +1,46 @@
+// Auto Generated
+
+var _weapondesc_ = {
+    "23051": "果ての見えない太古の地で、青年はただひとり、旅を続けている。<br>その時ふと、かつて彷徨い歩いていた日々の光景が脳裏に蘇った。あの頃も今と同じように、荒波を越え、風雪に晒され、巨獣と戦い、逆巻く奔流に抗っていた。<br><br>だが、息をつく束の間の休息は、決して孤独な時間ではなかった。<br>なぜなら遠く、遥か彼方に確かな光が見えていたから——<br><br>それは、すべての生命の願い。<br>砕けた大地では、もう新たな生命は育めない。彼らは青年の元へと集い、慰めと庇護を求めた。<br><br>それは、仲間たちが彼の心に残した言葉の数々であり、まるで終わることのない航路のように彼らをつなぐ堅い絆。<br><br>風と共に、彼を悩ます過去が再び波立ち始める。だが、歩んできたその道のりこそが、やがて新生のための力となるだろう。<br><br><i>「開拓の道は俺が護ろう」</i><br>青年は槍を構え、光の差すほうへと駆けていく——<br><br><i>「そして、一切の消えゆく希望も！」</i>"
+}
+
+var _weaponskill_ = {
+    "23051": {
+        "v1": {
+            "Name": "新鱗",
+            "Desc": [
+                "装備キャラの攻撃力+ <color style='color:#f29e38;'>24%</color> / <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>36%</color> / <color style='color:#f29e38;'>42%</color> / <color style='color:#f29e38;'>48%</color> 、付与するバリアの耐久値+ <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color> / <color style='color:#f29e38;'>45%</color> / <color style='color:#f29e38;'>50%</color> 。装備キャラが必殺技を発動する時、味方全体が装備キャラの攻撃力 <color style='color:#f29e38;'>10%</color> / <color style='color:#f29e38;'>12.5%</color> / <color style='color:#f29e38;'>15%</color> / <color style='color:#f29e38;'>17.5%</color> / <color style='color:#f29e38;'>20%</color> 分のHPを回復し、「守備」を獲得する。「守備」は <b>3</b> ターン継続。「守備」を獲得した味方の与ダメージ+ <color style='color:#f29e38;'>24%</color> / <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>36%</color> / <color style='color:#f29e38;'>42%</color> / <color style='color:#f29e38;'>48%</color> 、さらに召喚物を持つ場合は追加で与ダメージ+ <color style='color:#f29e38;'>12%</color> / <color style='color:#f29e38;'>15%</color> / <color style='color:#f29e38;'>18%</color> / <color style='color:#f29e38;'>21%</color> / <color style='color:#f29e38;'>24%</color> 。"
+            ]
+        },
+        "v2": {
+            "Name": "新たな鱗",
+            "Desc": [
+                "装備キャラの攻撃力+ <color style='color:#f29e38;'>24%</color> / <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>36%</color> / <color style='color:#f29e38;'>42%</color> / <color style='color:#f29e38;'>48%</color> 、付与するバリアの耐久値+ <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color> / <color style='color:#f29e38;'>45%</color> / <color style='color:#f29e38;'>50%</color> 。装備キャラが必殺技を発動する時、味方全体が装備キャラの攻撃力 <color style='color:#f29e38;'>10%</color> / <color style='color:#f29e38;'>12.5%</color> / <color style='color:#f29e38;'>15%</color> / <color style='color:#f29e38;'>17.5%</color> / <color style='color:#f29e38;'>20%</color> 分のHPを回復し、「守備」を獲得する。「守備」は <b>3</b> ターン継続。「守備」を獲得した味方の与ダメージ+ <color style='color:#f29e38;'>24%</color> / <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>36%</color> / <color style='color:#f29e38;'>42%</color> / <color style='color:#f29e38;'>48%</color> 、さらに召喚物を持つ場合は追加で与ダメージ+ <color style='color:#f29e38;'>12%</color> / <color style='color:#f29e38;'>15%</color> / <color style='color:#f29e38;'>18%</color> / <color style='color:#f29e38;'>21%</color> / <color style='color:#f29e38;'>24%</color> 。"
+            ]
+        },
+        "v3": {
+            "Name": "新たな鱗",
+            "Desc": [
+                "装備キャラの攻撃力+ <color style='color:#f29e38;'>24%</color> / <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>36%</color> / <color style='color:#f29e38;'>42%</color> / <color style='color:#f29e38;'>48%</color> 、付与するバリアの耐久値+ <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color> / <color style='color:#f29e38;'>45%</color> / <color style='color:#f29e38;'>50%</color> 。装備キャラが必殺技を発動する時、味方全体のHPを装備キャラの攻撃力 <color style='color:#f29e38;'>10%</color> / <color style='color:#f29e38;'>12.5%</color> / <color style='color:#f29e38;'>15%</color> / <color style='color:#f29e38;'>17.5%</color> / <color style='color:#f29e38;'>20%</color> 回復し、さらに残りHPが最も低い味方のHPを装備キャラの攻撃力 <color style='color:#f29e38;'>10%</color> / <color style='color:#f29e38;'>12.5%</color> / <color style='color:#f29e38;'>15%</color> / <color style='color:#f29e38;'>17.5%</color> / <color style='color:#f29e38;'>20%</color> 回復する。同時に、味方全体は「守備」を獲得する。「守備」は <b>3</b> ターン継続。「守備」を獲得した味方の与ダメージ+ <color style='color:#f29e38;'>24%</color> / <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>36%</color> / <color style='color:#f29e38;'>42%</color> / <color style='color:#f29e38;'>48%</color> 、さらに召喚物を持つ場合は追加で与ダメージ+ <color style='color:#f29e38;'>12%</color> / <color style='color:#f29e38;'>15%</color> / <color style='color:#f29e38;'>18%</color> / <color style='color:#f29e38;'>21%</color> / <color style='color:#f29e38;'>24%</color> 。"
+            ]
+        },
+        "v4": {
+            "Name": "新たな鱗",
+            "Desc": [
+                "装備キャラの攻撃力+ <color style='color:#f29e38;'>24%</color> / <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>36%</color> / <color style='color:#f29e38;'>42%</color> / <color style='color:#f29e38;'>48%</color> 、付与するバリアの耐久値+ <color style='color:#f29e38;'>24%</color> / <color style='color:#f29e38;'>28%</color> / <color style='color:#f29e38;'>32%</color> / <color style='color:#f29e38;'>36%</color> / <color style='color:#f29e38;'>40%</color> 。装備キャラが必殺技を発動する時、味方全体のHPを装備キャラの攻撃力 <color style='color:#f29e38;'>10%</color> / <color style='color:#f29e38;'>12.5%</color> / <color style='color:#f29e38;'>15%</color> / <color style='color:#f29e38;'>17.5%</color> / <color style='color:#f29e38;'>20%</color> 回復し、さらに残りHPが最も低い味方のHPを装備キャラの攻撃力 <color style='color:#f29e38;'>10%</color> / <color style='color:#f29e38;'>12.5%</color> / <color style='color:#f29e38;'>15%</color> / <color style='color:#f29e38;'>17.5%</color> / <color style='color:#f29e38;'>20%</color> 回復する。同時に、味方全体は「守備」を獲得する。「守備」は <b>3</b> ターン継続。「守備」を獲得した味方の与ダメージ+ <color style='color:#f29e38;'>24%</color> / <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>36%</color> / <color style='color:#f29e38;'>42%</color> / <color style='color:#f29e38;'>48%</color> 、さらに召喚物を持つ場合は追加で与ダメージ+ <color style='color:#f29e38;'>12%</color> / <color style='color:#f29e38;'>15%</color> / <color style='color:#f29e38;'>18%</color> / <color style='color:#f29e38;'>21%</color> / <color style='color:#f29e38;'>24%</color> 。"
+            ]
+        },
+        "v5": {
+            "Name": "新たな鱗",
+            "Desc": [
+                "装備キャラの攻撃力+ <color style='color:#f29e38;'>64%</color> / <color style='color:#f29e38;'>80%</color> / <color style='color:#f29e38;'>96%</color> / <color style='color:#f29e38;'>112%</color> / <color style='color:#f29e38;'>128%</color> 。装備キャラが必殺技を発動する時、味方全体のHPを装備キャラの攻撃力 <color style='color:#f29e38;'>10%</color> / <color style='color:#f29e38;'>12.5%</color> / <color style='color:#f29e38;'>15%</color> / <color style='color:#f29e38;'>17.5%</color> / <color style='color:#f29e38;'>20%</color> 回復し、さらに残りHPが最も低い味方のHPを装備キャラの攻撃力 <color style='color:#f29e38;'>10%</color> / <color style='color:#f29e38;'>12.5%</color> / <color style='color:#f29e38;'>15%</color> / <color style='color:#f29e38;'>17.5%</color> / <color style='color:#f29e38;'>20%</color> 回復する。同時に、味方全体は「守備」を獲得する。「守備」は <b>3</b> ターン継続。「守備」を獲得した味方の与ダメージ+ <color style='color:#f29e38;'>24%</color> / <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>36%</color> / <color style='color:#f29e38;'>42%</color> / <color style='color:#f29e38;'>48%</color> 、さらに召喚物を持つ場合は追加で与ダメージ+ <color style='color:#f29e38;'>12%</color> / <color style='color:#f29e38;'>15%</color> / <color style='color:#f29e38;'>18%</color> / <color style='color:#f29e38;'>21%</color> / <color style='color:#f29e38;'>24%</color> 。"
+            ]
+        },
+        "Live": {
+            "Name": "新たな鱗",
+            "Desc": [
+                "装備キャラの攻撃力+ <color style='color:#f29e38;'>64%</color> / <color style='color:#f29e38;'>80%</color> / <color style='color:#f29e38;'>96%</color> / <color style='color:#f29e38;'>112%</color> / <color style='color:#f29e38;'>128%</color> 。装備キャラが必殺技を発動する時、味方全体のHPを装備キャラの攻撃力 <color style='color:#f29e38;'>10%</color> / <color style='color:#f29e38;'>12.5%</color> / <color style='color:#f29e38;'>15%</color> / <color style='color:#f29e38;'>17.5%</color> / <color style='color:#f29e38;'>20%</color> 分回復し、さらに残りHPが最も低い味方キャラのHPを装備キャラの攻撃力 <color style='color:#f29e38;'>10%</color> / <color style='color:#f29e38;'>12.5%</color> / <color style='color:#f29e38;'>15%</color> / <color style='color:#f29e38;'>17.5%</color> / <color style='color:#f29e38;'>20%</color> 分回復する。同時に、味方全体は「守護」を獲得する。「守護」は <b>3</b> ターン継続。「守護」を獲得した味方の与ダメージ+ <color style='color:#f29e38;'>24%</color> / <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>36%</color> / <color style='color:#f29e38;'>42%</color> / <color style='color:#f29e38;'>48%</color> 、さらに召喚物を持つ場合は追加で与ダメージ+ <color style='color:#f29e38;'>12%</color> / <color style='color:#f29e38;'>15%</color> / <color style='color:#f29e38;'>18%</color> / <color style='color:#f29e38;'>21%</color> / <color style='color:#f29e38;'>24%</color> 。"
+            ]
+        }
+    }
+}

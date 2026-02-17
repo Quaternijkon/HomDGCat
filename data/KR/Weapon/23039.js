@@ -1,0 +1,46 @@
+// Auto Generated
+
+var _weapondesc_ = {
+    "23039": "차가운 이슬이 칼끝에 맺히고, 칼을 타고 떨어지면서 핏빛 흔적을 남긴다.<br>녹슨향이 나는 황야 속, 격전으로 불타오른 불길이 여전히 잿더미 위에서 춤을 추고 있다.<br><br><i>「마이데이모스 님, 방금 그 전투는 마치 신과도 같았어요!」</i><br>윗옷을 벗은 전사는 무기를 닦으며 흥분한 채 외쳤다.<br><br><i>「마이데이 님, 앞으로 저도 마이데이 님처럼 백전백승할래요!」</i><br>아이는 부러진 검을 쥔 채, 존경심에 찬 눈빛으로 그를 바라보았다.<br><br><i>「왕세자님, 크렘노스로 돌아갈 날이 얼마 남지 않았습니다」</i><br>오랜 세월을 겪은 노인이 웃으며 술잔을 들고 그에게 인사를 올렸다.<br><br>그는 고개를 끄덕이고는, 계속 야영지 경계선으로 향했다.<br>환생의 고통이 여전히 피부 위를 휘저었다. 내일, 그는 크렘노스 고군을 이끌고 다시 타지로 떠날 것이다.<br>언제까지 정처 없이 떠돌아다닐지 알 수 없었으나, 그가 확신할 수 있는 건 피의 불꽃이 전부 타버릴 때까지 왕의 책임을 짊어지리라는 것이다.<br><br>밤이 점점 더 깊어지자, 그는 홀로 피의 술을 들이켰고, 지나가는 음유시인이 현을 울리자 불안정한 노랫소리가 허공에 울려 퍼졌다——<br><i>「고향은 꿈의 땅이지, 닿을 수 있는 곳이 아니야」</i>"
+}
+
+var _weaponskill_ = {
+    "23039": {
+        "v1": {
+            "Name": "전망",
+            "Desc": [
+                "장착한 캐릭터의 HP 최대치가  <color style='color:#f29e38;'>18%</color> / <color style='color:#f29e38;'>21%</color> / <color style='color:#f29e38;'>24%</color> / <color style='color:#f29e38;'>27%</color> / <color style='color:#f29e38;'>30%</color>  증가하고, 받는 치유량이  <color style='color:#f29e38;'>20%</color> / <color style='color:#f29e38;'>25%</color> / <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color>  증가한다. 전투 스킬 또는 필살기 발동 시 자신의 HP 최대치의  <color style='color:#f29e38;'>6%</color> / <color style='color:#f29e38;'>6.5%</color> / <color style='color:#f29e38;'>7%</color> / <color style='color:#f29e38;'>7.5%</color> / <color style='color:#f29e38;'>8%</color> 만큼 HP를 소모해 이번 공격으로 가하는 피해를  <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color> / <color style='color:#f29e38;'>45%</color> / <color style='color:#f29e38;'>50%</color>  증가시킨다. 해당 효과로 소모된 HP가 <b>500</b>pt보다 높을 경우 피해가 추가로  <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color> / <color style='color:#f29e38;'>45%</color> / <color style='color:#f29e38;'>50%</color>  증가한다.<br>현재 HP가 부족하면 해당 효과는 장착한 캐릭터의 현재 HP를 최대 1pt까지 감소시킨다"
+            ]
+        },
+        "v2": {
+            "Name": "전망",
+            "Desc": [
+                "장착한 캐릭터의 HP 최대치가  <color style='color:#f29e38;'>18%</color> / <color style='color:#f29e38;'>21%</color> / <color style='color:#f29e38;'>24%</color> / <color style='color:#f29e38;'>27%</color> / <color style='color:#f29e38;'>30%</color>  증가하고, 받는 치유량이  <color style='color:#f29e38;'>20%</color> / <color style='color:#f29e38;'>25%</color> / <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color>  증가한다. 전투 스킬 또는 필살기 발동 시 자신의 HP 최대치의  <color style='color:#f29e38;'>6%</color> / <color style='color:#f29e38;'>6.5%</color> / <color style='color:#f29e38;'>7%</color> / <color style='color:#f29e38;'>7.5%</color> / <color style='color:#f29e38;'>8%</color> 만큼 HP를 소모해 이번 공격으로 가하는 피해를  <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color> / <color style='color:#f29e38;'>45%</color> / <color style='color:#f29e38;'>50%</color>  증가시킨다. 해당 효과로 소모된 HP가 <b>500</b>pt보다 높을 경우 피해가 추가로  <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color> / <color style='color:#f29e38;'>45%</color> / <color style='color:#f29e38;'>50%</color>  증가한다.<br>현재 HP가 부족하면 해당 효과는 장착한 캐릭터의 현재 HP를 최대 1pt까지 감소시킨다"
+            ]
+        },
+        "v3": {
+            "Name": "조망",
+            "Desc": [
+                "장착한 캐릭터의 HP 최대치가  <color style='color:#f29e38;'>18%</color> / <color style='color:#f29e38;'>21%</color> / <color style='color:#f29e38;'>24%</color> / <color style='color:#f29e38;'>27%</color> / <color style='color:#f29e38;'>30%</color>  증가하고, 받는 치유량이  <color style='color:#f29e38;'>20%</color> / <color style='color:#f29e38;'>25%</color> / <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color>  증가한다. 전투 스킬 또는 필살기 발동 시 자신의 HP 최대치의  <color style='color:#f29e38;'>6%</color> / <color style='color:#f29e38;'>6.5%</color> / <color style='color:#f29e38;'>7%</color> / <color style='color:#f29e38;'>7.5%</color> / <color style='color:#f29e38;'>8%</color> 만큼 HP를 소모해 이번 공격으로 가하는 피해를  <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color> / <color style='color:#f29e38;'>45%</color> / <color style='color:#f29e38;'>50%</color>  증가시킨다. 해당 효과로 소모된 HP가 <b>500</b>pt보다 높을 경우 피해가 추가로  <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color> / <color style='color:#f29e38;'>45%</color> / <color style='color:#f29e38;'>50%</color>  증가한다.<br>현재 HP가 부족하면 해당 효과는 장착한 캐릭터의 현재 HP를 최대 1pt까지 감소시킨다"
+            ]
+        },
+        "v4": {
+            "Name": "조망",
+            "Desc": [
+                "장착한 캐릭터의 HP 최대치가  <color style='color:#f29e38;'>18%</color> / <color style='color:#f29e38;'>21%</color> / <color style='color:#f29e38;'>24%</color> / <color style='color:#f29e38;'>27%</color> / <color style='color:#f29e38;'>30%</color>  증가하고, 받는 치유량이  <color style='color:#f29e38;'>20%</color> / <color style='color:#f29e38;'>25%</color> / <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color>  증가한다. 전투 스킬 또는 필살기 발동 시 자신의 HP 최대치의  <color style='color:#f29e38;'>6%</color> / <color style='color:#f29e38;'>6.5%</color> / <color style='color:#f29e38;'>7%</color> / <color style='color:#f29e38;'>7.5%</color> / <color style='color:#f29e38;'>8%</color> 만큼 HP를 소모해 이번 공격으로 가하는 피해를  <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color> / <color style='color:#f29e38;'>45%</color> / <color style='color:#f29e38;'>50%</color>  증가시킨다. 해당 효과로 소모된 HP가 <b>500</b>pt보다 높을 경우 피해가 추가로  <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color> / <color style='color:#f29e38;'>45%</color> / <color style='color:#f29e38;'>50%</color>  증가한다.<br>현재 HP가 부족하면 해당 효과는 장착한 캐릭터의 현재 HP를 최대 1pt까지 감소시킨다"
+            ]
+        },
+        "v5": {
+            "Name": "조망",
+            "Desc": [
+                "장착한 캐릭터의 HP 최대치가  <color style='color:#f29e38;'>18%</color> / <color style='color:#f29e38;'>21%</color> / <color style='color:#f29e38;'>24%</color> / <color style='color:#f29e38;'>27%</color> / <color style='color:#f29e38;'>30%</color>  증가하고, 받는 치유량이  <color style='color:#f29e38;'>20%</color> / <color style='color:#f29e38;'>25%</color> / <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color>  증가한다. 전투 스킬 또는 필살기 발동 시 자신의 HP 최대치의  <color style='color:#f29e38;'>6%</color> / <color style='color:#f29e38;'>6.5%</color> / <color style='color:#f29e38;'>7%</color> / <color style='color:#f29e38;'>7.5%</color> / <color style='color:#f29e38;'>8%</color> 만큼 HP를 소모해 이번 공격으로 가하는 피해를  <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color> / <color style='color:#f29e38;'>45%</color> / <color style='color:#f29e38;'>50%</color>  증가시킨다. 해당 효과로 소모된 HP가 <b>500</b>pt보다 높을 경우 피해가 추가로  <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color> / <color style='color:#f29e38;'>45%</color> / <color style='color:#f29e38;'>50%</color>  증가한다.<br>현재 HP가 부족하면 해당 효과는 장착한 캐릭터의 현재 HP를 최대 1pt까지 감소시킨다"
+            ]
+        },
+        "Live": {
+            "Name": "조망",
+            "Desc": [
+                "장착한 캐릭터의 HP 최대치가  <color style='color:#f29e38;'>18%</color> / <color style='color:#f29e38;'>21%</color> / <color style='color:#f29e38;'>24%</color> / <color style='color:#f29e38;'>27%</color> / <color style='color:#f29e38;'>30%</color>  증가하고, 받는 치유량이  <color style='color:#f29e38;'>20%</color> / <color style='color:#f29e38;'>25%</color> / <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color>  증가한다. 전투 스킬 또는 필살기 발동 시 자신의 HP 최대치의  <color style='color:#f29e38;'>6%</color> / <color style='color:#f29e38;'>6.5%</color> / <color style='color:#f29e38;'>7%</color> / <color style='color:#f29e38;'>7.5%</color> / <color style='color:#f29e38;'>8%</color> 만큼 HP를 소모해 이번 공격으로 가하는 피해를  <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color> / <color style='color:#f29e38;'>45%</color> / <color style='color:#f29e38;'>50%</color>  증가시킨다. 해당 효과로 소모된 HP가 <b>500</b>pt보다 높을 경우 피해가 추가로  <color style='color:#f29e38;'>30%</color> / <color style='color:#f29e38;'>35%</color> / <color style='color:#f29e38;'>40%</color> / <color style='color:#f29e38;'>45%</color> / <color style='color:#f29e38;'>50%</color>  증가한다.<br>현재 HP가 부족하면 해당 효과는 장착한 캐릭터의 현재 HP를 최대 1pt까지 감소시킨다"
+            ]
+        }
+    }
+}
