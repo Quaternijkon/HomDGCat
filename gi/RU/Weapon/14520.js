@@ -1,0 +1,29 @@
+// Auto Generated
+
+var _WeaponAffixPConfig_ = {
+    "114520": {
+        "Ver": {
+            "1": {
+                "Affix": [
+                    "Персонаж поблизости, активируя реакцию Лунная бутонизация, получает эффект Растущей луны: его мастерство стихий увеличивается на <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color>  ед. на 10 сек. При нанесении урона элементальным навыком Дендро или Гидро персонаж получает эффект Убывающей луны: его мастерство стихий увеличивается на <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color>  ед. на 4,5 сек. Когда Растущая луна и Убывающая луна действуют одновременно, активируется эффект Лунного цикла: урон реакции Бутонизация всех персонажей отряда увеличивается на <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>150%</color> / <color style='color:#99FFFFFF'>180%</color> / <color style='color:#99FFFFFF'>210%</color> / <color style='color:#99FFFFFF'>240%</color> , реакций Вегетация и Цветение  - на <color style='color:#99FFFFFF'>80%</color> / <color style='color:#99FFFFFF'>100%</color> / <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>140%</color> / <color style='color:#99FFFFFF'>160%</color> , и реакции Лунная бутонизация - на <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> . Этот эффект не складывается."
+                ]
+            },
+            "15": {
+                "Affix": [
+                    "Персонаж поблизости, активируя реакцию Лунная бутонизация, получает эффект Растущей луны: его мастерство стихий увеличивается на <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color>  ед. на 10 сек. При нанесении урона элементальным навыком Дендро или Гидро персонаж получает эффект Убывающей луны: его мастерство стихий увеличивается на <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color>  ед. на 4,5 сек. Когда Растущая луна и Убывающая луна действуют одновременно, активируется эффект Лунного цикла: урон реакции Бутонизация всех персонажей отряда увеличивается на <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>150%</color> / <color style='color:#99FFFFFF'>180%</color> / <color style='color:#99FFFFFF'>210%</color> / <color style='color:#99FFFFFF'>240%</color> , реакций Вегетация и Цветение  - на <color style='color:#99FFFFFF'>80%</color> / <color style='color:#99FFFFFF'>100%</color> / <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>140%</color> / <color style='color:#99FFFFFF'>160%</color> , и реакции Лунная бутонизация - на <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> . Этот эффект не складывается."
+                ]
+            },
+            "2": {
+                "Affix": [
+                    "При нанесении Гидро или Дендро урона элементальным навыком экипированный персонаж получает эффект Молитва севера: мастерство стихий повышается на <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color>  ед. на 4,5 сек. Когда персонажи отряда поблизости активируют реакцию Лунная бутонизация, экипированный персонаж получает эффект Стих новолуния: мастерство стихий повышается на <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color>  ед. на 10 сек. Если Молитва севера и Стих новолуния действуют одновременно, урон реакции Бутонизация всех персонажей отряда поблизости повышается на <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>150%</color> / <color style='color:#99FFFFFF'>180%</color> / <color style='color:#99FFFFFF'>210%</color> / <color style='color:#99FFFFFF'>240%</color> , реакций Вегетация и Цветение - на <color style='color:#99FFFFFF'>80%</color> / <color style='color:#99FFFFFF'>100%</color> / <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>140%</color> / <color style='color:#99FFFFFF'>160%</color> , а реакции Лунная бутонизация - на <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> , причём этот эффект не складывается. Данный эффект срабатывает, даже когда экипированный персонаж не на поле боя."
+                ]
+            }
+        }
+    }
+}
+
+var weapon_story_cache_ = {
+    "194520": [
+        ""
+    ]
+}

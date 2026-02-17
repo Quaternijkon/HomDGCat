@@ -1,0 +1,1144 @@
+// Auto Generated
+
+var _codex = [
+    {
+        "ID": 1,
+        "Codex": [
+            {
+                "Name": "风啸的古代废都",
+                "Desc": "独踞高塔者已经不再。盘旋废都的风低啸着无人可知的最古之事：它过去的主人、风中无名的精灵、以及撼动尖塔的群唱…",
+                "Image": "UI_Codex_Scenery_MDfenglongfeixu"
+            },
+            {
+                "Name": "悠古的千风神殿",
+                "Desc": "环形剧场的古遗迹。悠扬的千风曾经汇集此地，带来无数故事，也让无数故事乘风去往远方。",
+                "Image": "UI_Codex_Scenery_MDqianfengshendian"
+            },
+            {
+                "Name": "曙光初照的庄园",
+                "Desc": "弥漫着葡萄的芬芳与醇厚的酒香，蒙德酒业望族的庄园宅邸。以难以望其项背的佳酿征服了蒙德的酒客，某种意义上是贪恋杯中物之人不得不巡礼的圣地。",
+                "Image": "UI_Codex_Scenery_MDchenxijiuzhuang"
+            },
+            {
+                "Name": "清泉静流之地",
+                "Desc": "宁静祥和的城郊小镇。有着悠久的猎人传统、清澈甘甜的泉水，以及水源中寄寓着某种良善精灵的传说。",
+                "Image": "UI_Codex_Scenery_MDqingquanzhen"
+            },
+            {
+                "Name": "未名的剑冢",
+                "Desc": "数百年过去了，天地已经归复平和。如林的剑冢静静铭记着，过去钢铁交错编织的诗篇，战士吟唱的歌谣，妖物如雷撼动大地的步伐，如同鲜烈的血一般赤红的天空。",
+                "Image": "UI_Codex_Scenery_MDdadawupagu"
+            },
+            {
+                "Name": "风洗的原野",
+                "Desc": "永不止歇的细风洗濯着这片原野。昔日的英雄留下的挺拔巨木在风中轻轻吟籁。",
+                "Image": "UI_Codex_Scenery_MDfengqidi"
+            },
+            {
+                "Name": "西风大教堂",
+                "Desc": "由风神的虔诚信徒经营的宏伟圣堂。<br>过去曾是贵族炫耀权威的大殿。",
+                "Image": "UI_Codex_Scenery_MDxifengdajiaotang"
+            },
+            {
+                "Name": "西风骑士团 · 图书馆",
+                "Desc": "北大陆藏书数目最多的图书馆。除「禁书区」的书籍外，所有馆藏皆可供公众自由阅览。",
+                "Image": "UI_Codex_Scenery_MDtushuguan"
+            },
+            {
+                "Name": "风之城",
+                "Desc": "风会将蒲公英的种子、诗歌与故事带到远方，也会将温柔的旅人带到自己的国度。欢迎来到蒙德。",
+                "Image": "UI_Codex_Scenery_MDmengdecheng"
+            },
+            {
+                "Name": "守护神像的湖泽",
+                "Desc": "曾有诗歌说：星辰坠入此间大地，造就了湖泽。但也有其他的诗歌说，就连星辰也会为这如同风神的明眸般清澈的景象倾倒，落入湖中。",
+                "Image": "UI_Codex_Scenery_MDxingluohu"
+            }
+        ]
+    },
+    {
+        "ID": 2,
+        "Codex": [
+            {
+                "Name": "碧水沉暮辉",
+                "Desc": "最后的玉珑在这里沉落千丈沧渊，最初的心愿在这里化作万寻江烟。",
+                "Image": "UI_Codex_Scenery_LYZhuShiJue"
+            },
+            {
+                "Name": "翘英日暖絮花轻",
+                "Desc": "当春日温煦的柔风再度抚过沉玉的山野，那馥郁的茶香也会伴着轻舞的魂香花瓣，如昔时一般，再度飘遍安宁的街巷…",
+                "Image": "UI_Codex_Scenery_LYQiaoYingZhuang"
+            },
+            {
+                "Name": "昔古的宿诺",
+                "Desc": "「…等这棵树长大一些，我便把叶子摘了，在这里研茶给你们喝…」",
+                "Image": "UI_Codex_Scenery_LYGuShuChaWang"
+            },
+            {
+                "Name": "赤望高丘",
+                "Desc": "如今早已被遗忘的古老年岁里，沉玉的先民曾将此地称作「悬圃」。昔日辉煌的国度散作诸多部族，诸多部族又再度统一于繁荣的国度，而沉玉谷的灵脉只是一如当初，忠实地汇集于此处。",
+                "Image": "UI_Codex_Scenery_LYLaiXinShanDing"
+            },
+            {
+                "Name": "来歆的痕影",
+                "Desc": "「匪石斯沉，惟时来歆。」",
+                "Image": "UI_Codex_Scenery_LYLaiXinShan"
+            },
+            {
+                "Name": "荒祠枕山麓",
+                "Desc": "在老人们的传说中，沉玉谷的先民自遥远的南方迁居而来，他们在此地筑起了直通高天的祭台，留下了无数恢宏的殿宇。玉造的祭台早已无处可寻，唯有那些缄默的古老废墟依然伫立在浓雾缭绕的山岭中，看守着再也无人知晓的秘密。",
+                "Image": "UI_Codex_Scenery_LYXianMingYiJi"
+            },
+            {
+                "Name": "悬练垂晴",
+                "Desc": "「万斛凝岚结昼阴，千寻悬瀑垂晴练。」",
+                "Image": "UI_Codex_Scenery_LYXuanLianShan"
+            },
+            {
+                "Name": "王山遗威",
+                "Desc": "昔日，古华派势盛之时，各路豪杰曾聚义于此，觥筹交错，行歌之声不绝于耳。尽管如今门派业已式微，恢宏的厅堂依然伫立在此处，铭刻着被称作「侠义」的昨日。",
+                "Image": "UI_Codex_Scenery_LYGuHuaPaiDaMen"
+            },
+            {
+                "Name": "泓浄的余音",
+                "Desc": "「…宝玦沉，玉珑出…人间得失本相同，世事浮沉总难疏；万古兴亡俱是梦，一江流水自如初…」",
+                "Image": "UI_Codex_Scenery_LYHuDiMiJing"
+            },
+            {
+                "Name": "药笼的枢庭",
+                "Desc": "昔日被奉为「药君」的仙人已经离去，如今留在此地的唯有无数空置的药笼。直到战争的最后，那扶危济困的悲愿都未曾动摇。",
+                "Image": "UI_Codex_Scenery_LYYaoGuanZiDong"
+            },
+            {
+                "Name": "彩蝶翩绵之谷",
+                "Desc": "远离尘世喧嚣的仙家洞府。传说在遥远的过去，因战乱而流离失所的先民曾经蒙受名为「浮锦」的仙人庇佑，在此躲避外界的祸殃。文明的火种最终得以留存，而非消逝于滔天的山洪。",
+                "Image": "UI_Codex_Scenery_LYYaoDieGu"
+            },
+            {
+                "Name": "云瀑万寻遗珑埠",
+                "Desc": "沿着碧水河溯流而上，邻接瀚海的万丈悬瀑间，坐落着繁荣的商港。人稠物穰，无数商贾与海员的谈笑，伴随着街头巷尾的叫卖声，构成了璃月北境别具一格的风光。",
+                "Image": "UI_Codex_Scenery_LYYiLongBu"
+            },
+            {
+                "Name": "碧水的玉玦歌",
+                "Desc": "「…幽谷涟涟泉响圜，灵龛先出东北岸，幽峦岸峻藏西南；乾阳临坤自相隔，长流涡不转，美玉藏其间…」",
+                "Image": "UI_Codex_Scenery_LYBaoJueKou"
+            },
+            {
+                "Name": "巨柱岩宫",
+                "Desc": "#「尽管前辈警告再三，我还是跟随着{M#他}{F#她}的脚步来到了这片区域。」<br>「天空般湛蓝的晶石巨柱，是我难以理解的景象…这是绝不属于大地的造物，只可能来自同它一般耀眼的天空。」<br>「为了破解它的谜团，我决定通过隐秘的通道继续向深处探索…不知之后还能走多远，能否留下任何记录…」",
+                "Image": "UI_Codex_Scenery_JYDaSuiPianJieSuo"
+            },
+            {
+                "Name": "大蘑菇之地",
+                "Desc": "「生长着奇怪巨大蘑菇的地下洞穴，似乎能听到诡异的呼唤声。也许是我的幻觉，出现幻觉则说明这里应该充满了有毒气体，应该尽快离开。」",
+                "Image": "UI_Codex_Scenery_JYDaMoGu"
+            },
+            {
+                "Name": "颠倒古城",
+                "Desc": "「独自探索的路上，发现了这座宏大可怖的遗迹。或许是千百年前遭受惩罚而湮灭的古老文明，这座古城似乎在抗拒着外人的存在…或许与那些来历不明的紫黑色晶体与泥状物有关。」<br>「驻足片刻，我只得远离这不祥的倒吊剪影。」",
+                "Image": "UI_Codex_Scenery_JYDianDaoYiJiJieSuo"
+            },
+            {
+                "Name": "晶石碎片",
+                "Desc": "「曾经存在于此的晶石正是当年迫使层岩巨渊关闭的『元凶』，如今它的异动又令总务司惊悚不已。」<br>「幸有前辈相助，它已经回归了地下更深处的渊薮，空留这座冷峻的『岩石行宫』。」",
+                "Image": "UI_Codex_Scenery_JYXiaoSuiPianJieSuo"
+            },
+            {
+                "Name": "地下水泽",
+                "Desc": "「独自勘探的路上，发现了这处水泽。池水清凉洁净，在这里放松一下正好，将一路上的晦气洗濯一空。」<br>「附近徘徊着一些温和的元素生物，慢悠悠的，罕见的与世无争之物…将它画在了地图上，如果前辈能顺着地图来到这里就好了。」",
+                "Image": "UI_Codex_Scenery_JYDiXiaShuiZe"
+            },
+            {
+                "Name": "被阻塞的矿道",
+                "Desc": "「当年撤离层岩巨渊的工人们将通往更深处的矿道封闭了，却保留下来了一尊『开山炮』。」<br>「或许是当年大人物的特别指令吧…璃月蓬勃的商业，可不能离开琉璃晶砂的滋养太久。」",
+                "Image": "UI_Codex_Scenery_JYQianXianZhanDao"
+            },
+            {
+                "Name": "地下矿区",
+                "Desc": "「我曾在明蕴镇矿区长大，矿工们热闹嘈杂的劳动生息、矿工们的喜怒哀乐，占满了我的整个童年生活。」<br>「如今面对更加宏大却寂静无人的地下矿道，心中有如昨日重现，只不过是更加寂寥忧郁的昨日…」",
+                "Image": "UI_Codex_Scenery_JYKaiCaiKuangQuZhu"
+            },
+            {
+                "Name": "伏鳌谷古战场",
+                "Desc": "「此地曾是若陀龙王与岩王帝君死斗的战场。我只是一个经验浅薄的年轻冒险家，提笔弄墨本非所长…但目睹这样的奇观，仍然不觉感慨。」<br>「与不舍昼夜的时空、震天撼地的巨神相比，我们身为凡人如何渺小…」",
+                "Image": "UI_Codex_Scenery_CYGuZhanChang"
+            },
+            {
+                "Name": "矿坑巨口",
+                "Desc": "「层岩巨渊矿井的入口，被矿工们敬畏地称作『巨渊之口』。最近那场地震发生后，本就被七星封闭的坑口更显诡谲难测…」<br>「在前辈的忙碌下，封印巨口的法印终于被解除了。希望『七星』不要怪罪下来才好…」",
+                "Image": "UI_Codex_Scenery_CYJuYuanDongKouJieSuo"
+            },
+            {
+                "Name": "层岩巨渊地面景观",
+                "Desc": "「初来此地时，望见如此奇迹般的可怖地貌曾一度惊愕失声…那时的震撼与敬畏感，至今没有忘记。」<br>「但被总务司支使着跑上跑下久了，就算再巧夺天工的奇景也难免厌烦了…」<br>「说到这里，不得不多谢前辈的相助，我才能继续自己的冒险…」",
+                "Image": "UI_Codex_Scenery_CYCengYanJuYuanZhu"
+            },
+            {
+                "Name": "瀚海孤云",
+                "Desc": "传说是帝君镇压海中妖物留下的孤傲石峰。据说，心神敏感者偶然会在睡梦中听见，磐岩镇压的海床深处传来的某种律动。",
+                "Image": "UI_Codex_Scenery_LYguyunge"
+            },
+            {
+                "Name": "绯云坡",
+                "Desc": "诸商行兴隆发达，居民富足无忧的繁华之所，灯火熙熙攘攘，长明不灭。",
+                "Image": "UI_Codex_Scenery_LYfeiyunpo"
+            },
+            {
+                "Name": "吃虎岩",
+                "Desc": "璃月港永远搏动的心脏，为之输送活力十足的血液。此处忙碌热闹的市井景象，正是璃月港无限生机之所在。",
+                "Image": "UI_Codex_Scenery_LYchihuyan"
+            },
+            {
+                "Name": "玉京台",
+                "Desc": "远离嚣闹的港口，依着天衡山高高升起。「七星」与诸商会的首脑，在此驱动着璃月驶向无止境的平稳与繁华。",
+                "Image": "UI_Codex_Scenery_LYyujingtai"
+            },
+            {
+                "Name": "千船万商云集之地",
+                "Desc": "千帆汇集的繁荣海港。在无数契约规约之下，百货迭出，宝飨七国。欢迎来到璃月，遍行四方的旅人。",
+                "Image": "UI_Codex_Scenery_LYliyuegang"
+            },
+            {
+                "Name": "层岩巨渊外",
+                "Desc": "连接璃月港与名为层岩巨渊的巨大矿坑的中转站，近来因为层岩巨渊深处的某种变故而停止运作。",
+                "Image": "UI_Codex_Scenery_LYkuangchang"
+            },
+            {
+                "Name": "遁玉古陵",
+                "Desc": "「美玉遁藏之地」。但昔日发生在此地的战争早已结束，因玉而辉的古陵早已毁灭。如今只有流水之声陌陌低语。",
+                "Image": "UI_Codex_Scenery_LYdunyuling"
+            },
+            {
+                "Name": "青墟孤楼",
+                "Desc": "矗立在青潭之间的荒废城楼。如今依旧守护着早已化为土灰的高傲过往。",
+                "Image": "UI_Codex_Scenery_LYqingxupu"
+            },
+            {
+                "Name": "靖世九柱",
+                "Desc": "浅眠在翠玦坡的山谷深处的，传说祓除妖异、靖却世间邪妄的九柱石锁。",
+                "Image": "UI_Codex_Scenery_LYjingshijiuzhu"
+            },
+            {
+                "Name": "盈泪的故园",
+                "Desc": "传说是深情清澈的相思盈满了旧日的园圃，造就了渌华池如今的景象。",
+                "Image": "UI_Codex_Scenery_LYluhuachi"
+            },
+            {
+                "Name": "归离城墟",
+                "Desc": "曾经盛开着某种花卉的繁华城集。但美梦最终醒转，乐土终究毁于乱世，归人复离。",
+                "Image": "UI_Codex_Scenery_LYguiliyuan"
+            },
+            {
+                "Name": "沐浴月光之树",
+                "Desc": "枝头流淌着清冷的月光的奇树。深入地心的根系末端，是否又连结着某种等待着再次沐浴月光的悠古之物呢…",
+                "Image": "UI_Codex_Scenery_LYnantianmen"
+            },
+            {
+                "Name": "雾海中的石林",
+                "Desc": "云中有如亭阁般耸立的石峰。纵使知晓此间绝非凡人应当涉足之地，这样的华光雾海也会有如漩涡一般，吸引着憧憬天空、憧憬仙居之人吧。",
+                "Image": "UI_Codex_Scenery_LYhuaguanglin"
+            },
+            {
+                "Name": "千峰绝云之间",
+                "Desc": "传说仙家寄寓此间千百石峰与翻腾云霭之间。是凡骨之躯难以企及的地方。",
+                "Image": "UI_Codex_Scenery_LYjueyunjian"
+            },
+            {
+                "Name": "水泽荻原",
+                "Desc": "此间是沙沙作响的荻草与蛙声和鸣之地，也是古代无数侠客最后的安息之所。",
+                "Image": "UI_Codex_Scenery_LYdihuazhou"
+            },
+            {
+                "Name": "轻策山间",
+                "Desc": "高大的轻策山慈悲地怀抱着安乐无虞的村庄，静静守护着其中的老者、孩童与丰饶的田地。而山下镇压着古老妖异的传说早已同讲述者一齐老去，亦不复归。",
+                "Image": "UI_Codex_Scenery_LYqingcezhuang"
+            },
+            {
+                "Name": "远眺高车之所",
+                "Desc": "端坐荻花洲南端的客栈，似乎也承担着客栈以外的使命。据说望舒客栈的楼阁是恋人共约赏月的胜地。坊间有传说道，纵然贵为仙人者，偶尔也会在此沐浴清冷的月光…",
+                "Image": "UI_Codex_Scenery_LYwangshukezhan"
+            }
+        ]
+    },
+    {
+        "ID": 3,
+        "Codex": [
+            {
+                "Name": "鹤观",
+                "Desc": "「啊啊，美丽的鸟，如神的鹫鸟啊。」<br>「我们一同沉睡在蛛丝般的雾巢中。」",
+                "Image": "UI_Codex_Scenery_DQ3heguan"
+            },
+            {
+                "Name": "代宫司寝子大人的居所",
+                "Desc": "「『阿响』会回来的。」<br>「多亏了汝等，神社打理得很好了。她很快就会回来了。」",
+                "Image": "UI_Codex_Scenery_DQ2qianlaishenshe"
+            },
+            {
+                "Name": "寂静的渔村",
+                "Desc": "旧日的笑语蝉鸣终湮于雷的威声。今人只记得，这是一座因无羁的雷电而废弃的村庄。",
+                "Image": "UI_Codex_Scenery_DQ2yueshicun"
+            },
+            {
+                "Name": "搁浅的旗舰",
+                "Desc": "破落的安宅船也曾经历宏伟年代，星光垂泪的遗骸中，依稀可见在昔日巫女与乡老祝福下骄傲扬帆的光景。",
+                "Image": "UI_Codex_Scenery_DQ2qinglaiwan"
+            },
+            {
+                "Name": "雷云旋聚之处",
+                "Desc": "海天变色的大战已成为渐被遗忘的过去，应唤而来的悠远雷暴依然在此驻留。",
+                "Image": "UI_Codex_Scenery_DQ2leibao"
+            },
+            {
+                "Name": "海渊民的村落",
+                "Desc": "海祇岛上的古老村庄，据说其居民祖辈自海渊而来。<br>也是对向「眼狩令」揭旗抵抗之人重要的据点。",
+                "Image": "UI_Codex_Scenery_DQ2wanglongcun"
+            },
+            {
+                "Name": "月浴之渊",
+                "Desc": "「渊下宫」入口之所在，池水终年闪烁着比拟月华的磷光，因而得名「月浴」。",
+                "Image": "UI_Codex_Scenery_DQ2yuanxiagong"
+            },
+            {
+                "Name": "珠光弥布的宫阙",
+                "Desc": "海祇岛住民的政治中心与信仰集聚之地，礁岩与巨贝拱卫的宫阙隐居着蛇神的孑遗。",
+                "Image": "UI_Codex_Scenery_DQ2shanhugong"
+            },
+            {
+                "Name": "八酝岛 · 裂谷",
+                "Desc": "传说中，终结蛇神的一刀正是在此处斩下的。在这道横贯八酝岛的深邃峡谷中，雷光的残响至今不绝，仿佛属雷的精灵仍在喋喋不休地议论着数千年前，划开天空与大地的传奇光景…",
+                "Image": "UI_Codex_Scenery_DQwuxiangrenxiajian"
+            },
+            {
+                "Name": "战火中的滩涂",
+                "Desc": "「名椎」在稻妻先民的古老语言中有「为神灵之手温柔爱抚」之含义。但讽刺的是，自千百年前至今，名椎滩便饱受战乱的摧残，落得居民寥寥，也成了拾荒者与海贼的天地。",
+                "Image": "UI_Codex_Scenery_DQmingzhuitan"
+            },
+            {
+                "Name": "高眺之蛇首",
+                "Desc": "传说中曾经深入深海的巨蛇，最终在八酝岛归于沉默。又有传说说海风穿过巨蛇的双眼、利齿时会发出阵阵如同哨子的声响，那是它为自己所作的镇魂诗。如今这首镇魂诗也同样为所有在战争中倒下、流离失所的人而吟。",
+                "Image": "UI_Codex_Scenery_DQlongtou"
+            },
+            {
+                "Name": "神无冢 · 阵前",
+                "Desc": "传说在数百年前的灾事中，将军殿下倚重的凡人名将九条重赖短短一夜间便筑起阵城，与漆黑的军势对抗，高扬「雷之三重巴」的旗印。数百年后，九条家的后人亦传承了出色的军事工程技术。",
+                "Image": "UI_Codex_Scenery_DQjiutiaozhenwu"
+            },
+            {
+                "Name": "远眺踏鞴之岛",
+                "Desc": "此处重峦叠嶂的环形岛屿是幕府的冶炼设施的最佳地形屏障。此处宏伟的巨型高炉曾源源不断地为稻妻生产高质量玉钢。但近来由于战事，驱动生产的「御影炉心」遭到了破坏。",
+                "Image": "UI_Codex_Scenery_DQgaolu"
+            },
+            {
+                "Name": "影向山 · 鸣神大社",
+                "Desc": "鸣神大社坐落于影向山顶，守护着独一无二的神樱，是稻妻最大的神社。在并不太平的今日，为稻妻的民众提供可贵的慰藉与安宁。",
+                "Image": "UI_Codex_Scenery_DQmingshendashe"
+            },
+            {
+                "Name": "稻妻城 · 城郊",
+                "Desc": "沿古老的坂道逐步上行，稻妻城的城郊是一片颇有古风的闲适景象。似乎城内的繁华胜景并未感染此处的风光。将军的威势与恩惠同样在此弥布，带来了静谧而别样的生机。",
+                "Image": "UI_Codex_Scenery_DQdaoqichengyangjiao"
+            },
+            {
+                "Name": "稻妻城 · 天领",
+                "Desc": "诸多街巷坂道延伸交割，最终集于天守前。天守是稻妻无可置疑的权力中心，在大御所将军殿下永恒静谧的注视下，熙攘的万民终将摆脱执念的烦恼，走向不再需要追逐竞夺愿望的乐土——只不过，将军所见的那片净土，究竟是何风景呢？",
+                "Image": "UI_Codex_Scenery_DQdaoqichengfujiao"
+            },
+            {
+                "Name": "月光下的神林",
+                "Desc": "传说在过去，这片神林曾是诸多妖怪栖身之处。如今，关于这片静谧的林地，仍有妖狸的「狸囃子」传说。",
+                "Image": "UI_Codex_Scenery_DQshouhuzhisen"
+            },
+            {
+                "Name": "鸣神 · 离岛",
+                "Desc": "传说数百年前，勘定奉行柊弘嗣曾从荒岛之上奇迹般地建起一座繁荣的商贸中心，令将军殿下刮目相看。「锁国令」实行的日子里，勘定奉行府上依旧灯火通明，来自远国的商户却已寂寥怆然，不复百年前熙攘之貌。或许这便是凡人之业的最好写照：成于一夕者，亦将败于一朝。",
+                "Image": "UI_Codex_Scenery_DQlidao"
+            }
+        ]
+    },
+    {
+        "ID": 4,
+        "Codex": [
+            {
+                "Name": "源水之国",
+                "Desc": "正义将使真理昭示，恶者受罚，善者得偿。而你我不过是源水中的一滴，最初的愿望也终将随飞湍急流一道沉没，与被遗忘的乐符与暗语一同埋葬。",
+                "Image": "UI_Codex_Scenery_FDFengDanGang"
+            },
+            {
+                "Name": "万千子种的母树",
+                "Desc": "「赞美万千子种的母树，熄灭几欲焚天的劫火，降下涤荡污秽的甘霖。彼日灵光神耀，有如自灰暗山头初升的旭日。」",
+                "Image": "UI_Codex_Scenery_XMWanZhongMuShu"
+            },
+            {
+                "Name": "甘露滋养的归巢",
+                "Desc": "至纯的甘露滋养了花灵们的故园，那是唯有无垢的勇士才被允许踏入的禁囿。散落四方的灵光百种，最终亦将汇聚于此。",
+                "Image": "UI_Codex_Scenery_XMHuaHai"
+            },
+            {
+                "Name": "不再受垢的渊谷",
+                "Desc": "「…渊底流溢的污泥终究退去，荼诃的遗胤也慑服于正法。千歌齐唱，霖雨暂息。」",
+                "Image": "UI_Codex_Scenery_XMTuMiHeiYuan"
+            },
+            {
+                "Name": "永世叹息之门",
+                "Desc": "恢弘崇高的巨扉不过是通往地下世界的边门。如今重门紧锁，门后一度繁荣的古国也已化为丘墟。",
+                "Image": "UI_Codex_Scenery_XMKanRuiYaDaMen"
+            },
+            {
+                "Name": "废弃工坊的熔炉",
+                "Desc": "在过去，曾有人类试图凭借自己的力量超越神明，这座巨大的熔炉似乎便是其象征。<br>虽然古老的工坊早已无人维护，但熔炉中的火光却依旧生辉。",
+                "Image": "UI_Codex_Scenery_XMShenKengYiJiDaLuZi"
+            },
+            {
+                "Name": "荒原顶上的古松",
+                "Desc": "寄宿在高耸的跋尔松中的善灵曾庇护过诸多归乡的勇士，然而古老的盟约今已无人能识…",
+                "Image": "UI_Codex_Scenery_XMJuanShuJuShu"
+            },
+            {
+                "Name": "永恒宁静的乐园",
+                "Desc": "「…它的绿叶不会被秋风的手夺去，它的新春的快乐不会被时序的循环变为岁暮的残景…」",
+                "Image": "UI_Codex_Scenery_XMyonghenglvzhou"
+            },
+            {
+                "Name": "愚人众远征队的临时总部",
+                "Desc": "在呢喃低语的古老神龛之间，远北雪国的先遣部队在这里扎下了营地。",
+                "Image": "UI_Codex_Scenery_XMyurenzhonglinshidian"
+            },
+            {
+                "Name": "旧日园圃的残迹",
+                "Desc": "没入黑暗的裂谷之前，居尔宫城的大门曾是诗人与美人群聚之所。<br>只有人中的精英才有资格在此地游览园圃，面见高贵的人王…",
+                "Image": "UI_Codex_Scenery_XMjuerchengdamen"
+            },
+            {
+                "Name": "利露帕尔的监牢",
+                "Desc": "如今化作绿洲的监牢，曾监禁着怎样的重犯？<br>她的醒转，将为孤独的沙漠部族带来怎样的转机？",
+                "Image": "UI_Codex_Scenery_XMdashufang"
+            },
+            {
+                "Name": "「神的棋盘」",
+                "Desc": "被沙漠部族称为「神的棋盘」，如今已残缺失落的广场。<br>学者们则认为这里曾是为古老机关实战训练准备的「演习场」。",
+                "Image": "UI_Codex_Scenery_XMshenzhiqipan"
+            },
+            {
+                "Name": "巨人折胫之处",
+                "Desc": "「折胫谷」之名古已有之，如今钢铁的巨人在这里失足陨落， 岂不是为这个名字更增添了分量？",
+                "Image": "UI_Codex_Scenery_XMjiqirenshakeng"
+            },
+            {
+                "Name": "生命枯焦之殿",
+                "Desc": "居尔城的旧日之人曾在这些长廊与殿堂中培育多彩的植物与肥美的蕈类，但遗忘令一切生命重归贫瘠…",
+                "Image": "UI_Codex_Scenery_XMcaoshendong"
+            },
+            {
+                "Name": "醴泉干涸之殿",
+                "Desc": "居尔城的旧日之人曾在这些长廊与殿堂中以美酒与歌舞纪念花园的曼妙岁月，但遗忘令一切酣乐零落成砂…",
+                "Image": "UI_Codex_Scenery_XMhuashendong"
+            },
+            {
+                "Name": "藏匿遗迹的裂口",
+                "Desc": "壮伟的居尔城及其间崛起的广厦，最终难逃沉入漆黑裂谷的下场。<br>仿佛毁灭本身还不够屈辱一般，旧日的楼宇和庄园又被横行沙漠的匪类占据…",
+                "Image": "UI_Codex_Scenery_XMjurenxiagu"
+            },
+            {
+                "Name": "被遗忘的河谷",
+                "Desc": "曾经灌溉「五绿洲」的伟大河谷，居尔城贵胄曾在其中乘画舫巡游，放飞矫捷的猎鹰…<br>但那骄傲猎鹰的后代，最终却蜕变成了狂野的沙漠赤鹫…",
+                "Image": "UI_Codex_Scenery_XMtujiuchaoxue"
+            },
+            {
+                "Name": "失落的隐居行宫",
+                "Desc": "传说赤王的眷友曾在沙丘下的庞大空洞中修筑行宫…<br>沙虫曾是它的廷臣，飞蛇曾是它的友伴。但在今日，它们一并失去了高贵的神智与光彩。",
+                "Image": "UI_Codex_Scenery_XMcaolongdong"
+            },
+            {
+                "Name": "沙虫隧道",
+                "Desc": "人的殿堂早已陨落，沙虫占据了此处，将之改造成自己的宫廷与花园…",
+                "Image": "UI_Codex_Scenery_XMshachongdong"
+            },
+            {
+                "Name": "威权尽葬之殿",
+                "Desc": "居尔城的旧日之人曾在这些长廊与殿堂中祭祀沙漠神王，但遗忘令尊贵与卑贱失却了意义…",
+                "Image": "UI_Codex_Scenery_XMchiwangdong"
+            },
+            {
+                "Name": "被神遗弃的殿阁",
+                "Desc": "居尔城的神殿废墟。在沙漠人的歌谣中曾是长寿的巨人所居之处。<br>但一夜之间，巨人跌入大地的裂口，不知所踪…宏大的神殿也化作了裂谷中的废墟。",
+                "Image": "UI_Codex_Scenery_XMliushayiji"
+            },
+            {
+                "Name": "塔尼特部族宿营地",
+                "Desc": "某座古老建筑的部分废墟，一度寄宿着旧日之人的幽灵…<br>如今寄宿在这里的则是一支名为「塔尼特」的沙漠部族。",
+                "Image": "UI_Codex_Scenery_XMheishi"
+            },
+            {
+                "Name": "「月蓝运河」",
+                "Desc": "在沙漠人的古老民谣中，这里曾是三条运河交汇之处，孕育了肥沃的田野与富庶的庄园。<br>但过去繁荣的景象，如今只留存于日渐褪色的睡梦之中了…",
+                "Image": "UI_Codex_Scenery_XMsanyunhe"
+            },
+            {
+                "Name": "沙暴不息的达马山",
+                "Desc": "达马山的中央永远回旋着不散的沙暴。<br>沙漠人口口相传，称在那沙暴的中央正隐藏着「永恒绿洲」之所在。",
+                "Image": "UI_Codex_Scenery_XMshavbaoyuanjing"
+            },
+            {
+                "Name": "远眺葱茏之野",
+                "Desc": "从荒芜的沙漠远眺藏匿智慧的森林国度，深绿的遥远剪影阻隔在阻拦沙暴的高墙之后，冷眼睥睨着热风中飘摇的沙之国度…<br>赤王之国覆灭后破碎诸国的时代，藩王们也曾以嫉恨的目光，在此遥望丰裕的国土吧…",
+                "Image": "UI_Codex_Scenery_XMYuanTiaoXuMiCheng"
+            },
+            {
+                "Name": "并无活力的活力之家",
+                "Desc": "以对患者的祈愿而命名的医院，如今不见了医者的身影与病愈者的欢歌，只剩下一片残迹。",
+                "Image": "UI_Codex_Scenery_XMMoLinBingYiYuan"
+            },
+            {
+                "Name": "风蚀谷地中的巨人",
+                "Desc": "巨人在山谷之间归于沉寂，过往黑渊的魔群仿佛是诗歌的夸张叙事。只有那足够摧山崩岩的力量，是学者所言非虚的最好证明。",
+                "Image": "UI_Codex_Scenery_XMDaJiQiRen"
+            },
+            {
+                "Name": "阿如的倒影",
+                "Desc": "在赤王陵顶端的顶端，并没有令人垂涎的宝藏，亦没有镶嵌宝石的殿宇，只有与沙漠别无二致的荒芜与衰颓，只有那宏大梦想破碎的痕迹。",
+                "Image": "UI_Codex_Scenery_XMARuDeDaoYing"
+            },
+            {
+                "Name": "无底的大厅",
+                "Desc": "传说，在沙漠的深处，古老的神明试图将神话中的幽冥与天国一一再现，让那些有罪之人堕入幽冥，受他眷顾的子民居于乐土。",
+                "Image": "UI_Codex_Scenery_XMDuETing"
+            },
+            {
+                "Name": "圣显厅",
+                "Desc": "「黄金的梦乡在召唤流浪的沙子，在这里不必将那苦涩的盐水掬饮，在这里不会再有明日的愁肠。」",
+                "Image": "UI_Codex_Scenery_XMSengXianTing"
+            },
+            {
+                "Name": "深埋地下的千间宫室",
+                "Desc": "在黄沙无法肆虐的幽暗处，无数间宫室与塑像久久沉睡，等待着自己的主人再度巡游至此的时日…",
+                "Image": "UI_Codex_Scenery_XMDiXiaDongXue"
+            },
+            {
+                "Name": "赤王陵",
+                "Desc": "巨大的锥体像是支撑在高天与黄沙之间的柱石，从不知何时的过去就伫立于沙漠正中。站在它的面前，无论是平民、富有者亦或是饱识的学者，都不过是几粒沙尘。",
+                "Image": "UI_Codex_Scenery_XMChiWangLing"
+            },
+            {
+                "Name": "赛莫德绿洲",
+                "Desc": "金瞳的赛莫德人同他们七重城墙的宏伟城邦崛起于古国的尸骸之上，旋又覆灭于诸国争斗的漩涡之中…<br>短寿的国度沦亡已久，绿洲却仍如宝石一般点缀在沙海之上，以甘泉芳草招待往来的商队与流浪者。",
+                "Image": "UI_Codex_Scenery_XMLvZhou"
+            },
+            {
+                "Name": "遗民聚居之所",
+                "Desc": "「蓝宝石之城」图莱杜拉的巧舌诗人、萨勒赫城金瞳的赛莫德角斗士，阿伊 · 哈努姆的镇灵…赤王的伟大国度崩溃后产生和消亡的无数国度、英雄及其故事，在这座村庄化作了古老的童谣，轻响在幼童的枕边…<br>长年以来，赤王的遗民早已混淆了历史与传说的界限，将之交融成浑然一体的回忆…",
+                "Image": "UI_Codex_Scenery_XMARuCun"
+            },
+            {
+                "Name": "「背弃之塔」",
+                "Desc": "赤王逝去后矗立于此的宏大尖碑，沙漠住民称之为「背弃之塔」，将它们视作耻辱的标志，意味着沙漠诸王背弃了同赤王的誓约…<br>它们的真实历史或许早于短寿的沙漠诸国，但早已被今人遗忘。",
+                "Image": "UI_Codex_Scenery_XMJuDaFangJianBei"
+            },
+            {
+                "Name": "飞沙起舞的不毛地",
+                "Desc": "防沙壁以西，曾经也是一位神明的居所，也许在那时，沙漠也曾经是众生的乐园，智慧汇聚之所。而不是如同今日这般，举目所见，除却风暴以外，只有让人徒生感叹的陈迹。",
+                "Image": "UI_Codex_Scenery_XMShaMoQuanJing"
+            },
+            {
+                "Name": "苗圃的新芽",
+                "Desc": "森林会记住一切。",
+                "Image": "UI_Codex_Scenery_XMWuLiuTuoBOSSZhanChang"
+            },
+            {
+                "Name": "小小的梦",
+                "Desc": "尽管拙劣，但他似乎为了迎接那菈朋友，做了许多准备。",
+                "Image": "UI_Codex_Scenery_XMShaZhongGuLiMengJing"
+            },
+            {
+                "Name": "失梦的苗圃",
+                "Desc": "「挚友将再次同行于茂密的森林中。一切美好的事物终将归来，一切痛苦的记忆也会远去，就像溪水净化自己，枯树绽出新芽。」",
+                "Image": "UI_Codex_Scenery_XMWangXiDeHengNaLanNa"
+            },
+            {
+                "Name": "兰那罗的世界",
+                "Desc": "「不管天空、大地有多么灰暗，只要你的心一直像太阳一样，发出金色的、温暖的光，那就一直都会有希望。」",
+                "Image": "UI_Codex_Scenery_XMHengNaLanNAMengJing"
+            },
+            {
+                "Name": "兰纳迦的小小园圃",
+                "Desc": "在这里，石榴歌唱，苹果鼓掌。",
+                "Image": "UI_Codex_Scenery_XMZhengFaJuShuDeMiaoPu"
+            },
+            {
+                "Name": "无郁夷摩之地",
+                "Desc": "森林的记忆与梦汇集之处，似乎拥有着自己的意识。",
+                "Image": "UI_Codex_Scenery_XMDianDaoJuRenZhiBei"
+            },
+            {
+                "Name": "雨的尽头",
+                "Desc": "「这里是没有雨的地方，又是雨诞生的地方。净化桓那的雨，从这里开始，也在这里结束。」",
+                "Image": "UI_Codex_Scenery_XMYuDeJinTou"
+            },
+            {
+                "Name": "法留纳法宝",
+                "Desc": "法留纳神机的力量的显现。带来生命的水，把巴螺迦变成桓那，让不毛的土地从此充满生机。",
+                "Image": "UI_Codex_Scenery_XMHuiLiuZhiZhu"
+            },
+            {
+                "Name": "遥望降魔的巨人",
+                "Desc": "「诸位，古国坎瑞亚数千年的历史在看着我们！」",
+                "Image": "UI_Codex_Scenery_XMDaJiQiRenYuanJin"
+            },
+            {
+                "Name": "高墙下的边驿",
+                "Desc": "高大的坚壁抵御了热砂的风暴，也隔绝了知识的恩典。但神明的慧光不是本应普照所有人吗？",
+                "Image": "UI_Codex_Scenery_XMFangShaBi"
+            },
+            {
+                "Name": "沉思的花园",
+                "Desc": "花园中播种着无数的花卉，每一朵都要比晶蝶更加绚丽。这是善思之人所蒙许的乐园。",
+                "Image": "UI_Codex_Scenery_XMChanNaHuaYuan"
+            },
+            {
+                "Name": "卡萨扎莱宫的回忆",
+                "Desc": "在林中深处的宫殿前，有一片紫色的园林。繁花锦簇，莺鸟欢歌，正适合出演一场美丽的邂逅。",
+                "Image": "UI_Codex_Scenery_XMDaBieShu"
+            },
+            {
+                "Name": "双树控扼的港湾",
+                "Desc": "「贤者的说教何其枯燥，不如斟满花酿的美酒，踏上征服七海的航程。」",
+                "Image": "UI_Codex_Scenery_XMAoMoSiGang"
+            },
+            {
+                "Name": "临河的村庄",
+                "Desc": "维摩庄中除了宁静的生活外，别无他物。疲惫的旅人，请好好休息一下吧。",
+                "Image": "UI_Codex_Scenery_XMWeiMoZhuang"
+            },
+            {
+                "Name": "林上的化城",
+                "Desc": "「智慧的华城属于我们，无明的密林亦然。那宝树上缀满的，是失梦之国的余物。」",
+                "Image": "UI_Codex_Scenery_XMHuaChengGuo"
+            },
+            {
+                "Name": "一切智慧具足之城",
+                "Desc": "地上一切智慧的渊薮。在繁枝茂叶的圣树之下，学城的贤者们已遍计所有知识。欢迎来到须弥，寻找答案的旅人。",
+                "Image": "UI_Codex_Scenery_XMXuMiChengYuanJing"
+            }
+        ]
+    },
+    {
+        "ID": 5,
+        "Codex": [
+            {
+                "Name": "旧日梦想的终点",
+                "Desc": "「我做了一个梦，在那个梦里，就连凡人也能拥有自由的意志与未定的命运…」",
+                "Image": "UI_Codex_Scenery_FDJinSeDaTingYiCeng"
+            },
+            {
+                "Name": "谐律的投影",
+                "Desc": "「命运往往不过是叫人们看到幸福的一个影子，随后就把他们推上了毁灭的道路。」",
+                "Image": "UI_Codex_Scenery_FDBiHuaDongXue"
+            },
+            {
+                "Name": "安息的殿堂",
+                "Desc": "「请赐予他们永恒的休息吧，并愿光明永久地撒在他们身上。」",
+                "Image": "UI_Codex_Scenery_FDJinSeDaTingErCeng"
+            },
+            {
+                "Name": "通往卡皮托林之阶",
+                "Desc": "耀眼的灵露曾沿着水道直抵北方的大湖，将正义与幸福传遍整个高海。那是雷穆利亚治下的和平，那是充满荣耀与希望的好时代。",
+                "Image": "UI_Codex_Scenery_FDJinSeHangDao"
+            },
+            {
+                "Name": "惟余钟声之处",
+                "Desc": "沉入海底的岩窟曾是繁荣的王城巨港。倘若旧日的钟声能够穿破海水的阻隔，迷途的灵魂或许便能找到返乡的道路。",
+                "Image": "UI_Codex_Scenery_FDDaZhongDongXue"
+            },
+            {
+                "Name": "沉睡的永恒之城",
+                "Desc": "「海底之下，亦有王都。」",
+                "Image": "UI_Codex_Scenery_FDPoSuiDeHaiYuZhuView"
+            },
+            {
+                "Name": "古老教团的奥秘之所",
+                "Desc": "他们曾发现许多秘密，但却从未找到答案。",
+                "Image": "UI_Codex_Scenery_FDJiaoShiYi"
+            },
+            {
+                "Name": "黄金褪色的舞台",
+                "Desc": "在一切伟大与光荣结束之后，失去乐章的乐师曾在此哀歌不再归来的往日。",
+                "Image": "UI_Codex_Scenery_FDXueYuanBiHua"
+            },
+            {
+                "Name": "佩特莉可的美丽传说",
+                "Desc": "佩特莉可有过许多美妙的梦想与动人的传说，但它们都未能改变小镇平静的生活。<br>每当阵阵海风吹散晚钟的声音，镇上的人们便又度过了悠闲的一日。",
+                "Image": "UI_Codex_Scenery_FDPeiTeLiKeZhen"
+            },
+            {
+                "Name": "世界的胎水",
+                "Desc": "它曾经将要再度成为众生的摇篮。",
+                "Image": "UI_Codex_Scenery_FDYuanShiTaiHai"
+            },
+            {
+                "Name": "格式塔",
+                "Desc": "它曾经是许多事物、许多梦想。",
+                "Image": "UI_Codex_Scenery_FDFengYinTower"
+            },
+            {
+                "Name": "远港",
+                "Desc": "往来其他国度的主要港口。据说曾经有修建第四条巡轨船航线，连通柔灯港与枫丹廷的计划。但这一计划随着最有力的执行者之死而无限期停摆了。",
+                "Image": "UI_Codex_Scenery_FDRouDengGang"
+            },
+            {
+                "Name": "载醉之舟",
+                "Desc": "曾经在日光下闪耀着洁白辉光的舰船已经彻底锈蚀。在这里易手的故事与钱币几乎一样多，而敢于步入其中的异乡人如月亮一般少。",
+                "Image": "UI_Codex_Scenery_FDJiuDianChuanDian"
+            },
+            {
+                "Name": "伊黎耶的水色垂柳",
+                "Desc": "在古时，湖中的垂柳是受到敬畏的。一切水脉在伊黎耶汇合，而垂柳随着水脉的甜与苦而繁茂或衰败。湖中之国也是如此，只是预兆总是先于灾难之月显现。",
+                "Image": "UI_Codex_Scenery_FDDaPenQuanShu"
+            },
+            {
+                "Name": "零余的参照",
+                "Desc": "事故的余波未能将其完全摧毁，它以相悖于设计初衷的形式继续存在，或许这也称得上是一种精神的延续。",
+                "Image": "UI_Codex_Scenery_FDShenMiGangTanKe"
+            },
+            {
+                "Name": "铸铜的要塞",
+                "Desc": "「黄铜与锻铁的要塞终有崩毁之日，律法与正义的坚城永无陨落之时。」",
+                "Image": "UI_Codex_Scenery_FDDianYuZhangBanGongShi"
+            },
+            {
+                "Name": "流逐之海",
+                "Desc": "「无论何种罪愆，最终总会如砂砾般，隐落流逐于海潮之间。」",
+                "Image": "UI_Codex_Scenery_FDJianYu"
+            },
+            {
+                "Name": "破碎梦想的余迹",
+                "Desc": "在理想破灭后，保持沉默是它此刻最重要的责任。<br>不过，似乎仍然有人相信，这些炽烈的能量有着别样用途…",
+                "Image": "UI_Codex_Scenery_FDYiBianDaTing"
+            },
+            {
+                "Name": "璀璨才智的留遗",
+                "Desc": "在过剩的才智和热情的相互作用下，其以一种超乎所有人预期的方式实现了研究目的。但如今，已无人为之喝彩。",
+                "Image": "UI_Codex_Scenery_FDKongZhongShuiTi"
+            },
+            {
+                "Name": "船之墓",
+                "Desc": "追随着如同黑夜中的星宿一般散布着微小光芒的白色铁甲旗舰，众多战船在与巨兽的厮杀中沉入海沟深处。这里及上方的水域因此有幽灵作祟的传说，但这也让它成为了追求隐秘之人最合适的藏身处。",
+                "Image": "UI_Codex_Scenery_FDChuanZhongJiHuiTing"
+            },
+            {
+                "Name": "「边村风景」",
+                "Desc": "萨莎曾在此取景。<br>风景秀丽的滨海边村，不受打扰的平静生活令人心向往之。",
+                "Image": "UI_Codex_Scenery_FDXiaoZhen"
+            },
+            {
+                "Name": "「苍晶山地的晴朗清晨」",
+                "Desc": "萨莎曾在此取景。<br>苍晶山地的晴朗清晨，湿润晚风在叶片上留下的露水还未消失…",
+                "Image": "UI_Codex_Scenery_FDJuShenHouShan"
+            },
+            {
+                "Name": "「枫丹热泉」",
+                "Desc": "萨莎曾在此处取景。<br>透过热泉蒸腾的氤氲雾气，极目可见高耸入云的秋分山，以及贯穿而过的克莱门汀线。",
+                "Image": "UI_Codex_Scenery_FDFeiTengHu"
+            },
+            {
+                "Name": "「于秋分山远眺」",
+                "Desc": "萨莎曾在此处取景。<br>于秋分山远眺，可见厄里那斯山脊。在群山与湖泊之下，隐藏着美露莘的故乡。",
+                "Image": "UI_Codex_Scenery_FDXiaoBaoDao"
+            },
+            {
+                "Name": "「芒索斯山麓的回忆」",
+                "Desc": "萨莎曾在此处取景。<br>柔风拂过芒索斯山麓鲜花盛开的草地，吹得风车也吱呀旋转。安宁闲适的氛围让人不由沉浸在美好的回忆之中。",
+                "Image": "UI_Codex_Scenery_FDLieShuiHouShan"
+            },
+            {
+                "Name": "伊黎耶的旋舞",
+                "Desc": "悠古的歌谣中，寻访纯水的骑士正是在此处与精灵相遇，一同踏上了救赎的旅途。千年的时岁如露景流转，无论是欢笑还是泪水，无论是欢悦还是苦难，最终都化作了如梦的旋舞，消散于喧闹的喝彩。",
+                "Image": "UI_Codex_Scenery_FDGeJuYuan"
+            },
+            {
+                "Name": "「水仙十字王国」",
+                "Desc": "「在很久很久以后，在很远很远的地方，有一个美丽的『水仙十字王国』…」",
+                "Image": "UI_Codex_Scenery_FDLieShui"
+            },
+            {
+                "Name": "海噬之穴",
+                "Desc": "如同山岳一般宏伟的巨型颌骨，几乎能够将海潮吞吐。难以想象这般庞然大物竟曾阔步于世间。",
+                "Image": "UI_Codex_Scenery_FDLongTou"
+            },
+            {
+                "Name": "蚀影与浊流之地",
+                "Desc": "潜藏在枫丹澈光之下的浊影，也是属于放逐者们的栖身之所。<br>「哪怕是律法筛落的残灰，最终也会重归同一条河。」",
+                "Image": "UI_Codex_Scenery_FDXiaShuiDao"
+            },
+            {
+                "Name": "白露与泉景之廷",
+                "Desc": "「众水之上，唯有此城。」",
+                "Image": "UI_Codex_Scenery_FDFengDanCheng"
+            },
+            {
+                "Name": "水下的光荣",
+                "Desc": "昔日繁盛的街巷已经伴随着值得夸耀的一切没入深水。如今穿行于拱廊之间的只有鱼群，与孤寂的海潮之声。",
+                "Image": "UI_Codex_Scenery_FDXinShouGuanKa"
+            },
+            {
+                "Name": "暗潮回响之所",
+                "Desc": "刺玫会的起源之地。如同有朝一日会成为雄鹰的雏鸟破壳而出，宏大而光明的野心曾经在狭小而阴暗的地方孕育。<br>出身白淞镇的人与灰河的住民一样，从这些地方的历史中明白了，有些事情是值得、必须，或是只能用血去争取的。",
+                "Image": "UI_Codex_Scenery_FDYuSengZhen"
+            },
+            {
+                "Name": "旧日古螺的乐章",
+                "Desc": "「从前伟大的雷穆利亚，如今却只余空响的乐章。曾经引导万民的旋律，也早已无人能识…」",
+                "Image": "UI_Codex_Scenery_FDHaiLuoWu"
+            },
+            {
+                "Name": "海沫之乡",
+                "Desc": "葱茂的苍晶山原下，是美露莘们温馨的家园。造型奇异的小房子分布在各处，令人印象深刻。不过，究竟是谁教给了她们这种独特的建筑方式呢？",
+                "Image": "UI_Codex_Scenery_FDRenYuCun"
+            },
+            {
+                "Name": "「谕示裁定枢机」",
+                "Desc": "「尚未有律法之时，罪便已行于众水之上。但若是没有律法，罪又如何以罪之名得到宽赦？」",
+                "Image": "UI_Codex_Scenery_FDGeJuYuanShiNei"
+            },
+            {
+                "Name": "厄里那斯最深处的风景",
+                "Desc": "「很高兴见到你！」",
+                "Image": "UI_Codex_Scenery_FDXinZangNeiBu"
+            },
+            {
+                "Name": "厄里那斯深处的风景",
+                "Desc": "几近苏醒的心如今再度归于沉寂。",
+                "Image": "UI_Codex_Scenery_FDXinZang"
+            }
+        ]
+    },
+    {
+        "ID": 6,
+        "Codex": [
+            {
+                "Name": "岩石与刺梨的洞穴",
+                "Desc": "无时无刻不威胁着刺梨镇的安宁，被邪恶坏蛋盘踞的大本营。多年前其实是特诺奇兹托克地区的奇瑰之洞。",
+                "Image": "UI_Codex_Scenery_NTCiLiZhenKuangDong"
+            },
+            {
+                "Name": "地岩中的集镇",
+                "Desc": "海中巨岩下开发的安宁小镇，可爱的居民们已经准备好迎接来自世界各地的客人。",
+                "Image": "UI_Codex_Scenery_NTCiLiZhen"
+            },
+            {
+                "Name": "蜜酎秘醅山馆",
+                "Desc": "依山而建的蜜酿之馆，灵与蜜的气息如瀑布般从山间倾泻而下。",
+                "Image": "UI_Codex_Scenery_NTJiuBaShan"
+            },
+            {
+                "Name": "狂舞之乐夜",
+                "Desc": "「亲爱的旅者，今天是音乐与舞蹈的夏夜，请将悲伤石沉大海，无需囿于离合聚散。」",
+                "Image": "UI_Codex_Scenery_NTReWuYueTai"
+            },
+            {
+                "Name": "洋流拂过的夏湾",
+                "Desc": "若旅人正为前方的迷雾而疲惫，那么请让盛夏的温暖海水抚去那叹息。",
+                "Image": "UI_Codex_Scenery_NTLanglangWan"
+            },
+            {
+                "Name": "海崖上的绘卷",
+                "Desc": "纳塔最早的织卷，或许就是孩子们留在大地上的缤纷绘卷。",
+                "Image": "UI_Codex_Scenery_NTCaiCaiYa"
+            },
+            {
+                "Name": "惬意之街",
+                "Desc": "话事处的人们像喜欢倦意之屋般喜欢这条惬意的街道。",
+                "Image": "UI_Codex_Scenery_NTYouYouJiShi"
+            },
+            {
+                "Name": "心中的孔窍",
+                "Desc": "那是圣山藏于深底的中心，也是伟大之龙的孔窍。受龙所选者归还瞳中的影子吧，以此，得以唤来涤荡一切的圣火！",
+                "Image": "UI_Codex_Scenery_NTLCYZTDOutside"
+            },
+            {
+                "Name": "众龙的审判所",
+                "Desc": "此处原本是议事之厅，在繁荣之时，龙众在此处创造诸多秘法与机关。但在众龙的主人死去之后，此处变成了审判同族的场所。",
+                "Image": "UI_Codex_Scenery_NTLCYiShiTing"
+            },
+            {
+                "Name": "聚缩的祭炼台",
+                "Desc": "金色的秘文将光分化成种种形式，受伟力牵引的燃素在此化作层层的载体，从此，巨大的手掌之中，就浮动着被制造出来的星星。",
+                "Image": "UI_Codex_Scenery_NTLCJiTan"
+            },
+            {
+                "Name": "识海的流炎地",
+                "Desc": "据说古代的伟大种族通过浸泡流炎之池，即可从其中海量的燃素里获取自己需要的智识。据说曾有弱小的种族效仿这样的行为却最终失败，最后，一度仁慈的贤者才告诉那弱小的种族他们可以承受知识的方式。",
+                "Image": "UI_Codex_Scenery_NTLCZhiShiKu"
+            },
+            {
+                "Name": "曾受封绝的古城",
+                "Desc": "一度被脆弱的誓言所封禁的古代城市，犹如已死去千年的骸骨受风吹动而展露一瞬栩栩之态，这座古老之城的最后挣扎又将迎来什么样的结局呢？",
+                "Image": "UI_Codex_Scenery_NTLCYiLouZhuView"
+            },
+            {
+                "Name": "天火浮岩之冠",
+                "Desc": "在喷发时，因蕴含过量的气态燃素而得以浮动在天上的岩石群落。在经年的层积之后，形成了如是的样貌。有人曾说此处与「浮土静界」同为盗火贤者的手笔，但或许只是没有由来的无故猜测罢了。",
+                "Image": "UI_Codex_Scenery_NTShenZhiHuan"
+            },
+            {
+                "Name": "丰藏与耕种的沃野",
+                "Desc": "与突角龙共同生活，名为「沃陆之邦」的部族聚落处。火山的余灰带给他们肥沃的土地，在这里，象征富饶的金穗在部族民的双手之中随风摆动。",
+                "Image": "UI_Codex_Scenery_NTTuJiaoLongBuLuo"
+            },
+            {
+                "Name": "永蕴常火的圣山",
+                "Desc": "一切的火焰都曾来源于斯，一切的光亮都曾来源于斯。上古的英雄在流炎之中落下血与汗，才将一度点燃世界的热烈迎回今日的纳塔。",
+                "Image": "UI_Codex_Scenery_NTHuoshanZhuView"
+            },
+            {
+                "Name": "翎羽如花相结之处",
+                "Desc": "与绒翼龙共同生活，名为「花羽会」的部族聚落处。每日，与绒翼龙一起飞行的部族成员，都会在空中巡视他们的领地。",
+                "Image": "UI_Codex_Scenery_NTYiShouLongBuLuoZhuView01"
+            },
+            {
+                "Name": "旧日的统律之心",
+                "Desc": "在如今被视为遗迹之城的深墟之中，远古的种族为了统律整座城市的机关曾用金文与指令铸造不具肉体的智慧，将之寄存于石制的造像。",
+                "Image": "UI_Codex_Scenery_NTYangYuJianCiXiaCeng"
+            },
+            {
+                "Name": "被记述的故事",
+                "Desc": "记录以往英雄故事的涂鸦墙壁。被记载在此处的故事，究竟是曾经真实发生过的历史，还是别的故事的影子…",
+                "Image": "UI_Codex_Scenery_NTTuYaDong"
+            },
+            {
+                "Name": "飘浮在云间的卫星",
+                "Desc": "不知为何被云海掩没，也不知为何停驻于此的天船。在脱离了其创造者的控制后，仍默默守护着久远的秘密。",
+                "Image": "UI_Codex_Scenery_NTTianKongZhiChengQiDian"
+            },
+            {
+                "Name": "在镜璧之山前",
+                "Desc": "「伟大的祭司将手中的镜子放在了地上，于是形成了此处的山壁，以抵挡漆黑的奔流。」",
+                "Image": "UI_Codex_Scenery_NTNiHongWeiQiang"
+            },
+            {
+                "Name": "失落祭祀所",
+                "Desc": "一度被迷雾笼罩的浮屿从前也是在陆上高耸的祭祀所，却在最后不得不沉入水中，以封绝蛊惑众人的恶念。",
+                "Image": "UI_Codex_Scenery_NTMiHaiZhu"
+            },
+            {
+                "Name": "迷途夜色的祭祀所",
+                "Desc": "经过考验，被视为拥有「灵觉」的「烟谜主」部族成员，自小都需要在此处进行修行，学习如何以正确的方式解读诸多夜魂的话语。",
+                "Image": "UI_Codex_Scenery_NTLingShiLongBuLuoJiSiDaTing"
+            },
+            {
+                "Name": "灵谜的大涂鸦",
+                "Desc": "维护这个规模的涂鸦需要代代相传的努力，据说曾有睡在巨大涂鸦画下的人于睡梦中梦见巨鸟张开翅膀的模样。",
+                "Image": "UI_Codex_Scenery_NTLingShiLongDaTuYa"
+            },
+            {
+                "Name": "迷烟与谜语生长的山麓",
+                "Desc": "与暝视龙共同生活，在六个部族之中也最为神秘的「烟谜主」部族坐落之处。据说在夜晚，部族内的成员和他们的龙，会借由如荧光的纹路，倾听寂静夜晚国度的回音。",
+                "Image": "UI_Codex_Scenery_NTLingShiLongBuLuo01"
+            },
+            {
+                "Name": "未完工的灰烬之城",
+                "Desc": "在已被遗忘的种族所修筑的城墟之上，曾有人试图建起新的邦国。现在这里只剩下遭焚后的灰烬，一度为此而聚集起来的联盟也早已离散。",
+                "Image": "UI_Codex_Scenery_NTHuiJinJieZhuView"
+            },
+            {
+                "Name": "白色巨塔的倒塌",
+                "Desc": "理想、妄想、怨望、希望，因人们的愿望而建起的高塔，最终也随那愿望的破碎倒塌。",
+                "Image": "UI_Codex_Scenery_NTHuiJinChengZhuView"
+            },
+            {
+                "Name": "属血气者的统律中枢",
+                "Desc": "为了掩埋无可名状的过去，也为了开拓属血气者的未来，某人献上了自己的心，作为统律整座城市的容器。那一日后，连山中的灵魂都已焚尽，如今照看烬城的又是何人？",
+                "Image": "UI_Codex_Scenery_NTAnXinNeiBu"
+            },
+            {
+                "Name": "谧光的洞窟",
+                "Desc": "为了应对灰烬如谜烟笼罩山麓的危机，「烟谜主」的祭司曾在此研究如何让涂鸦在雾霭中亦能被分辨的秘法，据说那就是为何此处涂鸦具有别样力量的开端。",
+                "Image": "UI_Codex_Scenery_NTGuDuZhiWuYuan"
+            },
+            {
+                "Name": "在彩绘群山之中",
+                "Desc": "古时一位精通燃素刻录所有笔画与构造的智者，将其中的种种意义化作飘逸的线条，以燃素为染料，将巨崖作画布施以彩绘。据说，那就是如今纳塔涂鸦的由来。",
+                "Image": "UI_Codex_Scenery_NTNaTaZhuView"
+            },
+            {
+                "Name": "夜魂游荡的试炼场",
+                "Desc": "安抚这些躁动不安的夜魂的方法，唯有炽烈的战斗一途！",
+                "Image": "UI_Codex_Scenery_NTYeZhiJingJiChang"
+            },
+            {
+                "Name": "立誓的壁画",
+                "Desc": "「于此立誓吧，希巴拉克…」<br>「曾升浮土以庇佑众生者，曾授火种以光耀众生者…」<br>「其族裔溯火而归时，不可有人阻拦！」",
+                "Image": "UI_Codex_Scenery_NTJueBieCiShiZhiDi"
+            },
+            {
+                "Name": "跋涉而至的秘屿",
+                "Desc": "「追寻力量的渺小种族啊，你们将为渴求之物付出怎样的代价，又或愿意付出怎样的牺牲呢？」",
+                "Image": "UI_Codex_Scenery_NTLongTiaoZhanDao"
+            },
+            {
+                "Name": "画境开辟之所",
+                "Desc": "那是因涂鸦的壁画而诞生的世界，还是被写意的笔迹掩藏起来的世界呢？",
+                "Image": "UI_Codex_Scenery_NTLingXuDi"
+            },
+            {
+                "Name": "硕果累累的母树",
+                "Desc": "在溪地生长着名为火榴果的果实，而据说所有的火榴果不过是这棵巨大母树的小小分株。",
+                "Image": "UI_Codex_Scenery_NTHuoMianShuRenWuHou"
+            },
+            {
+                "Name": "远古先民的庙宇",
+                "Desc": "在大地拒绝种子的时代，鲜花枯萎，再无人可向土地祈求令口腹满足的食粮。那时，古老的先民于此，开始向夜晚的神明寻求启示。",
+                "Image": "UI_Codex_Scenery_NTMiShiTianJing"
+            },
+            {
+                "Name": "渺无人迹的净土",
+                "Desc": "被藏起，门扉被合拢于半空的净土。曾经，怜悯一切的贤人向伟大之人传授秘法，而最后，又不知出于何等的心绪将之隐去。",
+                "Image": "UI_Codex_Scenery_NTHuGuangJingTu"
+            },
+            {
+                "Name": "晶柱迁动的石室",
+                "Desc": "「斗争会在何处终结，恐惧会在何处失去效用？」<br>「迷身的游魂，将自身从自身中解脱吧，因对面即是永恒荒凉的乐园。」",
+                "Image": "UI_Codex_Scenery_NTJianShiLianYu"
+            },
+            {
+                "Name": "金文萦绕的岩钉",
+                "Desc": "名为「缝影针」的巨大固态燃素钉柱。传说从前「回声之子」的大灵借由部族勇士的血肉铸造而成，高悬于此，震慑地底幽暗的岁月…",
+                "Image": "UI_Codex_Scenery_NTJingYanDaZhuZi"
+            },
+            {
+                "Name": "追逐胜利与荣耀的战场",
+                "Desc": "在此处，为荣誉与胜利点燃纷争之火吧，然后，一切灵魂之炽热，都将化作圣火永明的薪柴。",
+                "Image": "UI_Codex_Scenery_NTShenHuoJingJiChangNiaoKan"
+            },
+            {
+                "Name": "流水与温泉之乡",
+                "Desc": "与鳍游龙共同生活的部族，「流泉之众」因温泉和舒缓的音乐而闻名。在诸部族之中，唯有此处最受外来游客的欢迎。",
+                "Image": "UI_Codex_Scenery_NTYouLieLongBuLuo"
+            },
+            {
+                "Name": "崖壁空悬的聚落",
+                "Desc": "与匿叶龙共同生活的部族聚落处。他们的先祖用绳索与钩爪将块块巨木悬挂于此，部族因此也有了「悬木人」这样的名字。",
+                "Image": "UI_Codex_Scenery_NTGouZhuaLongBuLuo"
+            },
+            {
+                "Name": "回声作响之地",
+                "Desc": "与嵴锋龙共同生活，名为「回声之子」的部族聚落处。峡谷之中，四处传来工匠的敲击，或寻猎宝石的人试探山岩的声响。",
+                "Image": "UI_Codex_Scenery_NTZuanDiLongBuLuo"
+            }
+        ]
+    },
+    {
+        "ID": 7,
+        "Codex": [
+            {
+                "Name": "兔子洞里的仙境",
+                "Desc": "装点花园的不过是普通的雕塑，绝非定格时光的魔法。魔女的秘密花园里没有秘密，就像自诩公义的命运从来不讲道理。",
+                "Image": "UI_Codex_Scenery_NDKLMoNvDong"
+            },
+            {
+                "Name": "战歌回荡的厅堂",
+                "Desc": "终北的猎手、反乱的英豪与执灯的勇士，一代又一代的英灵之声在此间回荡。战士之血虽已干涸，他们的功业也已为陈迹，但赞美之词永不消逝，高贵的名声永不消亡。",
+                "Image": "UI_Codex_Scenery_NDKLYingLingDeXiangDian"
+            },
+            {
+                "Name": "噩梦的预兆",
+                "Desc": "那是一只没有眼睑的巨眼，他的目光穿透云层与雾霭，大地与山峦，无所不知又无处不在。",
+                "Image": "UI_Codex_Scenery_NDKLShenYuanCheng"
+            },
+            {
+                "Name": "刺向苍穹的塔",
+                "Desc": "在过去，高塔是野心之人僭越的妄想，承载着虚无缥缈的魔天之梦。直到高塔随膨胀的野心一同破碎，「乐园」的种子方才破土而出。",
+                "Image": "UI_Codex_Scenery_NDKLYueZhiTa2"
+            },
+            {
+                "Name": "遗世的仙庭",
+                "Desc": "这里只有古老的魔神留下的鬼魂残迹，与往日仙灵空空如也的宫廷。",
+                "Image": "UI_Codex_Scenery_NDKLXiGouShan3"
+            },
+            {
+                "Name": "零号避难所",
+                "Desc": "或许一个不完美的世界，比「末日」更让人难以接受。",
+                "Image": "UI_Codex_Scenery_NDKLShengTaiYanJiuSuoBossFang2"
+            },
+            {
+                "Name": "夜壑的黎明",
+                "Desc": "「那不死的毒蛇必将两度复活，再被三次击倒…」<br>「直到被月下世界的英雄们彻底埋葬…」",
+                "Image": "UI_Codex_Scenery_NDKLShenXue2"
+            },
+            {
+                "Name": "乐园最后的宝藏",
+                "Desc": "「让死人埋葬死人吧，然后你们站起来，用高傲者的财富，筑起饥贫之人的乐园！」",
+                "Image": "UI_Codex_Scenery_NDKLDaoBaoDong2"
+            },
+            {
+                "Name": "守望长夜的明灯",
+                "Desc": "「如是我预见：<br>海浪翻起白沫，死寂毁灭了星月夜。」<br>「如是我宣告：<br>谁掌中灯火不灭，就不必陷入如此黑暗。」",
+                "Image": "UI_Codex_Scenery_NDKLPiKaMiCheng"
+            },
+            {
+                "Name": "矢誓的灯火",
+                "Desc": "许多人曾毅然走入黑暗，只为家园的光明得以保全。",
+                "Image": "UI_Codex_Scenery_NDKLDengTa"
+            },
+            {
+                "Name": "铁鲸之梦",
+                "Desc": "由巨大齿轮构成的心脏早已停跳，钢铁的血管也已生锈，直到谁人将它从梦中唤醒，巨兽向着星空，呼出了一口长长的、彩缎似的气。",
+                "Image": "UI_Codex_Scenery_NDKLJiGuangHu"
+            },
+            {
+                "Name": "新诞的舛讹",
+                "Desc": "他们以人的傲慢定义生命，却未能定义他们自己生命的终局。",
+                "Image": "UI_Codex_Scenery_NDKLDuiLiuXiaGu"
+            },
+            {
+                "Name": "秘密的研究",
+                "Desc": "巨大的容器中盛放着被捕获的月光。",
+                "Image": "UI_Codex_Scenery_NDKLYanJiuSuo"
+            },
+            {
+                "Name": "新世界的先声",
+                "Desc": "正如边民在月下将祈愿纺成无数的诗章，北国的匠人将僭越的企图淬炼成如月光般冰冷的坚钢。<br>月伴着长夜一同落下的时刻，撕裂旧世界之物便足以被称作新生的曙光。",
+                "Image": "UI_Codex_Scenery_NDKLRongLu"
+            },
+            {
+                "Name": "钢铸的城塞",
+                "Desc": "这白铁与黑钢锻成的巨兽急迫地吞噬着目所能及的一切，无论是能源还是血泪。然而它所希求的却非剥夺，而是足以与近在眉睫的灾厄相抗衡的权柄。",
+                "Image": "UI_Codex_Scenery_NDKLBingGongChang"
+            },
+            {
+                "Name": "边地小镇",
+                "Desc": "这镇子就像一艘在世界边缘搁浅的船，流民在此处汇聚，在过去的残骸与虚构的往昔中搜刮构筑乐园的碎片。",
+                "Image": "UI_Codex_Scenery_NDKLHeiShi"
+            },
+            {
+                "Name": "叮铃哐啷的工坊",
+                "Desc": "叮铃哐啷、叮铃哐啷，大大小小的许多机械造物在这里诞生，当然，还有喷香可口的蛋卷！",
+                "Image": "UI_Codex_Scenery_NDKLLaJiChang"
+            },
+            {
+                "Name": "寂静的浅滩",
+                "Desc": "钢铁的结构矗立在这片粉色的地质层，像一个错误的音符。没有大脑，也没有发声器官的神秘生命曾沉默地在此栖息，最终也沉默地逝去。",
+                "Image": "UI_Codex_Scenery_NDKLYanZe"
+            },
+            {
+                "Name": "无信者的谎言",
+                "Desc": "「我等皆是染罪之人，又如何得见无垢的月光？」",
+                "Image": "UI_Codex_Scenery_NDKLLongYiJi"
+            },
+            {
+                "Name": "月下的庭院",
+                "Desc": "而月色依然漫流如初。",
+                "Image": "UI_Codex_Scenery_NDKLHuaTian"
+            },
+            {
+                "Name": "觐月的旅路",
+                "Desc": "凡世的众生常因苦痛而诞出心愿，又因心愿而诞出信仰。然而若是信仰并非总是献予虚幻之人，又何必要将冰冷无言的巨石雕琢成梦与歌谣中的形貌？",
+                "Image": "UI_Codex_Scenery_NDKLChaoBaiChu"
+            },
+            {
+                "Name": "终北的遗响",
+                "Desc": "「月啊，仁善的女主人，你要引我们行往何方？」",
+                "Image": "UI_Codex_Scenery_NDKLGongYueZhuShiJue"
+            }
+        ]
+    }
+]

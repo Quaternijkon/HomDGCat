@@ -1,0 +1,41 @@
+// Auto Generated
+
+var relic_story_cache_ = {
+    "15019": [
+        {
+            "Desc": "섬세한 미즈히키 부적, 염원을 이뤄주는 힘을 봉인할 수 있다고 한다",
+            "Story": [
+                "<br>An omamori crafted using an art known as Mizuhiki.<br>It is said to have the power to bind wishes and the reasons for those wishes within itself.<br><br>Once, I learned how to manage the affairs of the shrine under the tutelage of a mighty kitsune.<br>Back then, I was just a young shrine maiden who had just arrived on Narukami from a small fishing village.<br>I was duller than a teapot and had yet to lose the obstinate impulsiveness and curiosity of a child,<br>I was always naively skeptical of the elegant but incomprehensible words of Lady Saiguu.<br><br>\"Everything in the world is entangled. Hence, illusory visions were born out of concrete reality.\"<br>\"The so-called omamori cannot make one's wishes come true at all, but they can make them eternal through this entanglement.\"<br><br>Seeing my befuddled expression, a picture of complete confusion, Lady Kitsune couldn't help bursting into laughter,<br>She cheerfully knocked my head with her pipe and sneakily changed the subject.<br><br>\"I suppose you've met your fated one as well, Hibiki?\"<br><br>\"What sort of 'fate' could there be with a rude and reckless brute like that!\"<br><br>\"Oh, is that so?\"<br><br>But darkness engulfed everything in the end.<br>That \"fate,\" too, was no more."
+            ],
+            "StoryCount": 1
+        },
+        {
+            "Desc": "옛날 스타일의 마물 잡는 화살, 누군가가 소중히 보관한 것 같다",
+            "Story": [
+                "<br>A demon-slaying arrow used by the shrine for prayers and to drive away catastrophes,<br>It is said to be capable of pursuing and destroying all demons.<br><br>People often say that demon-slaying arrows can drive away evil, but evil is never an objective thing.<br>Evil often stems from within our hearts, born out of delirious minds that have turned cold and ashen from terror.<br>Lady Saiguu has been gone for a long time now, and I am no longer that young shrine maiden training at the Grand Narukami Shrine.<br>Whenever I hold that empty smoking pipe, I can feel that emptiness and dull pain hover over me like a phantom.<br><br>Having someone worth missing, losing someone whom I cannot help missing... And time keeps moving like a spinning wheel.<br>Silent and tranquil, the Lady Kitsune's white form hidden in the deep darkness left a deep impression in the shrine maiden's dreams.<br>The Great Tengu went into self-imposed exile, enraged at her own incompetence as the Lady Saiguu's protector, leaving Teruyo behind.<br>Harunosuke left for another country amid the fury of his mourning, while Nagamasa joined the Shogunate to clear the Mikoshi name.<br>As for the man who taught me archery in the sacred forest and patiently listened to my naïve promise under the scarlet sakura boughs,<br>He will eventually return to me, even if he were to be blinded by splattered blood, or turned into a fierce beast by that dark defilement...<br><br>I shall save him with our bow and arrows, to keep our promise, which ever veers towards breaking.<br>I shall destroy evil with our bow and arrows, exorcising folly and needless obsession.<br><br>\"Come see me, you idiotic problem gambler.\"<br>\"And don't lose your way this time, Konbumaru.\"<br><br>Still, who won the last throw of the dice...<br>She touched the bow lightly while pondering such unimportant things."
+            ],
+            "StoryCount": 1
+        },
+        {
+            "Desc": "미즈히키와 방울로 장식한 청동 회중시계, 시간이 가을의 새벽녘에 영원히 멈춰 있다",
+            "Story": [
+                "<br>An elegant watch adorned with a shrine bell.<br>The hands always point toward the wee hours of the morning.<br><br>As the sky brightens, morning dew condenses and then disappears.<br>As beautiful as this colorful scenery may be, it is still short-lived.<br><br>I once enjoyed the chirping of cicadas and the moonlight with Lady Saiguu on a slope in the middle of an autumn night.<br>Back then, I was just a shrine maiden from the country, young and stubborn.<br>Like a chirping finch, noisily insisting on my own view.<br>A faint smile that crossed the mouth of the Lady Kitsune fascinated me, but her words were — and remain — incomprehensible:<br><br>\"Trying to hold on to a moment's beauty is like foolishly trying to grasp the morning dew.\"<br>\"Like the morning dew, I have already passed away. All you have seen of me is but a residual vision, born of your wishes.\"<br><br>In that vague memory, she kept saying some incomprehensible things. Her expression as sorrowful as the eighth month's moon, and I suddenly...<br>Then she rapped me over the head with her tobacco pipe, wearing her usual expression of rebuke and mockery:<br><br>\"Hibiki, the sun's about to rise.\"<br>\"We should head back.\""
+            ],
+            "StoryCount": 1
+        },
+        {
+            "Desc": "특제 점괘통, 밑부분에 원치 않는 점괘를 뽑게 하는 장치가 설치돼 있다",
+            "Story": [
+                "<br>A special slip cylinder that the shrine uses for fortune-telling,<br>It is supposedly infused with good fortune that the kitsune have imparted upon it.<br><br>Fortune telling is born from the questions of lost people. Thus, be it good or bad fortune, it will help them navigate their future.<br>In other words, there are only lost people, and no inaccurate fortunes.<br>I've learned a lot while studying at the shrine. Now, even someone as dull-witted as I am has learned how to talk like a mighty kitsune.<br>During this time, even someone as inhuman as the mighty Yougou Tengu has gotten a daughter.<br>Even that leatherhead Konbumaru has also become one of the Shogun's own Hatamoto, and shall soon marry the daughter of a high-ranking samurai.<br><br>\"Such a lovely kid. Even the great Yougou Tengu, who used to kill all day for fun, had the mother inside her brought out... just a little.\"<br>\"Still... the shrine is always missing the liveliness of children. That's not good. Say, Hibiki, how would you like to be a kid again?\"<br><br>The Lady Kitsune's joke was out of line as always, coming forth with the self-serving scent of sakura wine.<br><br>\"Aw, Hibiki, why the long face? How about this, then? I, the Lady Saiguu, shall tell your fortune for you!\"<br>\"Haha, see? See, it's \"Great Fortune.\" \"Great Fortune\"! You know what that means?\"<br>\"It means that you took away all the bad fortune slips. Please stop mocking me, Lady Saiguu.\"<br>\"No... it means that the person you're missing will be lucky enough to become a part of your memories forever.\"<br><br>That's why you have to be strong and must live on for a long, long time.<br>Even if all the people you cherish are gone, as long as you are still alive,<br>The time you spent with them will never perish..."
+            ],
+            "StoryCount": 1
+        },
+        {
+            "Desc": "보관 상태가 양호한 제례 여우 가면, 신비로운 미소를 띄고 있다",
+            "Story": [
+                "<br>A bright and elegant festival mask that once belonged to a certain miko.<br>A faint smile curls the edges of the mask's lips, but there is no real light in its eyes.<br><br>I've spent much time training at the Grand Shrine, and I must say that I've matured a lot.<br>At the very least, I'm not as foolish as I was when I was young, and I'm more independent now.<br>But for some reason, the more I grow, the more Lady Saiguu's face seems to fall under a shadow.<br>What emerges on her face is not anxiety nor fear, but rather a sorrowful reluctance...<br><br>\"Life is full of uncertainty. Love is fleeting, and even lasting memories may be lost.\"<br>\"Losing one's memory is no different from losing one's life. It is like death amidst darkness eternal.\"<br><br>This time, even a faint smile could not conceal her sorrow.<br>Though this is a festive day, it seems more like a farewell.<br><br>\"Right, then. Why don't you tell me about the idiot Konbumaru?\"<br>\"What's wrong? Still afraid that an old hag like me will steal him from you?\""
+            ],
+            "StoryCount": 1
+        }
+    ]
+}

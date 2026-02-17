@@ -1,0 +1,19 @@
+// Auto Generated
+
+var _WeaponAffixPConfig_ = {
+    "111512": {
+        "Ver": {
+            "L": {
+                "Affix": [
+                    "会心率+ <color style='color:#99FFFFFF'>4%</color> / <color style='color:#99FFFFFF'>5%</color> / <color style='color:#99FFFFFF'>6%</color> / <color style='color:#99FFFFFF'>7%</color> / <color style='color:#99FFFFFF'>8%</color> 。通常攻撃で元素ダメージを与えた後、「裁葉」効果を獲得し、通常攻撃および元素スキルによるダメージが元素熟知の <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>150%</color> / <color style='color:#99FFFFFF'>180%</color> / <color style='color:#99FFFFFF'>210%</color> / <color style='color:#99FFFFFF'>240%</color> 分アップする。「裁葉」効果は28回発動または12秒後にクリアされ、12秒毎に1回のみ獲得できる。"
+                ]
+            }
+        }
+    }
+}
+
+var weapon_story_cache_ = {
+    "191512": [
+        "<br>From the land of gold came a wanderer, his body and mind scarred by the touch of battle.<br>He was once a prince, but now, he was merely someone lost in a winding and deceptive verdant maze.<br>The ancient forest king, tasting the scent of blood that stems from authority, was unable to hold back a deep sigh...<br>Summons were sent, and a huntress bearing a moon-white bow came forth, tasked to hunt the trapped beast that had come from beyond the woods.<br><br>The sky was overcast, spreading like ink blots in the clouds. Death whispered through the wooded maze, groping for a path to follow.<br>Following the exile's footsteps, the curse spread across the desert sands to swallow the \"living\" lands.<br>Through jade hallways and pathways narrow, she discovered the intruder's intent from the strangeness of their scent...<br>Adrift between memory and ambition, however, the exile was lost amidst the discord of running water and birdsong...<br><br>\"You have been struck with one of my arrows, insolent invader! The next shall find its path into your heart.\"<br>\"No longer shall you loiter in the forest. No longer shall you disturb the dreams of the children. The crown you seek, you shall not find here!\"<br><br>Thus did the hale huntress warn her prey, that none yet had ever evaded her arrows or her perspicacity.<br>Yet, for reasons unknown, she lowered her bow by a few inches and deliberately missed the addled man.<br>The greenery looked on, bewildered, and the dream-hidden children exhaled as blood went unspilled.<br>The slumbering forest king, blessed with insight that can pierce through all dreams, understood her intent and gave a thunderous murmur that caused even the greatest of trees to tremble:<br><br>\"That mortal is not alike to you. He comes from a sordid land, and his hands are stained with blood, while his heart festers with delusions and madness.\"<br>\"But the forest only keeps dreams wrought from naivete, and blood is only meant to be shed for the hunt or in sacrifice — in this there can be no deception.\"<br>\"If you believe that he yet has the potential to reclaim his honor in the maze, then guide him to break off the pale branch...\"<br>\"Only then can the bright moon and the newborn stars grant him pure wisdom and help him shed his bitter memories and desires.\"<br><br>So, she again took hold of her pure-white bow and drove the exile, sending him fleeing into the depths of the maze...<br>The truth of what happened afterward was witnessed by the moon and the stars, and only dwells still in the dreams of children.<br>Some rumors say that the exiled noble finally used the pale branch to forge a blade that belonged to him and him alone,<br>While some children claim in their sleep that he forgot the name of his home, and of his dream to be king.<br>Regardless, Prince Faramarz's name vanished within the rainforest henceforth, returning to the desert on the back of sand carried by the wind."
+    ]
+}

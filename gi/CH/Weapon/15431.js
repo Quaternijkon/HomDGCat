@@ -1,0 +1,45 @@
+// Auto Generated
+
+var _WeaponAffixPConfig_ = {
+    "115431": {
+        "Ver": {
+            "1": {
+                "Affix": [
+                    "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得 <color style='color:#99FFFFFF'>4.8%</color> / <color style='color:#99FFFFFF'>6%</color> / <color style='color:#99FFFFFF'>7.2%</color> / <color style='color:#99FFFFFF'>8.4%</color> / <color style='color:#99FFFFFF'>9.6%</color> 攻击力提升；上述角色不少于3名时，装备者的元素精通提升 <color style='color:#99FFFFFF'>24</color> / <color style='color:#99FFFFFF'>30</color> / <color style='color:#99FFFFFF'>36</color> / <color style='color:#99FFFFFF'>42</color> / <color style='color:#99FFFFFF'>48</color> 点。"
+                ]
+            },
+            "2": {
+                "Affix": [
+                    "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得 <color style='color:#99FFFFFF'>4.8%</color> / <color style='color:#99FFFFFF'>6%</color> / <color style='color:#99FFFFFF'>7.2%</color> / <color style='color:#99FFFFFF'>8.4%</color> / <color style='color:#99FFFFFF'>9.6%</color> 攻击力提升；上述角色不少于3名时，装备者的元素精通提升 <color style='color:#99FFFFFF'>24</color> / <color style='color:#99FFFFFF'>30</color> / <color style='color:#99FFFFFF'>36</color> / <color style='color:#99FFFFFF'>42</color> / <color style='color:#99FFFFFF'>48</color> 点。"
+                ]
+            },
+            "3": {
+                "Affix": [
+                    "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得 <color style='color:#99FFFFFF'>4.8%</color> / <color style='color:#99FFFFFF'>6%</color> / <color style='color:#99FFFFFF'>7.2%</color> / <color style='color:#99FFFFFF'>8.4%</color> / <color style='color:#99FFFFFF'>9.6%</color> 攻击力提升；上述角色不少于3名时，装备者的元素精通提升 <color style='color:#99FFFFFF'>24</color> / <color style='color:#99FFFFFF'>30</color> / <color style='color:#99FFFFFF'>36</color> / <color style='color:#99FFFFFF'>42</color> / <color style='color:#99FFFFFF'>48</color> 点。"
+                ]
+            },
+            "4": {
+                "Affix": [
+                    "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得 <color style='color:#99FFFFFF'>4.8%</color> / <color style='color:#99FFFFFF'>6%</color> / <color style='color:#99FFFFFF'>7.2%</color> / <color style='color:#99FFFFFF'>8.4%</color> / <color style='color:#99FFFFFF'>9.6%</color> 攻击力提升；上述角色不少于3名时，装备者的元素精通提升 <color style='color:#99FFFFFF'>24</color> / <color style='color:#99FFFFFF'>30</color> / <color style='color:#99FFFFFF'>36</color> / <color style='color:#99FFFFFF'>42</color> / <color style='color:#99FFFFFF'>48</color> 点。"
+                ]
+            },
+            "5": {
+                "Affix": [
+                    "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得 <color style='color:#99FFFFFF'>4.8%</color> / <color style='color:#99FFFFFF'>6%</color> / <color style='color:#99FFFFFF'>7.2%</color> / <color style='color:#99FFFFFF'>8.4%</color> / <color style='color:#99FFFFFF'>9.6%</color> 攻击力提升；上述角色不少于3名时，装备者的元素精通提升 <color style='color:#99FFFFFF'>24</color> / <color style='color:#99FFFFFF'>30</color> / <color style='color:#99FFFFFF'>36</color> / <color style='color:#99FFFFFF'>42</color> / <color style='color:#99FFFFFF'>48</color> 点。"
+                ]
+            },
+            "L": {
+                "Affix": [
+                    "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得 <color style='color:#99FFFFFF'>4.8%</color> / <color style='color:#99FFFFFF'>6%</color> / <color style='color:#99FFFFFF'>7.2%</color> / <color style='color:#99FFFFFF'>8.4%</color> / <color style='color:#99FFFFFF'>9.6%</color> 攻击力提升；上述角色不少于3名时，装备者的元素精通提升 <color style='color:#99FFFFFF'>24</color> / <color style='color:#99FFFFFF'>30</color> / <color style='color:#99FFFFFF'>36</color> / <color style='color:#99FFFFFF'>42</color> / <color style='color:#99FFFFFF'>48</color> 点。"
+                ]
+            }
+        }
+    }
+}
+
+var weapon_story_cache_ = {
+    "195431": [
+        "<br>那是如今被称作神话的久远过去，巨龙依然阔步于密林之间的年岁。<br>被遗弃的少女为龙的主母所收养，在苍翠的风与鸟儿的鸣歌中长大。<br><br>「莉安歌，我引以为傲的女儿，我最为宠爱的女儿啊」<br>「如同你的兄弟姐妹那般，前去寻找属于你的道途吧」<br>「虽然你没有坚韧的鳞片，也没有尖利如锋刃的爪牙」<br>「但要记住，你永远是龙之主母的女儿，尊荣的王女」<br>「无论是人还是龙，这世间没有什么有资格让你屈膝」<br>「高傲地选择属于你的道途吧，如同真正的巨龙那般」<br><br>就这样，依循群龙的传统，名为莉安歌的少女从主母那里接过长弓，<br>在繁花与翠鸟的陪伴下，孤身一人踏上了所谓「寻访道途」的旅程。<br>直到行过诸多属于人与龙的土地，早已习惯了深林的少女方才知晓，<br>虽是这般广袤的世间，如林雀般无拘无缚地翱翔，却几乎可谓奢侈。<br>律法将凡人拘挛，妄执将群龙禁锢，所谓自由，向来只服膺于强者。<br>——既然如此，那便将一切阻碍弱者飞行的枷锁，自天穹之上射落。<br><br>最初不过是几个被她救下后无处可去的孤儿留在她的身侧，<br>接着是不愿受部族规则束缚的流浪武者选择追随她的歌声，<br>再之后，那些遭到放逐的龙众也来到林中，寻求她的庇护。<br>无冕的王女亦接纳着一切，无论是人是龙，昔日是敌是友：<br>凭一根长棍将魁伟如山的剪径之徒击败，大笑着尽释前嫌，<br>三度将傲慢的邪龙射落，又三度将它治愈，与其成为至交。<br>这便是在此后的千年中被称作「花羽会」的部族肇始之刻，<br>即便是无所依归的弱小之人，自此亦不必再畏惧风与天空。<br><br>「你似乎有所误解，被称作勇者的异邦人啊，我并非他们的王，他们也无需向谁人屈从」<br>「无人能于此称王，因为人人皆是无冕之王。抛却繁文缛节吧，能取悦我们的唯有歌声」<br>「不过，若是你果真如同你的言语那般挚诚，若是你果真渴望掀起烧却亘古枷锁的焚风」<br>「若是你果真能够赐予弱者平等的容身之所，被称作勇者的异邦人啊，我亦愿伴你同行」",
+        "<br>「母上无法理解我王高贵的决意，若她知晓此事，花羽会定然会率先向大联盟掀起叛旗」<br>「我王啊，为那灼耀璀璨的明日，为千年的愿景，应当将隐患早日根绝，莫要再做迟疑」<br><br>那是众部族的旗帜尚未附上灰白尘皑，盟约尚未失色的年岁。<br>咬鹃不再歌唱的夜晚，黯淡的炉火旁，少年向僭主如此提议。<br>是为了被煽诱的热望，还是为了贪婪，时至今日已无从追析，<br>人们只知晓，烬中之城那血色的宴火，焚去了王最后的畏忌。<br><br>「呵…旧友啊，分明只要解决我一人，何必要派出几百人呢」<br>「不过，既然是我错看了自己的血脉…那就让我血债血偿吧」<br><br>弓弦崩毁，鲜血流尽，就连随身携带的短刀也因挥砍而折断，<br>曾将无数邪龙从天穹射落的英杰，最终也迎来了力竭的时刻。<br>即便如此，在漫溢如河的朱红中，花羽会的主言者依然屹立。<br>以最初的箭赠予背叛的继承者，以剩余的箭赠予僭主的走卒，<br>既然胫骨早已碎裂，那便以最后一箭，将残躯钉上玉石之弓。<br>在那道途的尽头，纵是死亡也未能迫使群龙高傲的女儿屈膝。<br><br>「我尊荣的母亲啊…你的女儿最终还是找到了属于她的道途」<br>「唯有苦难属于我，唯有歌声属于我…我将这些留作墓志铭」<br>「纪念我曾经拥有过它们…也纪念我在最后『超越』了它们」<br>「我曾将我的生命献给众人，现在…我将我的死亡献给世间」"
+    ]
+}

@@ -1,0 +1,538 @@
+// Auto Generated
+
+var _AvatarFetterConfig_ = {
+    "106": {
+        "StoryList": [
+            {
+                "Title": "Character Details",
+                "Content": "When the name \"Mavuika\" is mentioned, the citizens of Natlan will not be stingy with their praise, for she has proven herself well-qualified and worthy of respect, be it as a leader or Archon.<br>She is the pinnacle of strength in Natlan, and she has the bearing to match. Even newly-arrived travelers need only hear her speak at the Stadium of the Sacred Flame to know that she merits being known as the sun.<br>She is exceedingly awe-inspiring, but is no unsmiling ruler whose ways may as well be set in stone. In informal situations, she is an enthusiastic and friendly big-sister figure, always ready to chat, and ever open to reasonable suggestions.<br>On the eve of the Pilgrimage of the Return of the Sacred Flame, the Weary Inn is often packed with passionate revelers, and Mavuika can often be found there, playing cards or singing songs with everyone, and even if some drunk person splashes their drink onto her, she doesn't mind at all.<br>After all, for someone who can ignite their hair to dry off said drink, such incidents are small beans. When such levity is hard to come by, why let something so minor spoil the mood?<br>But should the person intend to start a drinking contest, it is Mavuika's desire to win that will be kindled. As the \"battle\" has begun, there can be no room for retreat or surrender. The victor will be determined, one way or the other.<br>Since becoming Archon, her habits have remained utterly unchanged, and this has allowed her to make many friends across the tribes.<br>However, not everyone possesses the subtle sense of proper propriety for such a relationship. Indeed, she can be too down-to-earth, and with her lack of airs, some misjudge the situation and get the false impression that they can use their friendship with an Archon to their own benefit.<br>Strangely enough, though people of this sort are a dime a dozen, they have never caused any major trouble, for Mavuika has never responded to such ridiculous requests — a solemn, icy stare is all she needs to send the other party scampering away.<br>The sight of those ever-burning eyes casting such a frigid gaze wakes those confused fools up in an instant to the fact that Mavuika is still the leader of a nation, a supreme deity.<br>A Speaker's Chamber staff member once suggested that she should subject those who so harass her to at least token punishment, lest there be an endless stream of incidents to come, but she refused.<br>\"Archonhood is status, authority, and a spiritual symbol. But it is not who 'I' am.\"",
+                "Tips": []
+            },
+            {
+                "Title": "Character Story 1",
+                "Content": "Theoretically, anyone in Natlan can become the Pyro Archon, so long as they prove that they are the mightiest warrior of their era during a Pilgrimage.<br>Therefore, the rulers of the nation have varied wildly in personality and style. Some worshipped power and strength, valuing results. To them, any price was acceptable so long as the ends could be achieved.<br>Mavuika is just the opposite. In the eyes of others, she is undoubtedly your typical \"perfectionist\" — not only must things be done well, but also beautifully.<br>To pursue quality and completeness is only human, but doing so often requires extra time. And whenever anyone tells her that such an approach isn't efficient enough, Mavuika has a set of arguments at the ready.<br>First, there are no standalone events in this world. Tracing events backward reveals causes, while moving forward reveals outcomes. Humans are incapable of analyzing the whole chain of events. All they can do is handle each one as best they can, and avoid leaving hidden pitfalls.<br>Second, all past events become valuable experiences. Successes serve as references, and failures as lessons. But if matters were dealt with carelessly, all they will leave are warnings to not repeat the same mistakes.<br>But apart from these two ideas, Mavuika also has a very important reason for her approach that she rarely ever mentions — and that is \"fun.\"<br>She has a broad range of hobbies, and has unparalleled skill in the various sports and games popular across the tribes, but one sentence can sum up all of these interests — she loves getting better at things.<br>For example, when she first learned how to rock climb, she would commit every movement her coach made to memory and ask in detail about every last maneuver.<br>Her next step was to train — and train a lot, making her body remember the trick behind each movement, gradually executing them faster and faster. She even requested someone to record the entire process with a Kamera, all the better to later study any failures or areas where she wasn't fluid enough.<br>She would also talk with her coach and use various tools and equipment in order to solve problems she encountered, enumerating lists of solutions, and trying out each one in turn before choosing the best.<br>In this way, Mavuika honed her climbing skills to perfection most quickly indeed, and her questions grew ever harder for her coach to answer, eventually shifting their relationship from that of teacher and student to that of fellow lovers of climbing, delving into their craft together.<br>In other fields, there were even more exaggerated cases. In some cases, Mavuika would come to surpass \"masters\" with three to four decades of experience after just a single year of study.<br>The reason behind this was actually quite simple: Building up skills is easy, but maintaining progress is hard. Once memories have sunk into one's body, it becomes easy for one to grow self-satisfied and complacent, and thus cease to actively think.<br>As such, one thing Mavuika detests is repetition: If a deed done before must be done again, then it must be done differently in some way, whether by trying something new, or else through reflection and optimization.<br>But it is difficult for most to see all the effort that she puts into this, and thus, her swift progress is often put down to talent. To this, she can only wryly smile, for who in this world was born with such a surfeit of talent?<br>\"If you want to improve, all you have to do is master the 'skill' of improvement and then just put in the work.\"",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 2"
+                ]
+            },
+            {
+                "Title": "Character Story 2",
+                "Content": "Mavuika gives the impression of being a most avid outdoorswoman. When not at work or training, she can be seen in all sorts of places, throwing herself at various extreme challenges.<br>But what people often fail to realize is that she actually can also sit still for long periods of time, staying focused as she reads books and woven scrolls, as she possesses ample patience.<br>Her other great indoor hobby is solving puzzles, whether these involve logical reasoning or pattern recognition, and regardless if their contents are images, numbers, or even stories. All quickly suck her into a world of her own.<br>After enjoying time well-spent making deductions and decisions, she even scores these puzzles based on their quality, difficulty, and reasonability, so that her fellow puzzle hobbyists have a reliable standard to refer to.<br>Yet this hobby of hers came to pose a problem: Puzzle games are usually one-time sources of enjoyment and lack replayability, and Mavuika tends to solve them all too quickly, faster even than the ability of puzzle creators to develop new ones.<br>As such, while keeping an eye on any new puzzles that come to market, Mavuika also dusts off already-solved puzzles and adds various restrictions and limitations to increase the difficulty or complexity.<br>For example, while doing a puzzle, she might allow herself to select pieces normally, but flip the pieces when placing them, thus only being able to see if she has the puzzle right after placing every piece and flipping the whole thing back over.<br>Or perhaps, if the puzzle requires separating multiple connected pieces of metal, she will affix one piece to the table, thus restricting the number of directions in which she can conveniently pull the pieces apart, requiring her to consider alternatives — a restriction that can also be applied to knot puzzles.<br>Over time, she has compiled the various gameplay challenges she has come up with and puzzle ratings she has given, creating a most valuable curated catalog of puzzles.<br>At first, she published it at the Speaker's Chamber, hoping that she could help her fellow hobbyists, and also promote this relatively niche hobby while she was at it, but the quickest to seize upon the utility of the resource she created were, in fact, the sellers of puzzles.<br>They used the recommendation of the Pyro Archon herself to shamelessly peddle their puzzles, but this quickly led to numerous disputes — approval though it be, Mavuika's catalog only indicated her personal preference, while the full scope of human taste in puzzles is vast indeed.<br>Following that incident, Mavuika no longer publicly discloses her catalog, but if one truly considers oneself a puzzle enthusiast, one can still go to the Speaker's Chamber and request to view it.<br>...With the caveat that you must first prove yourself an expert by solving a random puzzle selected from Mavuika's collection by the Chamber staff, of course.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 3"
+                ]
+            },
+            {
+                "Title": "Character Story 3",
+                "Content": "Mavuika was born to a very ordinary family of the Scions of the Canopy. Her mother was bold and passionate but lacked caution, while her father was knowledgeable but taciturn, and the two would constantly clash from the moment they were married.<br>The birth of their child changed everything — Mavuika was like a small, pure, burning sun, constantly casting rays of warmth in all directions, the streaming light scattering and burning away the barriers and gloom that lay between them.<br>Young Mavuika was curious about everything and anything, and whenever her father would answer her questions, he always drew a worshipful gaze and warm, genuine smile from her, a process that gradually taught him the joys of communicating with others and sharing his thoughts.<br>While she gained knowledge from her father, Mavuika would pester her mother to bring her out on adventures every day, and on these, the brave young girl would always charge ahead, scaring her mother half to death. As this repeated time and again, her mother came to realize how her own reckless behavior must have seemed inappropriate in the eyes of others.<br>Mavuika matured faster than any other child her age, and very quickly, the knowledge she had gleaned from her father allowed her to point out her mother's rashness, and the experiences she had with her mother allowed her to identify her father's overly idealistic thinking.<br>Like a bridge, she stood between two people who could not at first communicate easily with one another, slowly dissolving the many contradictions and misunderstandings that had accumulated over time. When her father taught her martial arts, her mother would give pointers from the side, and when her mother took her to train Saurians, her father would also come along.<br>But the thing that really pushed Mavuika to take another step forward was the birth of another angel into the house — her sister, Hine.<br>Perhaps it was because Mavuika had already taken on responsibilities important to the family's relationships that she quickly got used to the role of an older sister, and step by step, she passed on all that she had learned from her parents to Hine.<br>Hine was by no means easy to handle. She was naughty at times, quiet at others, and rarely obedient, which often resulted in the other three household members seated at the table simultaneously facepalming with a sigh. But even these were moments filled with warmth.<br>Once, when Mavuika and her father were teaching her, Hine asked a question:<br>\"If all the Pyro Archons are just humans, how can we be sure that every person who becomes one will be willing to protect us?\"<br>\"It's precisely because we are all ordinary people that we don't need such guarantees.\"<br>\"Daddy, I don't get it! You're talking in riddles again.\"<br>\"Ask your sister, then. I'm certain she's figured this one out already — a long while ago, in fact.\"<br>Mavuika simply smiled and hugged her sister, patting her on her head, and said nothing more on the matter.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 4"
+                ]
+            },
+            {
+                "Title": "Character Story 4",
+                "Content": "Five hundred years ago, when Mavuika's plan to save Natlan was revealed to the chiefs and elite warriors, there were stark divisions of opinion.<br>Some believed that the loss of a leader and warrior as important as Mavuika was unacceptable, for there could be no future to speak of if the present era could not be defended.<br>In the end, however, the vast majority were persuaded by Mavuika or by the various tribal chiefs, for hers was the only plan that provided any hope of victory, even though to those at the time, it seemed incredibly risky, and had slim odds of success anyway.<br>Guided by an unspoken understanding, the warriors visited her Speaker's Chamber as one, offering their most important belongings to be used as \"fuel\" in case of any future emergencies.<br>These brave people were proud of this necessary sacrifice and did not hesitate in the least, but Mavuika called out to each of them before they could leave, offered them a hot drink, and listened to them speak of the story behind those objects.<br>She was willing to, and indeed, had to carry these stories with her into the future, for memories can surpass time where human lifespans may fail. And though these objects might not endure into the future, so long as someone still sang their stories, they could welcome the victorious dawn alongside the people of the future.<br>Thus did they all, old friends of Mavuika and relative strangers both, speak freely in the Speaker's Chamber, at times boasting of heroic achievements, and at others shedding silent tears for the passing of close kin and friends.<br>Each item was well-kept and maintained, and their numbers have only increased over the last five hundred years, up until now.<br>However, only a very few would finish the last of their drink after telling their story, pause for a moment, and then ask Mavuika if she had similar stories she wanted to share.<br>And with a smile on her face, she would speak of her parents, of Hine, and of their two mischievous Yumkasaurs, the things she held most dear in the time she was about to lose.<br>\"All of this stuff is pretty important, isn't it...\"<br>\"No. All of it ceased to be important the moment we decided on this plan — even me.\"",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 5",
+                    "Complete \"Black Stone Under a White Stone\""
+                ]
+            },
+            {
+                "Title": "Character Story 5",
+                "Content": "Mavuika always imagined her plan to fight against the Abyss as a lengthy journey, and herself as an adventurer carrying a full pack and marching toward her predetermined goal. Memory and love were the supplies she brought, and they would help see her through confusion and solitude.<br>Within a world created through meditation, she would manifest this path. A high tower would appear in the distance, the Sacred Flame burning at its summit, lighting her way and showing her the path.<br>None knew how to get there, nor how far the journey would take her, but as her luggage grew ever lighter, the road stretched ever farther on with each step she took.<br>Farewell, Atea said to her, and Tenoch, and her mother and sister.<br>Farewell, Sundjatta told her, and Burkina and Wanjiru also.<br>The existence of the path to victory was not something to be taken for granted. Rather, it was forged by countless heroes, past and present. Rather than a \"Savior,\" then, Mavuika preferred to be known as an \"agent.\"<br>But this alone was not enough. Her journey was no penance that required only willpower, but rather, decisiveness and wisdom also.<br>She could never have foreseen such marked variables as the Traveler or The Captain five hundred years prior, but upon learning of them, she only needed a moment's consideration before deciding to incorporate them into the plan.<br>In addition to any other considerations she might have had based on the realities of the situation, another factor played into her judgment — that both the Traveler and The Captain exhibited traits that mirrored her own.<br>Were it not for their respective positions, she would have liked nothing more than for the three of them to sit and speak of their travels over grilled meat and drinks. After all, those who travel along the same road, never having a fixed residence, can best resonate with and understand one another.<br>But she also had a deep understanding of the obstacles therein — having traveled so far, it was only natural to not wish to show the fatigue or weakness in one's heart, and even she was no exception.<br>She could easily tell stories about her comrades or family with a smile, but rarely could she speak of the sadness sown in the river of time by those happy moments, nor could she take out her long-emptied haversack, point at it, and speak of how it reflected the current state of her heart.<br>She could not, she would not, and she did not need to.<br>So, in the end, she kept a suitable distance, just as she always has. Everyone needed the ringing cheers and flowing wine of victory feasts, just as they needed the solitary quiet once the revelry faded.<br>In this era, perhaps only one person would ever inappropriately knock on her door in those peaceful moments, and that was Citlali.<br>Perhaps it was her fondness for drink? Or maybe they just made suitable drinking buddies.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 6",
+                    "Complete \"Incandescent Ode of Resurrection\""
+                ]
+            },
+            {
+                "Title": "Flamestrider",
+                "Content": "In emergencies, speed is the difference between life and death. Being well aware of this, Mavuika had long had the idea of constructing a multifunctional powerhouse of a vehicle.<br>It needed to be both fast and sturdy, such that it would not be damaged while moving at high-speeds, no matter the circumstances.<br>It needed to be able to traverse a wide variety of terrain, from cliffs to the water's surface, or even the skies. After all, in critical situations, the quickest path is always a straight line.<br>It also needed sufficient explosive power, such that it could serve as a weapon when necessary. After all, in the event of an Abyssal attack, time spent tangling with monsters was time wasted.<br>Then, it had to be sufficiently compatible with Pyro, such that she could summon it with a mere flick of her wrist.<br>\"These are my requirements. Well within your capabilities, right, Xilonen?\"<br>\"Wha...?\"<br>Even by themselves, each of her criteria was difficult to fulfill. Put together, the task was truly outrageous. Even an artisan skilled as Xilonen thought Mavuika off her rocker, and understandably so.<br>But Mavuika had come with much more than just a request. She brought also ideas with which to solve the problems involved — long had she been scouring Natlan for all manner of strangely-shaped Source Mechanisms as yet uncorrupted by the Abyss, along with various design blueprints of unknown provenance.<br>In the distant past, the ancient dragons too had tried to fight against the Abyss. Their methods were exceptionally brutal, and as a result, they had built many a mighty device that relied on raw power to achieve victory. As for the blueprints, those Mavuika had copied by hand and brought with her.<br>If the secrets behind the schematics could be unlocked, and the pre-existing devices reverse-engineered, and the useful parts disassembled before being recombined...<br>Having considered things up to this point, Xilonen looked up at Mavuika's smiling face, and knew she no longer had any reason to refuse, nor did she want to — what artisan would willingly miss out on making such a creation?<br>Thus the two of them joined forces to delve into the secrets behind the Source Mechanisms. In the process, they discovered that their original assumptions were too simplistic. It was impossible to get all the key components they needed from existing material.<br>The solution, then, was to use modern smithing techniques to create said parts independently and combine the two elements — a process that involved lots of overheating and explosions en route to solving the Pyro compatibility issue that Source Mechanisms had.<br>After a long period of development, the prototype Flamestrider was at last complete. No one had ever seen such a beastly creation with such powerful capabilities before, and people lined up to see and applaud it.<br>Thus did the leader who protects Natlan gain yet another guaranteed source of strength.<br>Also worth mentioning is the fact that Xilonen declined to take part in the vehicle testing phase that followed, claiming that she had \"forgotten to make a second helmet.\" After all, sitting on the back of that thing while Mavuika is driving is a great way to end up feeling queasy.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 4",
+                    "Complete \"Incandescent Ode of Resurrection\""
+                ]
+            },
+            {
+                "Title": "Vision",
+                "Content": "When Mavuika was still very young, she had yet to develop a complete concept of life and death. It was at this time that her father achieved victory in the Pilgrimage, and was soon to embark on a glorious journey.<br>In the culture and traditions of Natlan, to obtain this privilege is to become a hero, and Mavuika was immensely proud of her father for having done so. Thus, when her father came to say his farewells, she couldn't really understand the disquiet on her mother's face.<br>It was very uncommon for a team fighting in the Night Warden Wars to be completely wiped out, and even should some fall, their lives' flames would be rekindled by the Ode of Resurrection so long as the unit dispatched achieved victory.<br>At last, news of victory came to the Stadium. It had been three days and nights of vicious battle, and had cost three out of seven warriors, Mavuika's father being among them.<br>Though she was somewhat worried, Mavuika knew the Rite of Rekindling to be akin to a victory feast. Her father would return to them from the Sacred Flame, just as she remembered, and their family would be reunited.<br>But, contrary to her expectations, her father was covered in wounds from head to toe, so much so that he could not even stand on his own two feet.<br>The Ode of Resurrection could rekindle life, but only the fatal wound could be reversed. The wounds that had slowly accumulated as the battle raged on or pre-existing ailments would not be cured. And it was precisely the length of the battle that had brought her father low.<br>This was the first time Mavuika had seen her father in such a weak state, and the first time she felt the gaze of \"death\" fixed on her. It was still a thing to be respected and feared, even with the Ode at hand.<br>Having rarely cried in her life, Mavuika held her tears back this time, too. She simply lowered her head in silence, gripping her father's hand as he lay in his sickbed, her heart filled, in truth, more with regret than sadness.<br>Perceiving her thoughts, her father told her that this was the truth of \"war,\" that all fear death, but that some would always step forth to fight, because they had something they wished to protect.<br>But the world of children is not yet governed by so many expectations, and she did not understand why her father, and indeed, all the grown-ups, were willing to shoulder the duty of war.<br>\"Since we're forced to fight this war, then I wish to put an end to it.\"<br>Mavuika's eyes flashed like flames as she spoke, and her parents looked at one another, some certainty dawning. They did not rush to deny that notion on account of their daughter's \"naivete.\" Instead, they nodded.<br>Her parents' acknowledgment steeled her initial resolve, and thus did the gaze of the gods come to rest upon her. And though she would later learn many secrets and know more about the crisis that Natlan faced, she would never doubt the trust she once saw in their eyes.<br>She believed that this was something that only she could do — not only because she was \"Kiongozi\" Mavuika, but also because she was her parents' daughter, their pride and joy. She was a daughter of the Scions of the Canopy — a daughter of Natlan.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 6",
+                    "Complete \"Incandescent Ode of Resurrection\""
+                ]
+            }
+        ],
+        "VoiceList": [
+            {
+                "Title": "Hello",
+                "Content": "With the flames to guide us across time, we took a land shrouded in darkness, and used our own blood and tears to forge it into a home. Now, our journey continues, and a new chapter awaits. As the current Pyro Archon, allow me, Mavuika, to light your way forward.",
+                "Tips": []
+            },
+            {
+                "Title": "Chat: Adventures",
+                "Content": "Exploration and trials... Heh, adventuring is right up my alley.",
+                "Tips": []
+            },
+            {
+                "Title": "Chat: Experience",
+                "Content": "Instead of confining themselves to the heavens, gods should broaden their horizons in the world below.",
+                "Tips": []
+            },
+            {
+                "Title": "Chat: Light",
+                "Content": "Many insects have a compulsion to follow the light, and humans are the same — except we call that light, \"hope.\"",
+                "Tips": []
+            },
+            {
+                "Title": "When It Snows",
+                "Content": "Ah, nice and cool. Natlan doesn't have places like this.",
+                "Tips": []
+            },
+            {
+                "Title": "When the Sun Is Out",
+                "Content": "Weather like this is perfect for enjoying the outdoors. Wanna go for a spin? Here, hop on.",
+                "Tips": []
+            },
+            {
+                "Title": "After the Rain",
+                "Content": "Ah, you're dripping wet. That must be uncomfortable... Let's take a break. I'll use my fire to dry you off.",
+                "Tips": []
+            },
+            {
+                "Title": "In the Desert",
+                "Content": "Sand is the natural enemy of fire and civilization. In the desert, ruins are all that remain to tell the story of the past.",
+                "Tips": []
+            },
+            {
+                "Title": "Good Morning",
+                "Content": "After waking up, I always go over the plan for the day in my head... Unfortunately, sleeping in is never on the agenda.",
+                "Tips": []
+            },
+            {
+                "Title": "Good Afternoon",
+                "Content": "Have you had lunch? The Collective of Plenty sent over some fresh fruit — the perfect thing to round out a meal. Here, try some.",
+                "Tips": []
+            },
+            {
+                "Title": "Good Evening",
+                "Content": "Hm, so this is the proposal and approximate budget to rebuild the roads in the Children of Echoes... Oh, good evening. Is it that late already?",
+                "Tips": []
+            },
+            {
+                "Title": "Good Night",
+                "Content": "Good Night! I'm going to take it easy and wrap up some work. Oh, don't worry — I see keeping busy as a great way to relax.",
+                "Tips": []
+            },
+            {
+                "Title": "About Mavuika: Hair",
+                "Content": "Oh, my hair? Don't worry, these are friendly flames — they won't burn you or incinerate anything. Although, I think our enemies will find that it's a bad idea to play with fire, if you know what I mean.",
+                "Tips": []
+            },
+            {
+                "Title": "About Mavuika: Message",
+                "Content": "Every Pyro Archon throughout Natlan's history has left behind important knowledge and memories within the Sacred Flame, for the benefit of future successors. When inherited, the sheer amount of information can impact your sense of self. So, I chose to leave behind this phrase, \"Before you become one with flame, be proud of who you are now.\"",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 4",
+                    "Complete \"Black Stone Under a White Stone\""
+                ]
+            },
+            {
+                "Title": "About Us: Fighting Side By Side",
+                "Content": "A plan is a reliable guide, but it's not an unchangeable or divine decree. Five hundred years ago, I could never have anticipated your arrival. But, after meeting you, I knew factoring you into my plan would be worth it. Judging from the outcome, choosing to fight by your side was unequivocally the right choice.",
+                "Tips": [
+                    "Complete \"Incandescent Ode of Resurrection\""
+                ]
+            },
+            {
+                "Title": "About Us: Ancient Names",
+                "Content": "You may not have realized this, but your ancient name, Tumaini, will have a significant impact on Natlan for years to come. When future generations speak this name, they will think about this battle and the efforts of all our heroes. Our names — Tumaini and Kiongozi — are now linked and will live on in perpetuity.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 6",
+                    "Complete \"Incandescent Ode of Resurrection\""
+                ]
+            },
+            {
+                "Title": "About the Vision",
+                "Content": "For humans, Visions and Ancient Names are both gifts from the gods, where the former bestows Elemental power and the latter spiritual inspiration. However, I have always believed that no external factor is a condition for greatness — heroism comes from within.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 4"
+                ]
+            },
+            {
+                "Title": "Something to Share",
+                "Content": "When I was little, my father told me that a barrel can only hold as much water as the shortest plank. If you want to reach your full potential, you need to be willing to become the weakest link, to acknowledge your shortcomings and learn from others. That doesn't make you a failure, it pushes you to succeed.",
+                "Tips": []
+            },
+            {
+                "Title": "Interesting Things",
+                "Content": "Baby Yumkasaurs are incredibly cute, and my Saurian companion, Hitata, was especially clingy. He used to jump into my arms the minute he saw me, even from quite a distance. My sister, Hine, would get so jealous — whenever she saw Hitata run towards me, she would do the same. Before I knew it, I would have an armful of baby Saurian and baby sister at the same time, haha.",
+                "Tips": []
+            },
+            {
+                "Title": "About Xilonen",
+                "Content": "Xilonen is one of the best craftsmen in Natlan. She has the ability to forge Ancient Names and is well-versed in Secret Source technology. Not to mention, she never backs away from a challenge, even when it's completely uncharted territory. The process isn't without twists and turns — like design changes and other modifications — but the results speak for themselves.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 4"
+                ]
+            },
+            {
+                "Title": "About Citlali",
+                "Content": "Many people find her strange or difficult to get along with. But, this is how I see it — Citlali doesn't concern herself with trivial matters, but she's always there when it counts. I'm sure you've seen that for yourself. She's someone who can easily tunnel vision and get herself embroiled in trouble, so I try to keep certain things from her. But, she can see right through me... She's too sharp.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 4",
+                    "Complete \"The Rainbow Destined to Burn\""
+                ]
+            },
+            {
+                "Title": "About Chasca",
+                "Content": "Being able to survive under the influence of Abyssal corrosion was already a miracle, but thanks to the people and Saurians of this land, she even found a reason not just to survive, but to live. I have every faith in her fortitude, but I will still do what I can to make this land a \"gentler\" place — even the strongest among us need a break sometimes.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 4",
+                    "Complete \"Incandescent Ode of Resurrection\""
+                ]
+            },
+            {
+                "Title": "About Ororon",
+                "Content": "In my opinion, Ororon's true personality is very different from what he projects on the outside — like lava covered in ice. His tribe and his friends bring him peace, but his drive to protect them and his need to become a hero leave him restless. It's inadvisable to act on impulse, but these are precious qualities all the same.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 4",
+                    "Complete \"The Rainbow Destined to Burn\""
+                ]
+            },
+            {
+                "Title": "About Iansan: Being Targeted",
+                "Content": "A lot of people underestimated Iansan during her first few Pilgrimages after receiving her Ancient Name, and singled her out during the team stage as an easy target. Even though she never lost, the constant challengers drained her stamina and affected her ranking, which only made people more likely to target her...",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 4"
+                ]
+            },
+            {
+                "Title": "About Iansan: Proving Yourself",
+                "Content": "My advice to her was this — people are less likely to mess with someone whose strength is undeniable, so all she needed to do was to prove it. Well, she decided to do just that... by challenging me in the arena, hahaha. Yeah, I definitely didn't see that coming! In the end, she put up quite the fight, and no one underestimated her again.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 4"
+                ]
+            },
+            {
+                "Title": "About Mualani",
+                "Content": "In terms of personality, Mualani and Tupac are completely different, and yet both inherited the name, Umoja. Unity lies not in a particular action, but in a state of mind — a willingness to give your all for your nation, family and friends. But, I doubt Mualani was thinking about any of that back then. She knew one thing to be true — that Kachina's life was worth any risk to her own.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 4",
+                    "Complete \"Black Stone Under a White Stone\""
+                ]
+            },
+            {
+                "Title": "About Kinich",
+                "Content": "In addition to the Turnfire, Malipo has another meaning, \"cost\" or \"price.\" It may seem less overtly heroic compared to the other Ancient Names, but in truth, Malipo teaches us to be calm and analytical — to ask the questions people may not want to hear. Without people who possess these qualities, it's just too easy for the rest of us to act on impulse and emotion, and make decisions we'll come to regret.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 4",
+                    "Complete \"Black Stone Under a White Stone\""
+                ]
+            },
+            {
+                "Title": "About Kachina",
+                "Content": "After you rescued Kachina from the Night Kingdom, I visited her family with Chief Pacal, and brought a few gifts to once again apologize for what happened. Kachina's time in the Night Kingdom left her with many scars she will have to carry into the future — scars she should never have had to bear... And for that, the fault is mine.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 4",
+                    "Complete \"Black Stone Under a White Stone\""
+                ]
+            },
+            {
+                "Title": "About Varesa",
+                "Content": "During the Pilgrimage, I cover all the expenses at the Weary Inn, and without fail, there's always an order for a party tray for eighty. I used to assume it was someone ordering for a large group of friends, but as it turns out... Varesa ordered it all for herself.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 4"
+                ]
+            },
+            {
+                "Title": "About Ifa",
+                "Content": "The truly great doctors often possess vast medical knowledge as well as great communication skills. And, when the patient and the doctor do not speak the same language, observation and empathy become even more important. That's why Ifa can make friends with just about anyone.<br>Suffice it to say, if someone is on bad terms with Ifa — human or saurian — I doubt the problem lies with him, haha.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 4"
+                ]
+            },
+            {
+                "Title": "About The Captain",
+                "Content": "For him, I suspect the past five hundred years felt endless. When someone is deprived of death, life becomes a journey with no end, and the human spirit easily grows weary. And yet, he managed to seize the only chance of victory to arrive at the end he sought all along. I have great respect for warriors like him.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 4",
+                    "Complete \"Incandescent Ode of Resurrection\""
+                ]
+            },
+            {
+                "Title": "About The Seven",
+                "Content": "To be quite honest, you likely know them better than me. However, their nations continue to survive and thrive to this day, and that would be impossible without strong leadership. Once this chapter of Natlan's history comes to a close, I plan on strengthening our relationship with other nations so that Natlan can continue to grow.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 4",
+                    "Complete \"Incandescent Ode of Resurrection\""
+                ]
+            },
+            {
+                "Title": "About Yumemizuki Mizuki",
+                "Content": "Ah, she left a very positive impression. When she first arrived in Natlan, I heard that she had a great deal of interest in our hot springs and spent quite some time studying their properties. But, it wasn't for profit. She was interested in their role in improving mental health. Such a pure cause deserved our support and respect.<br>Speaking of which... Is it true that the current Archon of Inazuma enjoys hot springs as well? If that's the case, I believe I've found a good starting point for our next conversation.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 4"
+                ]
+            },
+            {
+                "Title": "More About Mavuika: I",
+                "Content": "Oh, you want to know more about me? Sure, I'm actually quite fond of telling stories. Still, I think this will be a lot more fun over a few drinks.",
+                "Tips": []
+            },
+            {
+                "Title": "More about Mavuika: II",
+                "Content": "Riding the flamestrider isn't complicated, it just takes some practice. If I want to go fast, though, I would need to install some safety components. What was that? I'm already going quite fast? Well, when I asked, this is what Xilonen told me — \"It's safe enough — not like you're made of glass.\"",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 3"
+                ]
+            },
+            {
+                "Title": "More about Mavuika: III",
+                "Content": "Of course, I also have many regrets. Thanks to my knowledge and strength, I'm an effective problem-solver, but most of the time, all people really need is companionship... I've disappointed many people in that regard, but duty stops for no one. Questioning my path will only bring more pain — I owe it to myself to stick to my convictions.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 4",
+                    "Complete \"Black Stone Under a White Stone\""
+                ]
+            },
+            {
+                "Title": "More about Mavuika: IV",
+                "Content": "Unleashing the power of the divine throne bound my soul to the Ley Lines. As I rose up into the air, I could feel the passion of our warriors, the determination of our people, and the pain of our fallen... It's a scene I've witnessed once before. But, with the help of our heroes, this time it had a very different ending. That is how we know this struggle was not in vain.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 5",
+                    "Complete \"The Rainbow Destined to Burn\""
+                ]
+            },
+            {
+                "Title": "More about Mavuika: V",
+                "Content": "With our triumph over the Abyss, my most important duty as Pyro Archon came to an end. Five hundred years ago, I chose to fight for a future that likely wouldn't include me — so I was prepared for that result. So, when that future actually arrived, I was at a loss... But, you've inspired me. Exploration, curiosity, and dedication to others — that's the path forward.",
+                "Tips": [
+                    "Unlocks at Friendship Lv. 6",
+                    "Complete \"Incandescent Ode of Resurrection\""
+                ]
+            },
+            {
+                "Title": "Mavuika's Hobbies",
+                "Content": "Getting stronger. Completing a difficult challenge, solving a complicated puzzle, defeating a powerful enemy... I don't have a singular hobby — the sense of accomplishment is what I enjoy the most.",
+                "Tips": []
+            },
+            {
+                "Title": "Mavuika's Troubles",
+                "Content": "\"Due to lack of popularity, all future expansions and additions to 'The Saurian Sleuth' have been suspended...\" That was my favorite tabletop puzzle game. It can't be because it was too hard or the rules were too complicated, right? That doesn't make it bad... *sigh* If it comes down to sales, there's not much I can do. I hope the creator will come out with a new game. Maybe I'll write an anonymous letter to support him...",
+                "Tips": []
+            },
+            {
+                "Title": "Favorite Food",
+                "Content": "Even when it comes to the simplest home-cooked meals, every family has their own recipe, and the flavor can change a lot. I've tried a bunch of different stews around the Stadium, each unique and delicious in its own way. But, if I'm cooking for myself, I still prefer my family recipe.",
+                "Tips": []
+            },
+            {
+                "Title": "Least Favorite Food",
+                "Content": "I like most ingredients, but I don't really appreciate dishes that are more form than substance, like a full course dinner that will take three whole hours to get through... I respect culinary innovation, of course, but I prefer to spend my time on something more productive.",
+                "Tips": []
+            },
+            {
+                "Title": "Receiving a Gift: I",
+                "Content": "Just what I like, thank you. Do you have the recipe? I'd love to learn.",
+                "Tips": []
+            },
+            {
+                "Title": "Receiving a Gift: II",
+                "Content": "Not bad overall, but there's still room for improvement.",
+                "Tips": []
+            },
+            {
+                "Title": "Receiving a Gift: III",
+                "Content": "Oh, it's surprisingly edible. Definitely not as bad as it looks.",
+                "Tips": []
+            },
+            {
+                "Title": "Birthday",
+                "Content": "Starting from today, you should write down all your accomplishments on a piece of paper. Then, when you take it out on your next birthday, you'll have a gift from yourself! That way, you'll never forget how amazing you are. Happy Birthday, Traveler.",
+                "Tips": []
+            },
+            {
+                "Title": "Feelings About Ascension: Intro",
+                "Content": "Perfect! I feel nice and loose.",
+                "Tips": [
+                    "Unlocks at Ascension Phase 1"
+                ]
+            },
+            {
+                "Title": "Feelings About Ascension: Building Up",
+                "Content": "I can feel myself getting stronger. But, my power doesn't stop here.",
+                "Tips": [
+                    "Unlocks at Ascension Phase 2"
+                ]
+            },
+            {
+                "Title": "Feelings About Ascension: Climax",
+                "Content": "My fire grows hotter, and my body and spirit more aligned. This power shall allow me to fulfill all my duties as a leader.",
+                "Tips": [
+                    "Unlocks at Ascension Phase 4"
+                ]
+            },
+            {
+                "Title": "Feelings About Ascension: Conclusion",
+                "Content": "Ever since we met, my power has grown by leaps and bounds. Though different missions drive us forward, a shared sense of duty and justice binds us together. Your help to Natlan is immeasurable, and I am more grateful than words can say.",
+                "Tips": [
+                    "Unlocks at Ascension Phase 6"
+                ]
+            },
+            {
+                "Title": "Elemental Skill: I",
+                "Content": "Light it up.",
+                "Tips": []
+            },
+            {
+                "Title": "Elemental Skill: II",
+                "Content": "Burn it down!",
+                "Tips": []
+            },
+            {
+                "Title": "Elemental Skill: III",
+                "Content": "Rise with the sun.",
+                "Tips": []
+            },
+            {
+                "Title": "Elemental Skill: IV",
+                "Content": "Rev the engines!",
+                "Tips": []
+            },
+            {
+                "Title": "Elemental Skill: V",
+                "Content": "Full throttle!",
+                "Tips": []
+            },
+            {
+                "Title": "Elemental Skill: VI",
+                "Content": "Try and stop me.",
+                "Tips": []
+            },
+            {
+                "Title": "Elemental Burst: I",
+                "Content": "Light of the blazing sun!",
+                "Tips": []
+            },
+            {
+                "Title": "Elemental Burst: II",
+                "Content": "Wrath from the skies!",
+                "Tips": []
+            },
+            {
+                "Title": "Elemental Burst: III",
+                "Content": "Pyroclastic surge!",
+                "Tips": []
+            },
+            {
+                "Title": "Opening Treasure Chest: I",
+                "Content": "The rewards of an adventure worth remembering.",
+                "Tips": []
+            },
+            {
+                "Title": "Opening Treasure Chest: II",
+                "Content": "Ah, something to add to my collection.",
+                "Tips": []
+            },
+            {
+                "Title": "Opening Treasure Chest: III",
+                "Content": "Hey, not a bad haul.",
+                "Tips": []
+            },
+            {
+                "Title": "Low HP: I",
+                "Content": "No more mistakes.",
+                "Tips": []
+            },
+            {
+                "Title": "Low HP: II",
+                "Content": "Switching gears.",
+                "Tips": []
+            },
+            {
+                "Title": "Low HP: III",
+                "Content": "Time to buckle down.",
+                "Tips": []
+            },
+            {
+                "Title": "Ally at Low HP: I",
+                "Content": "Leave the fighting to me.",
+                "Tips": []
+            },
+            {
+                "Title": "Ally at Low HP: II",
+                "Content": "Take a breather.",
+                "Tips": []
+            },
+            {
+                "Title": "Fallen: I",
+                "Content": "The flame... burns on...",
+                "Tips": []
+            },
+            {
+                "Title": "Fallen: II",
+                "Content": "The end... of our legacy...",
+                "Tips": []
+            },
+            {
+                "Title": "Fallen: III",
+                "Content": "Is this... our fate?",
+                "Tips": []
+            },
+            {
+                "Title": "Heavy Hit Taken: I",
+                "Content": "Not bad.",
+                "Tips": []
+            },
+            {
+                "Title": "Joining Party: I",
+                "Content": "Archon reporting for battle.",
+                "Tips": []
+            },
+            {
+                "Title": "Joining Party: II",
+                "Content": "Any time, any place.",
+                "Tips": []
+            },
+            {
+                "Title": "Joining Party: III",
+                "Content": "Ready to ride.",
+                "Tips": []
+            }
+        ]
+    }
+}
+
+var _AvatarCostumeConfig_ = {
+    "106": {
+        "Costumes": [
+            {
+                "ID": 0,
+                "Name": "Undying Sun",
+                "Desc": "Mavuika's outfit. She is the sun that walks among us, the beacon that shines through every night, and the spark by which all kindling is ignited, bestowing courage upon us all. Such is her radiance that it shall never fade away.",
+                "Icon": "",
+                "Quality": 0
+            }
+        ],
+        "Dish": {
+            "ID": 108787,
+            "JD": 108780,
+            "Name": "<b>Hymn of Gathered Flame</b>",
+            "Eff": "Increases all party members' CRIT Rate by 20% and CRIT DMG by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+            "Desc": "Mavuika's specialty. A variety of seafood, perfectly grilled, harmonizes into an exquisite symphony of flavor. It resembles an eternal, noble anthem ringing in your ears, with the unquenchable flames igniting in tandem. The stirring, beautiful melody carries an inspiring power. Is this perhaps also a part of the Pyro Archon's immense strength?",
+            "Recipe": {
+                "101243": 4,
+                "100080": 2,
+                "100076": 2,
+                "100084": 2
+            },
+            "Icon": "UI_ItemIcon_108787"
+        },
+        "Namecard": {
+            "Name": "<b>Mavuika: Sun-Crowned</b>",
+            "Desc": "Namecard style.<br>No Pyro Archon has ever intended to contest the sun. But as ordinary people see it, this \"solar ring\" is the crown of leaders as radiant as the sun.",
+            "Pic": "UI_NameCardPic_Mavuika_P"
+        }
+    }
+}
+
+var acs_cache_ = {}

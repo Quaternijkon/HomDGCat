@@ -1,0 +1,19 @@
+// Auto Generated
+
+var _WeaponAffixPConfig_ = {
+    "115509": {
+        "Ver": {
+            "L": {
+                "Affix": [
+                    "攻撃力+ <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> 、「飛雷の巴紋」の効果を獲得できる。飛雷の巴紋を1/2/3層有する時、通常攻撃のダメージ+ <color style='color:#99FFFFFF'>12/24/40%</color> / <color style='color:#99FFFFFF'>15/30/50%</color> / <color style='color:#99FFFFFF'>18/36/60%</color> / <color style='color:#99FFFFFF'>21/42/70%</color> / <color style='color:#99FFFFFF'>24/48/80%</color> 。飛雷の巴紋は次の各状況において獲得できる。通常攻撃でダメージを与えた時、継続時間5秒の飛雷の巴紋を1層獲得する。元素スキルを発動した時、継続時間10秒の飛雷の巴紋を1層獲得する。また、キャラクターの元素エネルギーが100%未満の場合、飛雷の巴紋を1層獲得する、この飛雷の巴紋は元素エネルギーが満タンになると消失する。飛雷の巴紋の継続時間は層ごとに独立している。"
+                ]
+            }
+        }
+    }
+}
+
+var weapon_story_cache_ = {
+    "195509": [
+        "<br>This bow, crackling with thunder, retains its luster despite having been soaked in thick darkness.<br>When disaster came from a distant sea, it was once the favorite weapon of a great swordsman.<br><br>In his youth, he wandered the mountains, and he made a wager with a great Tengu he came across.<br>He gambled his young, strong body as a bet against a bow given by the Shogun.<br><br>As for the gamble itself, he could only sometimes recall it, when he was drunk.<br>But by the time dawn came, he had three wins and three losses — his contest with the Tengu was a draw.<br>So in the bad news, he was taken as a servant by the Tengu. But in the good news, he won that unmatched bow.<br><br>\"Behold, Konbumaru, this is Tengu archery. Watch and learn!\"<br>He was given this rather ridiculous nickname, but ultimately, he witnessed the Tengu's form.<br>Soaring through the clouds unfettered, unleashing thunderbolts with every bowstring's pulse...<br>It was a true, unreserved dance of death. Fierce and unpredictable, elegant and beautiful.<br><br>Many years later, he was no longer a servant boy, and he had grasped both some archery and swordsmanship.<br>He was referred to the Shogunate through a recommendation letter from his impatient master.<br>In the years under the Shogun, his martial skills improved greatly, and he made many friends and enemies.<br>Still, his hobby of unrestrained wanderlust had not changed. On the contrary, with the Tengu's great bow, he became yet more fearless.<br><br>\"Let's make a wager this time, shall we? Hmm. Right, then. This bow shall be my wager.\"<br>\"I bet on the mightiest bow in the world that I will return here alive.\"<br>\"I'll leave it here with you for now. If I, Takamine, lose our bet, you can keep the bow.\"<br>\"After all, you've inherited the essence of my archery techniques. You'll be able to make good use of it.\"<br>\"But if I win...\"<br><br>When disaster swept in from across the distant sea, the samurai and the obstinate shrine maiden had a mutual wager.<br>They bet on his safe return from the abyss against the inscribed bow bestowed by the Shogun.<br><br>When the dark venom sank deep into the earth and peace returned, the swordsman did not come back.<br>The Shogun's bestowed bow was given to the shrine maiden as her prize for winning their great wager.<br>Later, in the forest where the Kitsune Saiguu would no longer appear, in the promised meeting place,<br>The lone returnee who came stumbling back from the abyss finally met the shrine maiden again, though by now she could no longer be called young.<br>Dull eyes stained with dried blood and tears regained their radiance, but were pierced through by a barbed arrow glowing with power."
+    ]
+}

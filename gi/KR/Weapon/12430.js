@@ -1,0 +1,44 @@
+// Auto Generated
+
+var _WeaponAffixPConfig_ = {
+    "112430": {
+        "Ver": {
+            "1": {
+                "Affix": [
+                    "낙하 공격의 치명타 확률이 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color>  증가한다. 낙하 공격이 적에게 명중 후, 일반 공격, 강공격, 낙하 공격이 주는 피해가 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color>  증가한다. 지속 시간: 10초"
+                ]
+            },
+            "2": {
+                "Affix": [
+                    "낙하 공격의 치명타 확률이 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color>  증가한다. 낙하 공격이 적에게 명중 후, 일반 공격, 강공격, 낙하 공격이 주는 피해가 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color>  증가한다. 지속 시간: 10초"
+                ]
+            },
+            "3": {
+                "Affix": [
+                    "낙하 공격의 치명타 확률이 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color>  증가한다. 낙하 공격이 적에게 명중 후, 일반 공격, 강공격, 낙하 공격이 주는 피해가 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color>  증가한다. 지속 시간: 10초"
+                ]
+            },
+            "4": {
+                "Affix": [
+                    "낙하 공격의 치명타 확률이 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color>  증가한다. 낙하 공격이 적에게 명중 후, 일반 공격, 강공격, 낙하 공격이 주는 피해가 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color>  증가한다. 지속 시간: 10초"
+                ]
+            },
+            "5": {
+                "Affix": [
+                    "낙하 공격의 치명타 확률이 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color>  증가한다. 낙하 공격이 적에게 명중 후, 일반 공격, 강공격, 낙하 공격이 주는 피해가 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color>  증가한다. 지속 시간: 10초"
+                ]
+            },
+            "L": {
+                "Affix": [
+                    "낙하 공격의 치명타 확률이 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color>  증가한다. 낙하 공격이 적에게 명중 후, 일반 공격, 강공격, 낙하 공격이 주는 피해가 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color>  증가한다. 지속 시간: 10초"
+                ]
+            }
+        }
+    }
+}
+
+var weapon_story_cache_ = {
+    "192430": [
+        "<br>The great mother tree rooted in the cracks and crevices that today grows beneath Coatepec Mountain once grew elsewhere,<br>According to what the storytellers say, it was in foothills that were higher even than the volcano, towering above even the clouds.<br>There was once a young courier who was royally peeved at a Saurian who lived on the mountain's other end, for the latter often mocked his movements as foolish,<br>And so he swore that he would go to the highest peak to harvest the Flamegranates growing on the mother tree,<br>To show off his great skill to the one most agile, even amongst all Yumkasaurs.<br><br>But there is no great deed in this world that can be done simply by thinking about it,<br>And though the hero named Burkina could scale the peaks with his bare hands, gripping the rock with naught but his fingertips,<br>He could not stop the winged Saurians circling the summit from harassing him, as though ridiculing him with their wings,<br>And less still could he do about the many wild beasts standing guard beneath the tree, craning upward as they waited for the fruit to mature.<br>As the season for the fruit to ripen approached, Burkina could not even get close to the tips of the fruit-laden branches,<br>But the young hero was in no rush, and simply turned and left after murmuring something under his breath.<br><br>He came to the tribe that lived with the winged Saurians, and took care of the Saurians' daily needs for them,<br>Observing them day after day, and in doing so, familiarizing himself with their limbs and movements.<br>He followed the people of the mountain below the volcano, using great boulders to hone his body and soul,<br>And sought guidance from the High Priests of the Night-Wind with their ponderous ceremonies, heightening his perception and consciousness.<br><br>When Tenoch, who was traveling there, saw his friend and his frazzled hair, he was almost afraid to ask,<br>But when Tenoch learned of his purpose, he could not hide his smile and asked to accompany Burkina.<br>The hero of the Scions of the Canopy rejected his friend's warm-hearted offer, for he knew that all this was training,<br>The rightful \"cost\" of such \"results,\" while the kindness of his friend, perhaps,<br>Might not be entirely free, as he had a vague feeling that the day would come when such help must be repaid.<br>Seeing his friend's determination, Tenoch spoke no more of helping,<br>But said only that he could still do a small favor for the sake of this adventure...<br><br>On the day of ripening, the young courier took up the weapon he had made alongside his friend,<br>And his nimble figure cut across the cliff, quicker even than a sprint over the open plains.<br>He had long since seen through the ways the winged Saurians harassed him, and instead, it was they who lost their composure,<br>While he waved the hooked sword in his hand to dodge or block the attacks of the beasts meant to intercept him.<br>With the newly-matured Flamegranates of the mother tree before him, he needed only swing the hook in his hand to harvest them,<br>But just as the hero was on the cusp of success, his pride made him complacent, and a sudden gust staggered him,<br>It seemed he was about to fall from such a height, and he feared he would be smashed into a fleshy pulp along with the fruit in his arms...<br><br>But with his life hanging by the barest of threads, a green figure emerged from the deep shade of the trees,<br>And it shot out the pectin in its cheeks with its long tongue, bringing the hero back from death's precipice.<br>It was none other than the Yumkasaurus that had always tussled with Burkina, and which followed him from the shadows,<br>Finally showing itself when danger was truly at hand, rescuing him from the summons of the Lord of the Night.<br><br>Burkina offered the Flamegranates to the Saurian that saved him, earning its acknowledgment in return.<br>This, then, is the story of how the Turnfire hero and The Mountain King Kongamato became companions.<br>Later, the heroes of the Scions of the Canopy together transplanted the mother tree to the foot of the mountain,<br>In commemoration, from then on, the best Flamegranates were crowned also with the name \"Mountain Kings.\""
+    ]
+}

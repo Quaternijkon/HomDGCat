@@ -1,0 +1,44 @@
+// Auto Generated
+
+var _WeaponAffixPConfig_ = {
+    "114519": {
+        "Ver": {
+            "1": {
+                "Affix": [
+                    "攻撃力+ <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> 。さらに、キャラクターが落下攻撃発動時、「力の翼」効果を獲得し、キャラクターが元素スキルまはた元素爆発を発動時、「迅速の翼」効果を獲得する。「力の翼」と「迅速の翼」効果は最大15秒継続でき、それぞれ落下攻撃の会心ダメージを <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> と <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> アップする。着地時の衝撃が敵に命中した後の0.1秒間、「力の翼」と「迅速の翼」効果はクリアされる。JP0B"
+                ]
+            },
+            "2": {
+                "Affix": [
+                    "攻撃力+ <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> 。落下攻撃を行う際、「初霞の彩り」効果を獲得し、落下攻撃の会心ダメージ+ <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> 。元素スキルまたは元素爆発を発動する際、「薄暮の輝き」効果を獲得し、落下攻撃の会心ダメージ+ <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> 。上記二つの効果はそれぞれ継続時間15秒、着地時の衝撃によるダメージを与えた0.05秒後に解除される。JP0B"
+                ]
+            },
+            "3": {
+                "Affix": [
+                    "攻撃力+ <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> 。落下攻撃を行う際、「初霞の彩り」効果を獲得し、落下攻撃の会心ダメージ+ <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> 。元素スキルまたは元素爆発を発動する際、「薄暮の輝き」効果を獲得し、落下攻撃の会心ダメージ+ <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> 。上記二つの効果はそれぞれ継続時間15秒、着地時の衝撃によるダメージを与えた0.05秒後に解除される。JP0B"
+                ]
+            },
+            "4": {
+                "Affix": [
+                    "攻撃力+ <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> 。落下攻撃を行う際、「初霞の彩り」効果を獲得し、落下攻撃の会心ダメージ+ <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> 。元素スキルまたは元素爆発を発動する際、「薄暮の輝き」効果を獲得し、落下攻撃の会心ダメージ+ <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> 。上記二つの効果はそれぞれ継続時間15秒、着地時の衝撃によるダメージを与えた0.1秒後に解除される。JP0B"
+                ]
+            },
+            "5": {
+                "Affix": [
+                    "攻撃力+ <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> 。落下攻撃を行う際、「初霞の彩り」効果を獲得し、落下攻撃の会心ダメージ+ <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> 。元素スキルまたは元素爆発を発動する際、「薄暮の輝き」効果を獲得し、落下攻撃の会心ダメージ+ <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> 。上記二つの効果はそれぞれ継続時間15秒、着地時の衝撃が命中した0.1秒後に解除される。JP0D"
+                ]
+            },
+            "L": {
+                "Affix": [
+                    "攻撃力+ <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> 。落下攻撃を行う際、「初霞の彩り」効果を獲得し、落下攻撃の会心ダメージ+ <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> 。元素スキルまたは元素爆発を発動する際、「薄暮の輝き」効果を獲得し、落下攻撃の会心ダメージ+ <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> 。上記二つの効果はそれぞれ継続時間15秒、着地時の衝撃が命中した0.1秒後に解除される。"
+                ]
+            }
+        }
+    }
+}
+
+var weapon_story_cache_ = {
+    "194519": [
+        "<br>It was a time when the turbid black tide still lingered on the horizon, yet after the six heroes of the blazing sun had stepped into the night winds.<br>Silent currents of avarice surged between the fractured tribes, an insidious lust for power and ambition stirring throughout the land like a pestilent scourge.<br>Some coveted the authority left in the lingering embers' wake, while others conspired to claim the tribes for their own,<br>As if they had forgotten the calamity that still loomed tall as a mountain, trampling down the last remnants of life in this land.<br><br>\"You possess neither the wit to turn back to the past, nor the courage to look toward tomorrow.\"<br>\"You ants who creep in the shadows, what right have you to even speak of the empty yoke left behind by a god?\"<br>\"Now the throne sits vacant, all you can think of is taking it for your own.\"<br>\"But have you ever looked up to behold the suffering that yet sweeps across this scorched land?\"<br><br>As the tribes quarreled on, it was a girl who had once stood silently in Wanjiru's shadow that burst into the council chamber.<br>This birth-daughter of the Collective, now married into the Flower-Feather Clan, drove a half-broken bone blade deep into the long table's center as she glared at her stunned audience.<br>And just like that, wooden shards scattering like sparks, the tumultuous struggle for succession was brought to an end; and in accordance with their ancient alliance,<br>The tribes set aside all their disputes — before they were dragged under by the turbid black tide — to unite against the unforgivable foe.<br>Should divine infernos be quenched, the braziers of heroes be extinguished, then let mortals rekindle the faintest sparks in their stead;<br>For even if their fate was to give battle in vain and burn like a rainbow, they must pave the way for the \"heroes\" of tomorrow.<br><br>Fietena, who had never received an Ancient Name, nor been expected to rise a hero,<br>The girl who had once huddled by campfires, listening intently as Wanjiru recounted heroic legends,<br>Now donned a hero's mask, her hoarse voice rallying the tribes, each preparing for battle.<br>She worked with Traore, orphan of the mines, to carve through massive rocks, channeling molten lava into rivers to protect them all;<br>And together with Nzambe, a priest of the deep valleys, she set a trap, unleashing a hurricane that ripped through that swamp of corruption.<br>But in the end, a mortal is but a mortal. By the time the calamity finally waned, the withering tide had permeated her very bones.<br>As the last shadow crumbled with a scream, the aged Fietena removed her mask,<br>And this prop, with which she had played the \"hero\" for many years, she handed to Taika, a young follower from the Flower-Feather Clan.<br><br>\"It seems this was my final battle... Come now, no need to look so grim.\"<br>\"When the storm passes, a rainbow will shine; but remember, its false colors are but illusions in the mist.\"<br>\"Whether truly a hero or just acting the part, there will always come a day when it's your turn to bow out.\"<br>\"That is the way of the wrestler. But now, Taika, let this mask bear witness to the journey before you.\""
+    ]
+}

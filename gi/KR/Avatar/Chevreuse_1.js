@@ -1,0 +1,3176 @@
+// Auto Generated
+
+var _AvatarDataConfig_ = {
+    "Chevreuse": {
+        "BallList": [
+            {
+                "When": "Any Elem Skill DMG hit monster (except Surging Blade and C2)",
+                "DropArray": [
+                    {
+                        "Num": 4,
+                        "Chance": 1
+                    }
+                ]
+            },
+            {
+                "When": "CD",
+                "CD": 10
+            }
+        ],
+        "EndureList": [
+            {
+                "Skill": "Elemental Skill Not Aiming",
+                "Endure": 0.6
+            },
+            {
+                "Skill": "Elemental Skill Aiming",
+                "Endure": 0.3
+            }
+        ],
+        "WindZoneList": [],
+        "OtherDataList": [
+            "Preload Change: Hold E DMG's AoE height and width both increased by 1m.",
+            "<b>About Chevreuse's Pulling Effects:</b><br>Her Burst's Secondary Shells and Skill's Chain Explosions (unlocked at C2) will knock back enemies towards her upon dealing DMG.<br>She does not have a vacuum vortex, so she cannot consistently and continuously pull enemies like most Anemo characters.",
+            "V3 Change: The gaining of Overcharged Ball and passive's RES reduction now require the character to be within a 40m radius.",
+            "V3 Change: C2 Chain Explosions can be triggered off-field..",
+            "V2 Change: Gains an extra 50% Interruption Resistance while in Elemental Skill's aiming mode.",
+            "E Heal interval: 2s",
+            "C6's Pyro and Electro DMG boost can be triggered by C6's own single instance of healing of all characters (even if overflowing). Therefore, off-field characters can also gain 1 stack of boost from it.",
+            "Chevreuse's Burst creates 8 secondary explosive shells, but only the 1st and 4th can apply Pyro. (The application CD resets after 3s, but normally the secondary shells from one Burst cannot have an explosion interval greater than 3s.)"
+        ]
+    }
+}
+
+var _AvatarMats_ = {
+    "Chevreuse": {
+        "Promotion": [
+            {},
+            {
+                "202": 20000,
+                "104111": 1,
+                "101235": 3,
+                "112083": 3
+            },
+            {
+                "202": 40000,
+                "104112": 3,
+                "113053": 2,
+                "101235": 10,
+                "112083": 15
+            },
+            {
+                "202": 60000,
+                "104112": 6,
+                "113053": 4,
+                "101235": 20,
+                "112084": 12
+            },
+            {
+                "202": 80000,
+                "104113": 3,
+                "113053": 8,
+                "101235": 30,
+                "112084": 18
+            },
+            {
+                "202": 100000,
+                "104113": 6,
+                "113053": 12,
+                "101235": 45,
+                "112085": 12
+            },
+            {
+                "202": 120000,
+                "104114": 6,
+                "113053": 20,
+                "101235": 60,
+                "112085": 24
+            }
+        ],
+        "A": [
+            {
+                "202": 12500,
+                "104344": 3,
+                "112083": 6
+            },
+            {
+                "202": 17500,
+                "104345": 2,
+                "112084": 3
+            },
+            {
+                "202": 25000,
+                "104345": 4,
+                "112084": 4
+            },
+            {
+                "202": 30000,
+                "104345": 6,
+                "112084": 6
+            },
+            {
+                "202": 37500,
+                "104345": 9,
+                "112084": 9
+            },
+            {
+                "202": 120000,
+                "104346": 4,
+                "112085": 4,
+                "113055": 1
+            },
+            {
+                "202": 260000,
+                "104346": 6,
+                "112085": 6,
+                "113055": 1
+            },
+            {
+                "202": 450000,
+                "104346": 12,
+                "112085": 9,
+                "113055": 2
+            },
+            {
+                "202": 700000,
+                "104346": 16,
+                "112085": 12,
+                "113055": 2,
+                "104319": 1
+            }
+        ],
+        "E": [
+            {
+                "202": 12500,
+                "104344": 3,
+                "112083": 6
+            },
+            {
+                "202": 17500,
+                "104345": 2,
+                "112084": 3
+            },
+            {
+                "202": 25000,
+                "104345": 4,
+                "112084": 4
+            },
+            {
+                "202": 30000,
+                "104345": 6,
+                "112084": 6
+            },
+            {
+                "202": 37500,
+                "104345": 9,
+                "112084": 9
+            },
+            {
+                "202": 120000,
+                "104346": 4,
+                "112085": 4,
+                "113055": 1
+            },
+            {
+                "202": 260000,
+                "104346": 6,
+                "112085": 6,
+                "113055": 1
+            },
+            {
+                "202": 450000,
+                "104346": 12,
+                "112085": 9,
+                "113055": 2
+            },
+            {
+                "202": 700000,
+                "104346": 16,
+                "112085": 12,
+                "113055": 2,
+                "104319": 1
+            }
+        ],
+        "Q": [
+            {
+                "202": 12500,
+                "104344": 3,
+                "112083": 6
+            },
+            {
+                "202": 17500,
+                "104345": 2,
+                "112084": 3
+            },
+            {
+                "202": 25000,
+                "104345": 4,
+                "112084": 4
+            },
+            {
+                "202": 30000,
+                "104345": 6,
+                "112084": 6
+            },
+            {
+                "202": 37500,
+                "104345": 9,
+                "112084": 9
+            },
+            {
+                "202": 120000,
+                "104346": 4,
+                "112085": 4,
+                "113055": 1
+            },
+            {
+                "202": 260000,
+                "104346": 6,
+                "112085": 6,
+                "113055": 1
+            },
+            {
+                "202": 450000,
+                "104346": 12,
+                "112085": 9,
+                "113055": 2
+            },
+            {
+                "202": 700000,
+                "104346": 16,
+                "112085": 12,
+                "113055": 2,
+                "104319": 1
+            }
+        ]
+    }
+}
+
+var _AvatarSkillPConfig_ = {
+    "Chevreuse": {
+        "Ver": {
+            "1": {
+                "BattleSkills": [
+                    {
+                        "Num": 1,
+                        "Desc": "<color style='color:#FFD780;'>Normal Attack</color><br>Performs up to 4 consecutive spear strikes.<br><br><color style='color:#FFD780;'>Charged Attack</color><br>Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.<br><br><color style='color:#FFD780;'>Plunging Attack</color><br>Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+                        "Icon": "Skill_A_03",
+                        "Lock": 5.0,
+                        "Name": "Normal Attack: Line Bayonet Thrust EX",
+                        "ParamDesc": [
+                            {
+                                "Desc": "1-Hit DMG",
+                                "ParamLevelList": [
+                                    "53.13%",
+                                    "57.455%",
+                                    "61.779%",
+                                    "67.957%",
+                                    "72.281%",
+                                    "77.224%",
+                                    "84.019%",
+                                    "90.815%",
+                                    "97.611%",
+                                    "105.024%",
+                                    "112.438%",
+                                    "119.851%",
+                                    "127.265%",
+                                    "134.678%",
+                                    "142.092%"
+                                ]
+                            },
+                            {
+                                "Desc": "2-Hit DMG",
+                                "ParamLevelList": [
+                                    "49.311%",
+                                    "53.324%",
+                                    "57.338%",
+                                    "63.072%",
+                                    "67.085%",
+                                    "71.672%",
+                                    "77.98%",
+                                    "84.287%",
+                                    "90.594%",
+                                    "97.475%",
+                                    "104.355%",
+                                    "111.236%",
+                                    "118.116%",
+                                    "124.997%",
+                                    "131.877%"
+                                ]
+                            },
+                            {
+                                "Desc": "3-Hit DMG",
+                                "ParamLevelList": [
+                                    "27.645%+32.453%",
+                                    "29.895%+35.094%",
+                                    "32.145%+37.736%",
+                                    "35.36%+41.509%",
+                                    "37.61%+44.151%",
+                                    "40.182%+47.17%",
+                                    "43.718%+51.321%",
+                                    "47.254%+55.471%",
+                                    "50.789%+59.623%",
+                                    "54.647%+64.151%",
+                                    "58.504%+68.679%",
+                                    "62.362%+73.207%",
+                                    "66.219%+77.736%",
+                                    "70.077%+82.264%",
+                                    "73.934%+86.792%"
+                                ]
+                            },
+                            {
+                                "Desc": "4-Hit DMG",
+                                "ParamLevelList": [
+                                    "77.262%",
+                                    "83.55%",
+                                    "89.839%",
+                                    "98.823%",
+                                    "105.112%",
+                                    "112.299%",
+                                    "122.181%",
+                                    "132.063%",
+                                    "141.946%",
+                                    "152.726%",
+                                    "163.507%",
+                                    "174.288%",
+                                    "185.068%",
+                                    "195.849%",
+                                    "206.63%"
+                                ]
+                            },
+                            {
+                                "Desc": "Charged Attack DMG",
+                                "ParamLevelList": [
+                                    "121.69%",
+                                    "131.595%",
+                                    "141.5%",
+                                    "155.65%",
+                                    "165.555%",
+                                    "176.875%",
+                                    "192.44%",
+                                    "208.005%",
+                                    "223.57%",
+                                    "240.55%",
+                                    "257.53%",
+                                    "274.51%",
+                                    "291.49%",
+                                    "308.47%",
+                                    "325.45%"
+                                ]
+                            },
+                            {
+                                "Desc": "Charged Attack Stamina Cost",
+                                "ParamLevelList": [
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0"
+                                ]
+                            },
+                            {
+                                "Desc": "Plunge DMG",
+                                "ParamLevelList": [
+                                    "63.932%",
+                                    "69.136%",
+                                    "74.34%",
+                                    "81.774%",
+                                    "86.978%",
+                                    "92.925%",
+                                    "101.102%",
+                                    "109.28%",
+                                    "117.457%",
+                                    "126.378%",
+                                    "135.299%",
+                                    "144.22%",
+                                    "153.14%",
+                                    "162.061%",
+                                    "170.982%"
+                                ]
+                            },
+                            {
+                                "Desc": "Low/High Plunge DMG",
+                                "ParamLevelList": [
+                                    "127.838%/159.676%",
+                                    "138.243%/172.673%",
+                                    "148.649%/185.67%",
+                                    "163.513%/204.237%",
+                                    "173.919%/217.234%",
+                                    "185.811%/232.087%",
+                                    "202.162%/252.511%",
+                                    "218.513%/272.935%",
+                                    "234.865%/293.359%",
+                                    "252.702%/315.639%",
+                                    "270.54%/337.919%",
+                                    "288.378%/360.2%",
+                                    "306.216%/382.48%",
+                                    "324.054%/404.761%",
+                                    "341.892%/427.041%"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Num": 1,
+                        "Desc": "Chevreuse quickly shoulders her musket and fires at her opponent(s), dealing <color style='color:#FF9999;'>AoE Pyro DMG</color>.<br>Hold to fire in a different fashion.<br><br><color style='color:#FFD780;'>Hold</color><br>Enter Aiming Mode, locking a target in her sights to fire a precise interdiction shot. If Chevreuse has an Overcharged Ball, then she will fire the Overcharged Ball instead, dealing greater <color style='color:#FF9999;'>Pyro DMG</color> in a larger area.<br>Chevreuse gains 1 Overcharged Ball every time a nearby character in the party triggers an Overloaded reaction, and can have up to 1 Overcharged Ball at a time.<br><br>For a short duration after Chevreuse fires a shot, she will continuously restore HP to the active character on the field. The amount healed is based on her Max HP.<br><br><color style='color:#FFD780;'>Arkhe: Ousia</color><br>Periodically, after Chevreuse's Short-Range Rapid Interdiction Fire hits, a Surging Blade will be called forth that deals ousia-aligned <color style='color:#FF9999;'>Pyro DMG</color>.<br><br><i>\"Actually, training regulations only had the phrase \"interdiction fire,\" but the protagonist of this novel believes that even how stylish your terminology is can affect how motivated your troops are, which can put your opponents on the back foot right from the get-go... I think that's a good point, so I changed the regulations!\"</i>",
+                        "Icon": "Skill_S_Chevreuse_01",
+                        "Lock": 15.0,
+                        "Name": "Short-Range Rapid Interdiction Fire",
+                        "ParamDesc": [
+                            {
+                                "Desc": "Press DMG",
+                                "ParamLevelList": [
+                                    "115.2%",
+                                    "123.84%",
+                                    "132.48%",
+                                    "144.0%",
+                                    "152.64%",
+                                    "161.28%",
+                                    "172.8%",
+                                    "184.32%",
+                                    "195.84%",
+                                    "207.36%",
+                                    "218.88%",
+                                    "230.4%",
+                                    "244.8%",
+                                    "259.2%",
+                                    "273.6%"
+                                ]
+                            },
+                            {
+                                "Desc": "Hold DMG",
+                                "ParamLevelList": [
+                                    "172.8%",
+                                    "185.76%",
+                                    "198.72%",
+                                    "216.0%",
+                                    "228.96%",
+                                    "241.92%",
+                                    "259.2%",
+                                    "276.48%",
+                                    "293.76%",
+                                    "311.04%",
+                                    "328.32%",
+                                    "345.6%",
+                                    "367.2%",
+                                    "388.8%",
+                                    "410.4%"
+                                ]
+                            },
+                            {
+                                "Desc": "Overcharged Ball DMG",
+                                "ParamLevelList": [
+                                    "282.4%",
+                                    "303.58%",
+                                    "324.76%",
+                                    "353.0%",
+                                    "374.18%",
+                                    "395.36%",
+                                    "423.6%",
+                                    "451.84%",
+                                    "480.08%",
+                                    "508.32%",
+                                    "536.56%",
+                                    "564.8%",
+                                    "600.0%",
+                                    "635.4%",
+                                    "670.7%"
+                                ]
+                            },
+                            {
+                                "Desc": "HP Regeneration Over Time",
+                                "ParamLevelList": [
+                                    "2.667% Max HP+256.79184",
+                                    "2.867% Max HP+282.47458",
+                                    "3.067% Max HP+310.29758",
+                                    "3.333% Max HP+340.26077",
+                                    "3.533% Max HP+372.36423",
+                                    "3.733% Max HP+406.60788",
+                                    "4.0% Max HP+442.99179",
+                                    "4.267% Max HP+481.51593",
+                                    "4.533% Max HP+522.1803",
+                                    "4.8% Max HP+564.98486",
+                                    "5.067% Max HP+609.92969",
+                                    "5.333% Max HP+657.01471",
+                                    "5.667% Max HP+706.24",
+                                    "6.0% Max HP+757.60553",
+                                    "6.333% Max HP+811.11127"
+                                ]
+                            },
+                            {
+                                "Desc": "Healing Duration",
+                                "ParamLevelList": [
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s"
+                                ]
+                            },
+                            {
+                                "Desc": "Surging Blade DMG",
+                                "ParamLevelList": [
+                                    "28.8%",
+                                    "30.96%",
+                                    "33.12%",
+                                    "36.0%",
+                                    "38.16%",
+                                    "40.32%",
+                                    "43.2%",
+                                    "46.08%",
+                                    "48.96%",
+                                    "51.84%",
+                                    "54.72%",
+                                    "57.6%",
+                                    "61.2%",
+                                    "64.8%",
+                                    "68.4%"
+                                ]
+                            },
+                            {
+                                "Desc": "Surging Blade Interval",
+                                "ParamLevelList": [
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s"
+                                ]
+                            },
+                            {
+                                "Desc": "CD",
+                                "ParamLevelList": [
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Num": 1,
+                        "Desc": "Chevreuse fires an explosive grenade at opponents with her musket, dealing <color style='color:#FF9999;'>AoE Pyro DMG.</color> After the projectile hits, it will split into many secondary explosive shells.<br>The secondary explosive shells will burst after a short interval, dealing <color style='color:#FF9999;'>Pyro DMG</color> to nearby opponents.<br><br><i>\"Theoretically, a rectangular blast would be most efficient at destroying enemy formations. Unfortunately, the cross-section of an explosive shock wave is round, like most cakes. So, the secondary explosive shells can only be arranged like the fruit on a cake, forming a ring around the edge.</i>",
+                        "Icon": "Skill_E_Chevreuse_01",
+                        "Lock": 15.0,
+                        "Name": "Ring of Bursting Grenades",
+                        "ParamDesc": [
+                            {
+                                "Desc": "Explosive Grenade DMG",
+                                "ParamLevelList": [
+                                    "368.16%",
+                                    "395.772%",
+                                    "423.384%",
+                                    "460.2%",
+                                    "487.812%",
+                                    "515.424%",
+                                    "552.24%",
+                                    "589.056%",
+                                    "625.872%",
+                                    "662.688%",
+                                    "699.504%",
+                                    "736.32%",
+                                    "782.34%",
+                                    "828.36%",
+                                    "874.38%"
+                                ]
+                            },
+                            {
+                                "Desc": "Secondary Explosive Shell DMG",
+                                "ParamLevelList": [
+                                    "49.088%",
+                                    "52.77%",
+                                    "56.451%",
+                                    "61.36%",
+                                    "65.042%",
+                                    "68.723%",
+                                    "73.632%",
+                                    "78.541%",
+                                    "83.45%",
+                                    "88.358%",
+                                    "93.267%",
+                                    "98.176%",
+                                    "104.312%",
+                                    "110.448%",
+                                    "116.584%"
+                                ]
+                            },
+                            {
+                                "Desc": "CD",
+                                "ParamLevelList": [
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s"
+                                ]
+                            },
+                            {
+                                "Desc": "Energy Cost",
+                                "ParamLevelList": [
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "PassiveSkills": [
+                    {
+                        "Desc": "When the Elemental Type of all party members is <color style='color:#FF9999;'>Pyro</color> or <color style='color:#FFACFF;'>Electro</color> and there is at least one Pyro and one Electro Elemental Type each in the party:<br>Chevreuse grants \"Coordinated Tactics\" to every character in the party: After a character triggers the Overloaded reaction on an opponent, the <color style='color:#FF9999;'>Pyro</color> and <color style='color:#FFACFF;'>Electro</color> RES of the opponent hit will be decreased by 40% for 6s.",
+                        "Icon": "UI_Talent_S_Chevreuse_05",
+                        "Name": "Vanguard's Coordinated Tactics"
+                    },
+                    {
+                        "Desc": "After Chevreuse fires an Overcharged Ball using <color style='color:#FFD780;'>Short-Range Rapid Interdiction Fire</color>, nearby <color style='color:#FF9999;'>Pyro</color> and <color style='color:#FFACFF;'>Electro</color> characters in the party gain 1% increased ATK for every 1000 Max HP Chevreuse has for 30s. ATK can be increased by up to 40% in this way.",
+                        "Icon": "UI_Talent_S_Chevreuse_06",
+                        "Name": "Vertical Force Coordination"
+                    },
+                    {
+                        "Desc": "Decreases sprinting Stamina consumption for your own party members by 20%.<br>Not stackable with Passive Talents that provide the exact same effects.",
+                        "Icon": "UI_Talent_Explosion_Sprint",
+                        "Name": "Double Time March"
+                    }
+                ],
+                "Constellations": [
+                    {
+                        "Desc": "When characters with the \"Coordinated Tactics\" status (not including Chevreuse herself) trigger the Overloaded reaction, they will recover 6 Energy. This effect can be triggered once every 10s.<br>You must first unlock the Passive Talent \"Vanguard's Coordinated Tactics.\"",
+                        "Icon": "UI_Talent_S_Chevreuse_01",
+                        "Name": "Stable Front Line's Resolve",
+                        "Level": 1
+                    },
+                    {
+                        "Desc": "After Holding <color style='color:#FFD780;'>Short-Range Rapid Interdiction Fire</color> and hitting a target, trigger 2 chain explosions at the location where said target was hit. Each explosion deals <color style='color:#FF9999;'>Pyro DMG</color> equal to 120% of Chevreuse's ATK. This effect can be triggered up to once every 10s, and DMG dealt by this skill is considered Elemental Skill DMG.",
+                        "Icon": "UI_Talent_S_Chevreuse_02",
+                        "Name": "Sniper Induced Explosion",
+                        "Level": 2
+                    },
+                    {
+                        "Desc": "Increases the Level of <color style='color:#FFD780;'>Short-Range Rapid Interdiction Fire</color> by 3.<br>Maximum upgrade level is 15.",
+                        "Icon": "UI_Talent_U_Chevreuse_01",
+                        "Name": "Practiced Field Stripping Technique",
+                        "Level": 3
+                    },
+                    {
+                        "Desc": "After using <color style='color:#FFD780;'>Ring of Bursting Grenades</color>, the CD for Chevreuse using Hold <color style='color:#FFD780;'>Short-Range Rapid Interdiction Fire</color> is decreased by 100%. This effect is removed after Short-Range Rapid Interdiction Fire has been fired twice using Hold or after 6s.",
+                        "Icon": "UI_Talent_S_Chevreuse_03",
+                        "Name": "The Secret to Rapid-Fire Multishots",
+                        "Level": 4
+                    },
+                    {
+                        "Desc": "Increases the Level of <color style='color:#FFD780;'>Ring of Bursting Grenades</color> by 3.<br>Maximum upgrade level is 15.",
+                        "Icon": "UI_Talent_U_Chevreuse_02",
+                        "Name": "Enhanced Incendiary Firepower",
+                        "Level": 5
+                    },
+                    {
+                        "Desc": "After 12s of the healing effect from <color style='color:#FFD780;'>Short-Range Rapid Interdiction Fire</color>, all nearby party members recover HP equivalent to 10% of Chevreuse's Max HP.<br>After a party member is healed by Short-Range Rapid Interdiction Fire, they gain a 20% <color style='color:#FF9999;'>Pyro DMG Bonus</color> and <color style='color:#FFACFF;'>Electro DMG Bonus</color> for 8s, stacking up to 3 times.",
+                        "Icon": "UI_Talent_S_Chevreuse_04",
+                        "Name": "In Pursuit of Ending Evil",
+                        "Level": 6
+                    }
+                ]
+            },
+            "2": {
+                "BattleSkills": [
+                    {
+                        "Num": 1,
+                        "Desc": "<color style='color:#FFD780;'>Normal Attack</color><br>Performs up to 4 consecutive spear strikes.<br><br><color style='color:#FFD780;'>Charged Attack</color><br>Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.<br><br><color style='color:#FFD780;'>Plunging Attack</color><br>Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+                        "Icon": "Skill_A_03",
+                        "Lock": 5.0,
+                        "Name": "Normal Attack: Line Bayonet Thrust EX",
+                        "ParamDesc": [
+                            {
+                                "Desc": "1-Hit DMG",
+                                "ParamLevelList": [
+                                    "53.13%",
+                                    "57.455%",
+                                    "61.779%",
+                                    "67.957%",
+                                    "72.281%",
+                                    "77.224%",
+                                    "84.019%",
+                                    "90.815%",
+                                    "97.611%",
+                                    "105.024%",
+                                    "112.438%",
+                                    "119.851%",
+                                    "127.265%",
+                                    "134.678%",
+                                    "142.092%"
+                                ]
+                            },
+                            {
+                                "Desc": "2-Hit DMG",
+                                "ParamLevelList": [
+                                    "49.311%",
+                                    "53.324%",
+                                    "57.338%",
+                                    "63.072%",
+                                    "67.085%",
+                                    "71.672%",
+                                    "77.98%",
+                                    "84.287%",
+                                    "90.594%",
+                                    "97.475%",
+                                    "104.355%",
+                                    "111.236%",
+                                    "118.116%",
+                                    "124.997%",
+                                    "131.877%"
+                                ]
+                            },
+                            {
+                                "Desc": "3-Hit DMG",
+                                "ParamLevelList": [
+                                    "27.645%+32.453%",
+                                    "29.895%+35.094%",
+                                    "32.145%+37.736%",
+                                    "35.36%+41.509%",
+                                    "37.61%+44.151%",
+                                    "40.182%+47.17%",
+                                    "43.718%+51.321%",
+                                    "47.254%+55.471%",
+                                    "50.789%+59.623%",
+                                    "54.647%+64.151%",
+                                    "58.504%+68.679%",
+                                    "62.362%+73.207%",
+                                    "66.219%+77.736%",
+                                    "70.077%+82.264%",
+                                    "73.934%+86.792%"
+                                ]
+                            },
+                            {
+                                "Desc": "4-Hit DMG",
+                                "ParamLevelList": [
+                                    "77.262%",
+                                    "83.55%",
+                                    "89.839%",
+                                    "98.823%",
+                                    "105.112%",
+                                    "112.299%",
+                                    "122.181%",
+                                    "132.063%",
+                                    "141.946%",
+                                    "152.726%",
+                                    "163.507%",
+                                    "174.288%",
+                                    "185.068%",
+                                    "195.849%",
+                                    "206.63%"
+                                ]
+                            },
+                            {
+                                "Desc": "Charged Attack DMG",
+                                "ParamLevelList": [
+                                    "121.69%",
+                                    "131.595%",
+                                    "141.5%",
+                                    "155.65%",
+                                    "165.555%",
+                                    "176.875%",
+                                    "192.44%",
+                                    "208.005%",
+                                    "223.57%",
+                                    "240.55%",
+                                    "257.53%",
+                                    "274.51%",
+                                    "291.49%",
+                                    "308.47%",
+                                    "325.45%"
+                                ]
+                            },
+                            {
+                                "Desc": "Charged Attack Stamina Cost",
+                                "ParamLevelList": [
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0"
+                                ]
+                            },
+                            {
+                                "Desc": "Plunge DMG",
+                                "ParamLevelList": [
+                                    "63.932%",
+                                    "69.136%",
+                                    "74.34%",
+                                    "81.774%",
+                                    "86.978%",
+                                    "92.925%",
+                                    "101.102%",
+                                    "109.28%",
+                                    "117.457%",
+                                    "126.378%",
+                                    "135.299%",
+                                    "144.22%",
+                                    "153.14%",
+                                    "162.061%",
+                                    "170.982%"
+                                ]
+                            },
+                            {
+                                "Desc": "Low/High Plunge DMG",
+                                "ParamLevelList": [
+                                    "127.838%/159.676%",
+                                    "138.243%/172.673%",
+                                    "148.649%/185.67%",
+                                    "163.513%/204.237%",
+                                    "173.919%/217.234%",
+                                    "185.811%/232.087%",
+                                    "202.162%/252.511%",
+                                    "218.513%/272.935%",
+                                    "234.865%/293.359%",
+                                    "252.702%/315.639%",
+                                    "270.54%/337.919%",
+                                    "288.378%/360.2%",
+                                    "306.216%/382.48%",
+                                    "324.054%/404.761%",
+                                    "341.892%/427.041%"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Num": 1,
+                        "Desc": "Chevreuse quickly shoulders her musket and fires at her opponent(s), dealing <color style='color:#FF9999;'>AoE Pyro DMG</color>.<br>Hold to fire in a different fashion.<br><br><color style='color:#FFD780;'>Hold</color><br>Enter Aiming Mode, locking a target in her sights to fire a precise interdiction shot. If Chevreuse has an Overcharged Ball, then she will fire the Overcharged Ball instead, dealing greater <color style='color:#FF9999;'>Pyro DMG</color> in a larger area.<br>Chevreuse gains 1 Overcharged Ball every time a nearby character in the party triggers an Overloaded reaction, and can have up to 1 Overcharged Ball at a time.<br><br>For a short duration after Chevreuse fires a shot, she will continuously restore HP to the active character on the field. The amount healed is based on her Max HP.<br><br><color style='color:#FFD780;'>Arkhe: Ousia</color><br>Periodically, after Chevreuse's Short-Range Rapid Interdiction Fire hits, a Surging Blade will be called forth that deals ousia-aligned <color style='color:#FF9999;'>Pyro DMG</color>.<br><br><i>\"Actually, training regulations only had the phrase \"interdiction fire,\" but the protagonist of this novel believes that even how stylish your terminology is can affect how motivated your troops are, which can put your opponents on the back foot right from the get-go... I think that's a good point, so I changed the regulations!\"</i>",
+                        "Icon": "Skill_S_Chevreuse_01",
+                        "Lock": 15.0,
+                        "Name": "Short-Range Rapid Interdiction Fire",
+                        "ParamDesc": [
+                            {
+                                "Desc": "Press DMG",
+                                "ParamLevelList": [
+                                    "115.2%",
+                                    "123.84%",
+                                    "132.48%",
+                                    "144.0%",
+                                    "152.64%",
+                                    "161.28%",
+                                    "172.8%",
+                                    "184.32%",
+                                    "195.84%",
+                                    "207.36%",
+                                    "218.88%",
+                                    "230.4%",
+                                    "244.8%",
+                                    "259.2%",
+                                    "273.6%"
+                                ]
+                            },
+                            {
+                                "Desc": "Hold DMG",
+                                "ParamLevelList": [
+                                    "172.8%",
+                                    "185.76%",
+                                    "198.72%",
+                                    "216.0%",
+                                    "228.96%",
+                                    "241.92%",
+                                    "259.2%",
+                                    "276.48%",
+                                    "293.76%",
+                                    "311.04%",
+                                    "328.32%",
+                                    "345.6%",
+                                    "367.2%",
+                                    "388.8%",
+                                    "410.4%"
+                                ]
+                            },
+                            {
+                                "Desc": "Overcharged Ball DMG",
+                                "ParamLevelList": [
+                                    "282.4%",
+                                    "303.58%",
+                                    "324.76%",
+                                    "353.0%",
+                                    "374.18%",
+                                    "395.36%",
+                                    "423.6%",
+                                    "451.84%",
+                                    "480.08%",
+                                    "508.32%",
+                                    "536.56%",
+                                    "564.8%",
+                                    "600.0%",
+                                    "635.4%",
+                                    "670.7%"
+                                ]
+                            },
+                            {
+                                "Desc": "HP Regeneration Over Time",
+                                "ParamLevelList": [
+                                    "2.667% Max HP+256.79184",
+                                    "2.867% Max HP+282.47458",
+                                    "3.067% Max HP+310.29758",
+                                    "3.333% Max HP+340.26077",
+                                    "3.533% Max HP+372.36423",
+                                    "3.733% Max HP+406.60788",
+                                    "4.0% Max HP+442.99179",
+                                    "4.267% Max HP+481.51593",
+                                    "4.533% Max HP+522.1803",
+                                    "4.8% Max HP+564.98486",
+                                    "5.067% Max HP+609.92969",
+                                    "5.333% Max HP+657.01471",
+                                    "5.667% Max HP+706.24",
+                                    "6.0% Max HP+757.60553",
+                                    "6.333% Max HP+811.11127"
+                                ]
+                            },
+                            {
+                                "Desc": "Healing Duration",
+                                "ParamLevelList": [
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s"
+                                ]
+                            },
+                            {
+                                "Desc": "Surging Blade DMG",
+                                "ParamLevelList": [
+                                    "28.8%",
+                                    "30.96%",
+                                    "33.12%",
+                                    "36.0%",
+                                    "38.16%",
+                                    "40.32%",
+                                    "43.2%",
+                                    "46.08%",
+                                    "48.96%",
+                                    "51.84%",
+                                    "54.72%",
+                                    "57.6%",
+                                    "61.2%",
+                                    "64.8%",
+                                    "68.4%"
+                                ]
+                            },
+                            {
+                                "Desc": "Surging Blade Interval",
+                                "ParamLevelList": [
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s"
+                                ]
+                            },
+                            {
+                                "Desc": "CD",
+                                "ParamLevelList": [
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Num": 1,
+                        "Desc": "Chevreuse fires an explosive grenade at opponents with her musket, dealing <color style='color:#FF9999;'>AoE Pyro DMG.</color> After the projectile hits, it will split into many secondary explosive shells.<br>The secondary explosive shells will burst after a short interval, dealing <color style='color:#FF9999;'>Pyro DMG</color> to nearby opponents.<br><br><i>\"Theoretically, a rectangular blast would be most efficient at destroying enemy formations. Unfortunately, the cross-section of an explosive shock wave is round, like most cakes. So, the secondary explosive shells can only be arranged like the fruit on a cake, forming a ring around the edge.</i>",
+                        "Icon": "Skill_E_Chevreuse_01",
+                        "Lock": 15.0,
+                        "Name": "Ring of Bursting Grenades",
+                        "ParamDesc": [
+                            {
+                                "Desc": "Explosive Grenade DMG",
+                                "ParamLevelList": [
+                                    "368.16%",
+                                    "395.772%",
+                                    "423.384%",
+                                    "460.2%",
+                                    "487.812%",
+                                    "515.424%",
+                                    "552.24%",
+                                    "589.056%",
+                                    "625.872%",
+                                    "662.688%",
+                                    "699.504%",
+                                    "736.32%",
+                                    "782.34%",
+                                    "828.36%",
+                                    "874.38%"
+                                ]
+                            },
+                            {
+                                "Desc": "Secondary Explosive Shell DMG",
+                                "ParamLevelList": [
+                                    "49.088%",
+                                    "52.77%",
+                                    "56.451%",
+                                    "61.36%",
+                                    "65.042%",
+                                    "68.723%",
+                                    "73.632%",
+                                    "78.541%",
+                                    "83.45%",
+                                    "88.358%",
+                                    "93.267%",
+                                    "98.176%",
+                                    "104.312%",
+                                    "110.448%",
+                                    "116.584%"
+                                ]
+                            },
+                            {
+                                "Desc": "CD",
+                                "ParamLevelList": [
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s"
+                                ]
+                            },
+                            {
+                                "Desc": "Energy Cost",
+                                "ParamLevelList": [
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "PassiveSkills": [
+                    {
+                        "Desc": "When the Elemental Type of all party members is <color style='color:#FF9999;'>Pyro</color> or <color style='color:#FFACFF;'>Electro</color> and there is at least one Pyro and one Electro Elemental Type each in the party:<br>Chevreuse grants \"Coordinated Tactics\" to nearby party members: After a character triggers the Overloaded reaction, the <color style='color:#FF9999;'>Pyro</color> and <color style='color:#FFACFF;'>Electro</color> RES of the opponent(s) affected by this Overloaded reaction will be decreased by 40% for 6s.",
+                        "Icon": "UI_Talent_S_Chevreuse_05",
+                        "Name": "Vanguard's Coordinated Tactics"
+                    },
+                    {
+                        "Desc": "After Chevreuse fires an Overcharged Ball using <color style='color:#FFD780;'>Short-Range Rapid Interdiction Fire</color>, nearby <color style='color:#FF9999;'>Pyro</color> and <color style='color:#FFACFF;'>Electro</color> characters in the party gain 1% increased ATK for every 1000 Max HP Chevreuse has for 30s. ATK can be increased by up to 40% in this way.",
+                        "Icon": "UI_Talent_S_Chevreuse_06",
+                        "Name": "Vertical Force Coordination"
+                    },
+                    {
+                        "Desc": "Decreases sprinting Stamina consumption for your own party members by 20%.<br>Not stackable with Passive Talents that provide the exact same effects.",
+                        "Icon": "UI_Talent_Explosion_Sprint",
+                        "Name": "Double Time March"
+                    }
+                ],
+                "Constellations": [
+                    {
+                        "Desc": "When characters with the \"Coordinated Tactics\" status (not including Chevreuse herself) trigger the Overloaded reaction, they will recover 6 Energy. This effect can be triggered once every 10s.<br>You must first unlock the Passive Talent \"Vanguard's Coordinated Tactics.\"",
+                        "Icon": "UI_Talent_S_Chevreuse_01",
+                        "Name": "Stable Front Line's Resolve",
+                        "Level": 1
+                    },
+                    {
+                        "Desc": "After Holding <color style='color:#FFD780;'>Short-Range Rapid Interdiction Fire</color> and hitting a target, trigger 2 chain explosions at the location where said target was hit. Each explosion deals <color style='color:#FF9999;'>Pyro DMG</color> equal to 120% of Chevreuse's ATK. This effect can be triggered up to once every 10s, and DMG dealt by this skill is considered Elemental Skill DMG.",
+                        "Icon": "UI_Talent_S_Chevreuse_02",
+                        "Name": "Sniper Induced Explosion",
+                        "Level": 2
+                    },
+                    {
+                        "Desc": "Increases the Level of <color style='color:#FFD780;'>Short-Range Rapid Interdiction Fire</color> by 3.<br>Maximum upgrade level is 15.",
+                        "Icon": "UI_Talent_U_Chevreuse_01",
+                        "Name": "Practiced Field Stripping Technique",
+                        "Level": 3
+                    },
+                    {
+                        "Desc": "After using <color style='color:#FFD780;'>Ring of Bursting Grenades</color>, the CD for Chevreuse using Hold <color style='color:#FFD780;'>Short-Range Rapid Interdiction Fire</color> is decreased by 100%. This effect is removed after Short-Range Rapid Interdiction Fire has been fired twice using Hold or after 6s.",
+                        "Icon": "UI_Talent_S_Chevreuse_03",
+                        "Name": "The Secret to Rapid-Fire Multishots",
+                        "Level": 4
+                    },
+                    {
+                        "Desc": "Increases the Level of <color style='color:#FFD780;'>Ring of Bursting Grenades</color> by 3.<br>Maximum upgrade level is 15.",
+                        "Icon": "UI_Talent_U_Chevreuse_02",
+                        "Name": "Enhanced Incendiary Firepower",
+                        "Level": 5
+                    },
+                    {
+                        "Desc": "After 12s of the healing effect from <color style='color:#FFD780;'>Short-Range Rapid Interdiction Fire</color>, all nearby party members recover HP equivalent to 10% of Chevreuse's Max HP.<br>After a party member is healed by Short-Range Rapid Interdiction Fire, they gain a 20% <color style='color:#FF9999;'>Pyro DMG Bonus</color> and <color style='color:#FFACFF;'>Electro DMG Bonus</color> for 8s. Max 3 stacks. Each stack's duration is counted independently.",
+                        "Icon": "UI_Talent_S_Chevreuse_04",
+                        "Name": "In Pursuit of Ending Evil",
+                        "Level": 6
+                    }
+                ]
+            },
+            "3": {
+                "BattleSkills": [
+                    {
+                        "Num": 1,
+                        "Desc": "<color style='color:#FFD780;'>Normal Attack</color><br>Performs up to 4 consecutive spear strikes.<br><br><color style='color:#FFD780;'>Charged Attack</color><br>Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.<br><br><color style='color:#FFD780;'>Plunging Attack</color><br>Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+                        "Icon": "Skill_A_03",
+                        "Lock": 5.0,
+                        "Name": "Normal Attack: Line Bayonet Thrust EX",
+                        "ParamDesc": [
+                            {
+                                "Desc": "1-Hit DMG",
+                                "ParamLevelList": [
+                                    "53.13%",
+                                    "57.455%",
+                                    "61.779%",
+                                    "67.957%",
+                                    "72.281%",
+                                    "77.224%",
+                                    "84.019%",
+                                    "90.815%",
+                                    "97.611%",
+                                    "105.024%",
+                                    "112.438%",
+                                    "119.851%",
+                                    "127.265%",
+                                    "134.678%",
+                                    "142.092%"
+                                ]
+                            },
+                            {
+                                "Desc": "2-Hit DMG",
+                                "ParamLevelList": [
+                                    "49.311%",
+                                    "53.324%",
+                                    "57.338%",
+                                    "63.072%",
+                                    "67.085%",
+                                    "71.672%",
+                                    "77.98%",
+                                    "84.287%",
+                                    "90.594%",
+                                    "97.475%",
+                                    "104.355%",
+                                    "111.236%",
+                                    "118.116%",
+                                    "124.997%",
+                                    "131.877%"
+                                ]
+                            },
+                            {
+                                "Desc": "3-Hit DMG",
+                                "ParamLevelList": [
+                                    "27.645%+32.453%",
+                                    "29.895%+35.094%",
+                                    "32.145%+37.736%",
+                                    "35.36%+41.509%",
+                                    "37.61%+44.151%",
+                                    "40.182%+47.17%",
+                                    "43.718%+51.321%",
+                                    "47.254%+55.471%",
+                                    "50.789%+59.623%",
+                                    "54.647%+64.151%",
+                                    "58.504%+68.679%",
+                                    "62.362%+73.207%",
+                                    "66.219%+77.736%",
+                                    "70.077%+82.264%",
+                                    "73.934%+86.792%"
+                                ]
+                            },
+                            {
+                                "Desc": "4-Hit DMG",
+                                "ParamLevelList": [
+                                    "77.262%",
+                                    "83.55%",
+                                    "89.839%",
+                                    "98.823%",
+                                    "105.112%",
+                                    "112.299%",
+                                    "122.181%",
+                                    "132.063%",
+                                    "141.946%",
+                                    "152.726%",
+                                    "163.507%",
+                                    "174.288%",
+                                    "185.068%",
+                                    "195.849%",
+                                    "206.63%"
+                                ]
+                            },
+                            {
+                                "Desc": "Charged Attack DMG",
+                                "ParamLevelList": [
+                                    "121.69%",
+                                    "131.595%",
+                                    "141.5%",
+                                    "155.65%",
+                                    "165.555%",
+                                    "176.875%",
+                                    "192.44%",
+                                    "208.005%",
+                                    "223.57%",
+                                    "240.55%",
+                                    "257.53%",
+                                    "274.51%",
+                                    "291.49%",
+                                    "308.47%",
+                                    "325.45%"
+                                ]
+                            },
+                            {
+                                "Desc": "Charged Attack Stamina Cost",
+                                "ParamLevelList": [
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0"
+                                ]
+                            },
+                            {
+                                "Desc": "Plunge DMG",
+                                "ParamLevelList": [
+                                    "63.932%",
+                                    "69.136%",
+                                    "74.34%",
+                                    "81.774%",
+                                    "86.978%",
+                                    "92.925%",
+                                    "101.102%",
+                                    "109.28%",
+                                    "117.457%",
+                                    "126.378%",
+                                    "135.299%",
+                                    "144.22%",
+                                    "153.14%",
+                                    "162.061%",
+                                    "170.982%"
+                                ]
+                            },
+                            {
+                                "Desc": "Low/High Plunge DMG",
+                                "ParamLevelList": [
+                                    "127.838%/159.676%",
+                                    "138.243%/172.673%",
+                                    "148.649%/185.67%",
+                                    "163.513%/204.237%",
+                                    "173.919%/217.234%",
+                                    "185.811%/232.087%",
+                                    "202.162%/252.511%",
+                                    "218.513%/272.935%",
+                                    "234.865%/293.359%",
+                                    "252.702%/315.639%",
+                                    "270.54%/337.919%",
+                                    "288.378%/360.2%",
+                                    "306.216%/382.48%",
+                                    "324.054%/404.761%",
+                                    "341.892%/427.041%"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Num": 1,
+                        "Desc": "Chevreuse quickly shoulders her musket and fires at her opponent(s), dealing <color style='color:#FF9999;'>AoE Pyro DMG</color>.<br>Hold to fire in a different fashion.<br><br><color style='color:#FFD780;'>Hold</color><br>Enter Aiming Mode, locking a target in her sights to fire a precise interdiction shot. If Chevreuse has an Overcharged Ball, then she will fire the Overcharged Ball instead, dealing greater <color style='color:#FF9999;'>Pyro DMG</color> in a larger area.<br>Chevreuse gains 1 Overcharged Ball every time a nearby party member triggers an Overloaded reaction, and can have up to 1 Overcharged Ball at a time.<br><br>For a short duration after Chevreuse fires a shot, she will continuously restore HP to your active character on the field. The amount healed is based on her Max HP.<br><br><color style='color:#FFD780;'>Arkhe: Ousia</color><br>Periodically, after Chevreuse's Short-Range Rapid Interdiction Fire hits, a Surging Blade will be called forth that deals Ousia-aligned <color style='color:#FF9999;'>Pyro DMG</color>.<br><br><i>\"Actually, training regulations only had the phrase \"interdiction fire,\" but the protagonist of this novel believes that even how stylish your terminology is can affect how motivated your troops are, which can put your opponents on the back foot right from the get-go... I think that's a good point, so I changed the regulations!\"</i>",
+                        "Icon": "Skill_S_Chevreuse_01",
+                        "Lock": 15.0,
+                        "Name": "Short-Range Rapid Interdiction Fire",
+                        "ParamDesc": [
+                            {
+                                "Desc": "Press DMG",
+                                "ParamLevelList": [
+                                    "115.2%",
+                                    "123.84%",
+                                    "132.48%",
+                                    "144.0%",
+                                    "152.64%",
+                                    "161.28%",
+                                    "172.8%",
+                                    "184.32%",
+                                    "195.84%",
+                                    "207.36%",
+                                    "218.88%",
+                                    "230.4%",
+                                    "244.8%",
+                                    "259.2%",
+                                    "273.6%"
+                                ]
+                            },
+                            {
+                                "Desc": "Hold DMG",
+                                "ParamLevelList": [
+                                    "172.8%",
+                                    "185.76%",
+                                    "198.72%",
+                                    "216.0%",
+                                    "228.96%",
+                                    "241.92%",
+                                    "259.2%",
+                                    "276.48%",
+                                    "293.76%",
+                                    "311.04%",
+                                    "328.32%",
+                                    "345.6%",
+                                    "367.2%",
+                                    "388.8%",
+                                    "410.4%"
+                                ]
+                            },
+                            {
+                                "Desc": "Overcharged Ball DMG",
+                                "ParamLevelList": [
+                                    "282.4%",
+                                    "303.58%",
+                                    "324.76%",
+                                    "353.0%",
+                                    "374.18%",
+                                    "395.36%",
+                                    "423.6%",
+                                    "451.84%",
+                                    "480.08%",
+                                    "508.32%",
+                                    "536.56%",
+                                    "564.8%",
+                                    "600.0%",
+                                    "635.4%",
+                                    "670.7%"
+                                ]
+                            },
+                            {
+                                "Desc": "HP Regeneration Over Time",
+                                "ParamLevelList": [
+                                    "2.667% Max HP+256.79184",
+                                    "2.867% Max HP+282.47458",
+                                    "3.067% Max HP+310.29758",
+                                    "3.333% Max HP+340.26077",
+                                    "3.533% Max HP+372.36423",
+                                    "3.733% Max HP+406.60788",
+                                    "4.0% Max HP+442.99179",
+                                    "4.267% Max HP+481.51593",
+                                    "4.533% Max HP+522.1803",
+                                    "4.8% Max HP+564.98486",
+                                    "5.067% Max HP+609.92969",
+                                    "5.333% Max HP+657.01471",
+                                    "5.667% Max HP+706.24",
+                                    "6.0% Max HP+757.60553",
+                                    "6.333% Max HP+811.11127"
+                                ]
+                            },
+                            {
+                                "Desc": "Healing Duration",
+                                "ParamLevelList": [
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s"
+                                ]
+                            },
+                            {
+                                "Desc": "Surging Blade DMG",
+                                "ParamLevelList": [
+                                    "28.8%",
+                                    "30.96%",
+                                    "33.12%",
+                                    "36.0%",
+                                    "38.16%",
+                                    "40.32%",
+                                    "43.2%",
+                                    "46.08%",
+                                    "48.96%",
+                                    "51.84%",
+                                    "54.72%",
+                                    "57.6%",
+                                    "61.2%",
+                                    "64.8%",
+                                    "68.4%"
+                                ]
+                            },
+                            {
+                                "Desc": "Surging Blade Interval",
+                                "ParamLevelList": [
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s"
+                                ]
+                            },
+                            {
+                                "Desc": "CD",
+                                "ParamLevelList": [
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Num": 1,
+                        "Desc": "Chevreuse fires an explosive grenade at opponents with her musket, dealing <color style='color:#FF9999;'>AoE Pyro DMG.</color> After the projectile hits, it will split into many secondary explosive shells.<br>The secondary explosive shells will burst after a short interval, dealing <color style='color:#FF9999;'>Pyro DMG</color> to nearby opponents.<br><br><i>\"Theoretically, a rectangular blast would be most efficient at destroying enemy formations. Unfortunately, the cross-section of an explosive shock wave is round, like most cakes. So, the secondary explosive shells can only be arranged like the fruit on a cake, forming a ring around the edge.</i>",
+                        "Icon": "Skill_E_Chevreuse_01",
+                        "Lock": 15.0,
+                        "Name": "Ring of Bursting Grenades",
+                        "ParamDesc": [
+                            {
+                                "Desc": "Explosive Grenade DMG",
+                                "ParamLevelList": [
+                                    "368.16%",
+                                    "395.772%",
+                                    "423.384%",
+                                    "460.2%",
+                                    "487.812%",
+                                    "515.424%",
+                                    "552.24%",
+                                    "589.056%",
+                                    "625.872%",
+                                    "662.688%",
+                                    "699.504%",
+                                    "736.32%",
+                                    "782.34%",
+                                    "828.36%",
+                                    "874.38%"
+                                ]
+                            },
+                            {
+                                "Desc": "Secondary Explosive Shell DMG",
+                                "ParamLevelList": [
+                                    "49.088%",
+                                    "52.77%",
+                                    "56.451%",
+                                    "61.36%",
+                                    "65.042%",
+                                    "68.723%",
+                                    "73.632%",
+                                    "78.541%",
+                                    "83.45%",
+                                    "88.358%",
+                                    "93.267%",
+                                    "98.176%",
+                                    "104.312%",
+                                    "110.448%",
+                                    "116.584%"
+                                ]
+                            },
+                            {
+                                "Desc": "CD",
+                                "ParamLevelList": [
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s"
+                                ]
+                            },
+                            {
+                                "Desc": "Energy Cost",
+                                "ParamLevelList": [
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "PassiveSkills": [
+                    {
+                        "Desc": "When the Elemental Type of all party members is <color style='color:#FF9999;'>Pyro</color> or <color style='color:#FFACFF;'>Electro</color> and there is at least one Pyro and one Electro Elemental Type each in the party:<br>Chevreuse grants \"Coordinated Tactics\" to nearby party members: After a character triggers the Overloaded reaction, the <color style='color:#FF9999;'>Pyro</color> and <color style='color:#FFACFF;'>Electro</color> RES of the opponent(s) affected by this Overloaded reaction will be decreased by 40% for 6s.<br>The \"Coordinated Tactics\" effect will be removed when the Elemental Types of the characters in the party do not meet the basic requirements for the Passive Talent.",
+                        "Icon": "UI_Talent_S_Chevreuse_05",
+                        "Name": "Vanguard's Coordinated Tactics"
+                    },
+                    {
+                        "Desc": "After Chevreuse fires an Overcharged Ball using <color style='color:#FFD780;'>Short-Range Rapid Interdiction Fire</color>, nearby <color style='color:#FF9999;'>Pyro</color> and <color style='color:#FFACFF;'>Electro</color> characters in the party gain 1% increased ATK for every 1000 Max HP Chevreuse has for 30s. ATK can be increased by up to 40% in this way.",
+                        "Icon": "UI_Talent_S_Chevreuse_06",
+                        "Name": "Vertical Force Coordination"
+                    },
+                    {
+                        "Desc": "Decreases sprinting Stamina consumption for your own party members by 20%.<br>Not stackable with Passive Talents that provide the exact same effects.",
+                        "Icon": "UI_Talent_Explosion_Sprint",
+                        "Name": "Double Time March"
+                    }
+                ],
+                "Constellations": [
+                    {
+                        "Desc": "When active characters with the \"Coordinated Tactics\" status (not including Chevreuse herself) trigger the Overloaded reaction on opponents, they will recover 6 Energy. This effect can be triggered once every 10s.<br>You must first unlock the Passive Talent \"Vanguard's Coordinated Tactics.\"",
+                        "Icon": "UI_Talent_S_Chevreuse_01",
+                        "Name": "Stable Front Line's Resolve",
+                        "Level": 1
+                    },
+                    {
+                        "Desc": "After Holding <color style='color:#FFD780;'>Short-Range Rapid Interdiction Fire</color> and hitting a target, trigger 2 chain explosions at the location where said target was hit. Each explosion deals <color style='color:#FF9999;'>Pyro DMG</color> equal to 120% of Chevreuse's ATK. This effect can be triggered up to once every 10s, and DMG dealt by this skill is considered Elemental Skill DMG.",
+                        "Icon": "UI_Talent_S_Chevreuse_02",
+                        "Name": "Sniper Induced Explosion",
+                        "Level": 2
+                    },
+                    {
+                        "Desc": "Increases the Level of <color style='color:#FFD780;'>Short-Range Rapid Interdiction Fire</color> by 3.<br>Maximum upgrade level is 15.",
+                        "Icon": "UI_Talent_U_Chevreuse_01",
+                        "Name": "Practiced Field Stripping Technique",
+                        "Level": 3
+                    },
+                    {
+                        "Desc": "After using <color style='color:#FFD780;'>Ring of Bursting Grenades</color>, the CD for Chevreuse using Hold <color style='color:#FFD780;'>Short-Range Rapid Interdiction Fire</color> is decreased by 100%. This effect is removed after Short-Range Rapid Interdiction Fire has been fired twice using Hold or after 6s.",
+                        "Icon": "UI_Talent_S_Chevreuse_03",
+                        "Name": "The Secret to Rapid-Fire Multishots",
+                        "Level": 4
+                    },
+                    {
+                        "Desc": "Increases the Level of <color style='color:#FFD780;'>Ring of Bursting Grenades</color> by 3.<br>Maximum upgrade level is 15.",
+                        "Icon": "UI_Talent_U_Chevreuse_02",
+                        "Name": "Enhanced Incendiary Firepower",
+                        "Level": 5
+                    },
+                    {
+                        "Desc": "After 12s of the healing effect from <color style='color:#FFD780;'>Short-Range Rapid Interdiction Fire</color>, all nearby party members recover HP equivalent to 10% of Chevreuse's Max HP.<br>After a party member is healed by Short-Range Rapid Interdiction Fire, they gain a 20% <color style='color:#FF9999;'>Pyro DMG Bonus</color> and <color style='color:#FFACFF;'>Electro DMG Bonus</color> for 8s. Max 3 stacks. Each stack's duration is counted independently.",
+                        "Icon": "UI_Talent_S_Chevreuse_04",
+                        "Name": "In Pursuit of Ending Evil",
+                        "Level": 6
+                    }
+                ]
+            },
+            "5": {
+                "BattleSkills": [
+                    {
+                        "Num": 1,
+                        "Desc": "<color style='color:#FFD780;'>Normal Attack</color><br>Performs up to 4 consecutive spear strikes.<br><br><color style='color:#FFD780;'>Charged Attack</color><br>Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.<br><br><color style='color:#FFD780;'>Plunging Attack</color><br>Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+                        "Icon": "Skill_A_03",
+                        "Lock": 5.0,
+                        "Name": "Normal Attack: Line Bayonet Thrust EX",
+                        "ParamDesc": [
+                            {
+                                "Desc": "1-Hit DMG",
+                                "ParamLevelList": [
+                                    "53.13%",
+                                    "57.455%",
+                                    "61.779%",
+                                    "67.957%",
+                                    "72.281%",
+                                    "77.224%",
+                                    "84.019%",
+                                    "90.815%",
+                                    "97.611%",
+                                    "105.024%",
+                                    "112.438%",
+                                    "119.851%",
+                                    "127.265%",
+                                    "134.678%",
+                                    "142.092%"
+                                ]
+                            },
+                            {
+                                "Desc": "2-Hit DMG",
+                                "ParamLevelList": [
+                                    "49.311%",
+                                    "53.324%",
+                                    "57.338%",
+                                    "63.072%",
+                                    "67.085%",
+                                    "71.672%",
+                                    "77.98%",
+                                    "84.287%",
+                                    "90.594%",
+                                    "97.475%",
+                                    "104.355%",
+                                    "111.236%",
+                                    "118.116%",
+                                    "124.997%",
+                                    "131.877%"
+                                ]
+                            },
+                            {
+                                "Desc": "3-Hit DMG",
+                                "ParamLevelList": [
+                                    "27.645%+32.453%",
+                                    "29.895%+35.094%",
+                                    "32.145%+37.736%",
+                                    "35.36%+41.509%",
+                                    "37.61%+44.151%",
+                                    "40.182%+47.17%",
+                                    "43.718%+51.321%",
+                                    "47.254%+55.471%",
+                                    "50.789%+59.623%",
+                                    "54.647%+64.151%",
+                                    "58.504%+68.679%",
+                                    "62.362%+73.207%",
+                                    "66.219%+77.736%",
+                                    "70.077%+82.264%",
+                                    "73.934%+86.792%"
+                                ]
+                            },
+                            {
+                                "Desc": "4-Hit DMG",
+                                "ParamLevelList": [
+                                    "77.262%",
+                                    "83.55%",
+                                    "89.839%",
+                                    "98.823%",
+                                    "105.112%",
+                                    "112.299%",
+                                    "122.181%",
+                                    "132.063%",
+                                    "141.946%",
+                                    "152.726%",
+                                    "163.507%",
+                                    "174.288%",
+                                    "185.068%",
+                                    "195.849%",
+                                    "206.63%"
+                                ]
+                            },
+                            {
+                                "Desc": "Charged Attack DMG",
+                                "ParamLevelList": [
+                                    "121.69%",
+                                    "131.595%",
+                                    "141.5%",
+                                    "155.65%",
+                                    "165.555%",
+                                    "176.875%",
+                                    "192.44%",
+                                    "208.005%",
+                                    "223.57%",
+                                    "240.55%",
+                                    "257.53%",
+                                    "274.51%",
+                                    "291.49%",
+                                    "308.47%",
+                                    "325.45%"
+                                ]
+                            },
+                            {
+                                "Desc": "Charged Attack Stamina Cost",
+                                "ParamLevelList": [
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0",
+                                    "25.0"
+                                ]
+                            },
+                            {
+                                "Desc": "Plunge DMG",
+                                "ParamLevelList": [
+                                    "63.932%",
+                                    "69.136%",
+                                    "74.34%",
+                                    "81.774%",
+                                    "86.978%",
+                                    "92.925%",
+                                    "101.102%",
+                                    "109.28%",
+                                    "117.457%",
+                                    "126.378%",
+                                    "135.299%",
+                                    "144.22%",
+                                    "153.14%",
+                                    "162.061%",
+                                    "170.982%"
+                                ]
+                            },
+                            {
+                                "Desc": "Low/High Plunge DMG",
+                                "ParamLevelList": [
+                                    "127.838%/159.676%",
+                                    "138.243%/172.673%",
+                                    "148.649%/185.67%",
+                                    "163.513%/204.237%",
+                                    "173.919%/217.234%",
+                                    "185.811%/232.087%",
+                                    "202.162%/252.511%",
+                                    "218.513%/272.935%",
+                                    "234.865%/293.359%",
+                                    "252.702%/315.639%",
+                                    "270.54%/337.919%",
+                                    "288.378%/360.2%",
+                                    "306.216%/382.48%",
+                                    "324.054%/404.761%",
+                                    "341.892%/427.041%"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Num": 1,
+                        "Desc": "Chevreuse quickly shoulders her musket and fires at her opponent(s), dealing <color style='color:#FF9999;'>AoE Pyro DMG</color>.<br>For a short duration after Chevreuse fires a shot, she will continuously restore HP to the active character on the field. The amount healed is based on her Max HP.<br>Hold to fire in a different fashion.<br><br><color style='color:#FFD780;'>Hold</color><br>Enter Aiming Mode, locking a target in her sights to fire a precise interdiction shot. If Chevreuse has an Overcharged Ball, then she will fire the Overcharged Ball instead, dealing greater <color style='color:#FF9999;'>Pyro DMG</color> in a larger area.<br>Chevreuse gains 1 Overcharged Ball every time a nearby character in the party triggers an Overloaded reaction, and can have up to 1 Overcharged Ball at a time.<br><br><color style='color:#FFD780;'>Arkhe: Ousia</color><br>Periodically, after Chevreuse's Short-Range Rapid Interdiction Fire hits, a Surging Blade will be called forth that deals ousia-aligned <color style='color:#FF9999;'>Pyro DMG</color>.<br><br><i>\"Actually, training regulations only had the phrase \"interdiction fire,\" but the protagonist of this novel believes that even how stylish your terminology is can affect how motivated your troops are, which can put your opponents on the back foot right from the get-go... I think that's a good point, so I changed the regulations!\"</i>",
+                        "Icon": "Skill_S_Chevreuse_01",
+                        "Lock": 15.0,
+                        "Name": "Short-Range Rapid Interdiction Fire",
+                        "ParamDesc": [
+                            {
+                                "Desc": "Press DMG",
+                                "ParamLevelList": [
+                                    "115.2%",
+                                    "123.84%",
+                                    "132.48%",
+                                    "144.0%",
+                                    "152.64%",
+                                    "161.28%",
+                                    "172.8%",
+                                    "184.32%",
+                                    "195.84%",
+                                    "207.36%",
+                                    "218.88%",
+                                    "230.4%",
+                                    "244.8%",
+                                    "259.2%",
+                                    "273.6%"
+                                ]
+                            },
+                            {
+                                "Desc": "Hold DMG",
+                                "ParamLevelList": [
+                                    "172.8%",
+                                    "185.76%",
+                                    "198.72%",
+                                    "216.0%",
+                                    "228.96%",
+                                    "241.92%",
+                                    "259.2%",
+                                    "276.48%",
+                                    "293.76%",
+                                    "311.04%",
+                                    "328.32%",
+                                    "345.6%",
+                                    "367.2%",
+                                    "388.8%",
+                                    "410.4%"
+                                ]
+                            },
+                            {
+                                "Desc": "Overcharged Ball DMG",
+                                "ParamLevelList": [
+                                    "282.4%",
+                                    "303.58%",
+                                    "324.76%",
+                                    "353.0%",
+                                    "374.18%",
+                                    "395.36%",
+                                    "423.6%",
+                                    "451.84%",
+                                    "480.08%",
+                                    "508.32%",
+                                    "536.56%",
+                                    "564.8%",
+                                    "600.0%",
+                                    "635.4%",
+                                    "670.7%"
+                                ]
+                            },
+                            {
+                                "Desc": "HP Regeneration Over Time",
+                                "ParamLevelList": [
+                                    "2.667% Max HP+256.79184",
+                                    "2.867% Max HP+282.47458",
+                                    "3.067% Max HP+310.29758",
+                                    "3.333% Max HP+340.26077",
+                                    "3.533% Max HP+372.36423",
+                                    "3.733% Max HP+406.60788",
+                                    "4.0% Max HP+442.99179",
+                                    "4.267% Max HP+481.51593",
+                                    "4.533% Max HP+522.1803",
+                                    "4.8% Max HP+564.98486",
+                                    "5.067% Max HP+609.92969",
+                                    "5.333% Max HP+657.01471",
+                                    "5.667% Max HP+706.24",
+                                    "6.0% Max HP+757.60553",
+                                    "6.333% Max HP+811.11127"
+                                ]
+                            },
+                            {
+                                "Desc": "Healing Duration",
+                                "ParamLevelList": [
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s",
+                                    "12.0s"
+                                ]
+                            },
+                            {
+                                "Desc": "Surging Blade DMG",
+                                "ParamLevelList": [
+                                    "28.8%",
+                                    "30.96%",
+                                    "33.12%",
+                                    "36.0%",
+                                    "38.16%",
+                                    "40.32%",
+                                    "43.2%",
+                                    "46.08%",
+                                    "48.96%",
+                                    "51.84%",
+                                    "54.72%",
+                                    "57.6%",
+                                    "61.2%",
+                                    "64.8%",
+                                    "68.4%"
+                                ]
+                            },
+                            {
+                                "Desc": "Surging Blade Interval",
+                                "ParamLevelList": [
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s",
+                                    "10.0s"
+                                ]
+                            },
+                            {
+                                "Desc": "CD",
+                                "ParamLevelList": [
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Num": 1,
+                        "Desc": "Chevreuse fires an explosive grenade at opponents with her musket, dealing <color style='color:#FF9999;'>AoE Pyro DMG.</color> After the projectile hits, it will split into many secondary explosive shells.<br>The secondary explosive shells will burst after a short interval, dealing <color style='color:#FF9999;'>Pyro DMG</color> to nearby opponents.<br><br><i>\"Theoretically, a rectangular blast would be most efficient at destroying enemy formations. Unfortunately, the cross-section of an explosive shock wave is round, like most cakes. So, the secondary explosive shells can only be arranged like the fruit on a cake, forming a ring around the edge.</i>",
+                        "Icon": "Skill_E_Chevreuse_01",
+                        "Lock": 15.0,
+                        "Name": "Ring of Bursting Grenades",
+                        "ParamDesc": [
+                            {
+                                "Desc": "Explosive Grenade DMG",
+                                "ParamLevelList": [
+                                    "368.16%",
+                                    "395.772%",
+                                    "423.384%",
+                                    "460.2%",
+                                    "487.812%",
+                                    "515.424%",
+                                    "552.24%",
+                                    "589.056%",
+                                    "625.872%",
+                                    "662.688%",
+                                    "699.504%",
+                                    "736.32%",
+                                    "782.34%",
+                                    "828.36%",
+                                    "874.38%"
+                                ]
+                            },
+                            {
+                                "Desc": "Secondary Explosive Shell DMG",
+                                "ParamLevelList": [
+                                    "49.088%",
+                                    "52.77%",
+                                    "56.451%",
+                                    "61.36%",
+                                    "65.042%",
+                                    "68.723%",
+                                    "73.632%",
+                                    "78.541%",
+                                    "83.45%",
+                                    "88.358%",
+                                    "93.267%",
+                                    "98.176%",
+                                    "104.312%",
+                                    "110.448%",
+                                    "116.584%"
+                                ]
+                            },
+                            {
+                                "Desc": "CD",
+                                "ParamLevelList": [
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s",
+                                    "15.0s"
+                                ]
+                            },
+                            {
+                                "Desc": "Energy Cost",
+                                "ParamLevelList": [
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0",
+                                    "60.0"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "PassiveSkills": [
+                    {
+                        "Desc": "When the Elemental Type of all party members is <color style='color:#FF9999;'>Pyro</color> or <color style='color:#FFACFF;'>Electro</color> and there is at least one Pyro and one Electro characters each in the party:<br>Chevreuse grants \"Coordinated Tactics\" to nearby party members: After a character triggers the Overloaded reaction, the <color style='color:#FF9999;'>Pyro</color> and <color style='color:#FFACFF;'>Electro</color> RES of the opponent(s) affected by this Overloaded reaction will be decreased by 40% for 6s.<br>The \"Coordinated Tactics\" effect will be removed when the Elemental Types of the characters in the party do not meet the basic requirements for the Passive Talent.",
+                        "Icon": "UI_Talent_S_Chevreuse_05",
+                        "Name": "Vanguard's Coordinated Tactics"
+                    },
+                    {
+                        "Desc": "After Chevreuse fires an Overcharged Ball using <color style='color:#FFD780;'>Short-Range Rapid Interdiction Fire</color>, nearby <color style='color:#FF9999;'>Pyro</color> and <color style='color:#FFACFF;'>Electro</color> characters in the party gain 1% increased ATK for every 1000 Max HP Chevreuse has for 30s. ATK can be increased by up to 40% in this way.",
+                        "Icon": "UI_Talent_S_Chevreuse_06",
+                        "Name": "Vertical Force Coordination"
+                    },
+                    {
+                        "Desc": "Decreases sprinting Stamina consumption for your own party members by 20%.<br>Not stackable with Passive Talents that provide the exact same effects.",
+                        "Icon": "UI_Talent_Explosion_Sprint",
+                        "Name": "Double Time March"
+                    }
+                ],
+                "Constellations": [
+                    {
+                        "Desc": "When the active character with the \"Coordinated Tactics\" status (not including Chevreuse herself) triggers the Overloaded reaction, they will recover 6 Energy. This effect can be triggered once every 10s.<br>You must first unlock the Passive Talent \"Vanguard's Coordinated Tactics.\"",
+                        "Icon": "UI_Talent_S_Chevreuse_01",
+                        "Name": "Stable Front Line's Resolve",
+                        "Level": 1
+                    },
+                    {
+                        "Desc": "After Holding <color style='color:#FFD780;'>Short-Range Rapid Interdiction Fire</color> and hitting a target, 2 chain explosions will be triggered near the location where said target is hit. Each explosion deals <color style='color:#FF9999;'>Pyro DMG</color> equal to 120% of Chevreuse's ATK. This effect can be triggered up to once every 10s, and DMG dealt this way is considered Elemental Skill DMG.",
+                        "Icon": "UI_Talent_S_Chevreuse_02",
+                        "Name": "Sniper Induced Explosion",
+                        "Level": 2
+                    },
+                    {
+                        "Desc": "Increases the Level of <color style='color:#FFD780;'>Short-Range Rapid Interdiction Fire</color> by 3.<br>Maximum upgrade level is 15.",
+                        "Icon": "UI_Talent_U_Chevreuse_01",
+                        "Name": "Practiced Field Stripping Technique",
+                        "Level": 3
+                    },
+                    {
+                        "Desc": "After using <color style='color:#FFD780;'>Ring of Bursting Grenades</color>, the Hold mode of <color style='color:#FFD780;'>Short-Range Rapid Interdiction Fire</color> will not enter cooldown when Chevreuse uses it. This effect is removed after Short-Range Rapid Interdiction Fire has been fired twice using Hold or after 6s.",
+                        "Icon": "UI_Talent_S_Chevreuse_03",
+                        "Name": "The Secret to Rapid-Fire Multishots",
+                        "Level": 4
+                    },
+                    {
+                        "Desc": "Increases the Level of <color style='color:#FFD780;'>Ring of Bursting Grenades</color> by 3.<br>Maximum upgrade level is 15.",
+                        "Icon": "UI_Talent_U_Chevreuse_02",
+                        "Name": "Enhanced Incendiary Firepower",
+                        "Level": 5
+                    },
+                    {
+                        "Desc": "After 12s of the healing effect from <color style='color:#FFD780;'>Short-Range Rapid Interdiction Fire</color>, all nearby party members recover HP equivalent to 10% of Chevreuse's Max HP once.<br>After a party member is healed by Short-Range Rapid Interdiction Fire, they gain a 20% <color style='color:#FF9999;'>Pyro DMG Bonus</color> and <color style='color:#FFACFF;'>Electro DMG Bonus</color> for 8s. Max 3 stacks. Each stack's duration is counted independently.",
+                        "Icon": "UI_Talent_S_Chevreuse_04",
+                        "Name": "In Pursuit of Ending Evil",
+                        "Level": 6
+                    }
+                ]
+            },
+            "L": {
+                "BattleSkills": [
+                    {
+                        "Name": "전열 창술 · 개량",
+                        "Desc": "<color style='color:#FFD780;'>일반 공격</color><br>창으로 최대 4번 공격한다.<br><br><color style='color:#FFD780;'>강공격</color><br>일정 스태미나를 소모해 전방으로 돌진하며 경로상의 적에게 피해를 준다.<br><br><color style='color:#FFD780;'>낙하 공격</color><br>공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 범위 피해를 준다",
+                        "Icon": "Skill_A_03",
+                        "ParamDesc": [
+                            {
+                                "Desc": "1단 공격 피해",
+                                "ParamLevelList": [
+                                    "53.1299%",
+                                    "57.4545%",
+                                    "61.779%",
+                                    "67.9569%",
+                                    "72.2814%",
+                                    "77.2237%",
+                                    "84.0194%",
+                                    "90.8151%",
+                                    "97.6108%",
+                                    "105.0243%",
+                                    "112.4378%",
+                                    "119.8513%",
+                                    "127.2647%",
+                                    "134.6782%",
+                                    "142.0917%"
+                                ]
+                            },
+                            {
+                                "Desc": "2단 공격 피해",
+                                "ParamLevelList": [
+                                    "49.3107%",
+                                    "53.3243%",
+                                    "57.338%",
+                                    "63.0718%",
+                                    "67.0855%",
+                                    "71.6725%",
+                                    "77.9797%",
+                                    "84.2869%",
+                                    "90.594%",
+                                    "97.4746%",
+                                    "104.3552%",
+                                    "111.2357%",
+                                    "118.1163%",
+                                    "124.9968%",
+                                    "131.8774%"
+                                ]
+                            },
+                            {
+                                "Desc": "3단 공격 피해",
+                                "ParamLevelList": [
+                                    "27.6449%+32.4527%",
+                                    "29.8951%+35.0942%",
+                                    "32.1453%+37.7357%",
+                                    "35.3598%+41.5093%",
+                                    "37.61%+44.1508%",
+                                    "40.1816%+47.1697%",
+                                    "43.7176%+51.3206%",
+                                    "47.2535%+55.4715%",
+                                    "50.7895%+59.6225%",
+                                    "54.6469%+64.1508%",
+                                    "58.5044%+68.679%",
+                                    "62.3618%+73.2073%",
+                                    "66.2192%+77.7356%",
+                                    "70.0767%+82.2639%",
+                                    "73.9341%+86.7922%"
+                                ]
+                            },
+                            {
+                                "Desc": "4단 공격 피해",
+                                "ParamLevelList": [
+                                    "77.2615%",
+                                    "83.5503%",
+                                    "89.839%",
+                                    "98.8229%",
+                                    "105.1116%",
+                                    "112.2988%",
+                                    "122.181%",
+                                    "132.0633%",
+                                    "141.9456%",
+                                    "152.7263%",
+                                    "163.507%",
+                                    "174.2877%",
+                                    "185.0683%",
+                                    "195.849%",
+                                    "206.6297%"
+                                ]
+                            },
+                            {
+                                "Desc": "강공격 피해",
+                                "ParamLevelList": [
+                                    "121.69%",
+                                    "131.595%",
+                                    "141.5%",
+                                    "155.65%",
+                                    "165.555%",
+                                    "176.875%",
+                                    "192.44%",
+                                    "208.005%",
+                                    "223.57%",
+                                    "240.55%",
+                                    "257.53%",
+                                    "274.51%",
+                                    "291.49%",
+                                    "308.47%",
+                                    "325.45%"
+                                ]
+                            },
+                            {
+                                "Desc": "강공격 스태미나 소모",
+                                "ParamLevelList": [
+                                    "25pt",
+                                    "25pt",
+                                    "25pt",
+                                    "25pt",
+                                    "25pt",
+                                    "25pt",
+                                    "25pt",
+                                    "25pt",
+                                    "25pt",
+                                    "25pt",
+                                    "25pt",
+                                    "25pt",
+                                    "25pt",
+                                    "25pt",
+                                    "25pt"
+                                ]
+                            },
+                            {
+                                "Desc": "낙하 기간 피해",
+                                "ParamLevelList": [
+                                    "63.9324%",
+                                    "69.1362%",
+                                    "74.34%",
+                                    "81.774%",
+                                    "86.9778%",
+                                    "92.925%",
+                                    "101.1024%",
+                                    "109.2798%",
+                                    "117.4572%",
+                                    "126.378%",
+                                    "135.2988%",
+                                    "144.2196%",
+                                    "153.1404%",
+                                    "162.0612%",
+                                    "170.982%"
+                                ]
+                            },
+                            {
+                                "Desc": "저공/고공 추락 충격 피해",
+                                "ParamLevelList": [
+                                    "127.8377%/159.6762%",
+                                    "138.2431%/172.6731%",
+                                    "148.6485%/185.67%",
+                                    "163.5134%/204.237%",
+                                    "173.9187%/217.2339%",
+                                    "185.8106%/232.0875%",
+                                    "202.162%/252.5112%",
+                                    "218.5133%/272.9349%",
+                                    "234.8646%/293.3586%",
+                                    "252.7025%/315.639%",
+                                    "270.5403%/337.9194%",
+                                    "288.3781%/360.1998%",
+                                    "306.2159%/382.4802%",
+                                    "324.0537%/404.7606%",
+                                    "341.8915%/427.041%"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "신속 차단 사격술",
+                        "Desc": "슈브르즈가 화승총으로 빠르게 견착 사격을 해 <color style='color:#FF9999;'>불 원소 범위 피해</color>를 준다.<br>슈브르즈가 사격한 후 일정 시간 동안 지속적으로 현재 필드 위 자신의 캐릭터의 HP를 회복시킨다. 회복량은 슈브르즈 HP 최대치의 영향을 받는다.<br>홀드 시 다른 방식으로 발동한다.<br><br><color style='color:#FFD780;'>홀드</color><br>조준 상태에 진입해 조준점 안에 있는 적 1기를 타깃하고 더 정밀한 차단 사격을 한다. 만약 슈브르즈가 「초강력 탄두」를 보유하고 있으면 「초강력 탄두」를 발사하는 것으로 전환되고 범위와 피해가 더 큰 <color style='color:#FF9999;'>불 원소 피해</color>를 준다.<br>주변에 있는 파티 내 캐릭터가 과부하 반응을 발동 시 슈브르즈는 「초강력 탄두」를 1개 획득한다. 「초강력 탄두」는 동시에 최대 1개만 보유할 수 있다.<br><br><color style='color:#FFD780;'>아르케의 힘: 우시아</color><br>일정 시간마다 슈브르즈의 「신속 차단 사격술」이 명중 시, 솟구치는 칼날을 소환해 우시아 성질의 <color style='color:#FF9999;'>불 원소 피해</color>를 준다.<br><br><i>「사실 훈련 수칙에는 『차단 사격』이라는 용어만 있지만 어떤 소설의 주인공은 기술 이름에 전문 용어를 섞으면 더 힘이 나고 기세에서 적을 압도할 수 있다고 했어…. 나도 이 의견에 동의해 수칙을 수정했지!」</i>",
+                        "Icon": "Skill_S_Chevreuse_01",
+                        "ParamDesc": [
+                            {
+                                "Desc": "짧은 터치 피해",
+                                "ParamLevelList": [
+                                    "115.2%",
+                                    "123.84%",
+                                    "132.48%",
+                                    "144.0%",
+                                    "152.64%",
+                                    "161.28%",
+                                    "172.8%",
+                                    "184.32%",
+                                    "195.84%",
+                                    "207.36%",
+                                    "218.88%",
+                                    "230.4%",
+                                    "244.8%",
+                                    "259.2%",
+                                    "273.6%"
+                                ]
+                            },
+                            {
+                                "Desc": "홀드 피해",
+                                "ParamLevelList": [
+                                    "172.8%",
+                                    "185.76%",
+                                    "198.72%",
+                                    "216.0%",
+                                    "228.96%",
+                                    "241.92%",
+                                    "259.2%",
+                                    "276.48%",
+                                    "293.76%",
+                                    "311.04%",
+                                    "328.32%",
+                                    "345.6%",
+                                    "367.2%",
+                                    "388.8%",
+                                    "410.4%"
+                                ]
+                            },
+                            {
+                                "Desc": "「초강력 탄두」 피해",
+                                "ParamLevelList": [
+                                    "282.4%",
+                                    "303.58%",
+                                    "324.76%",
+                                    "353.0%",
+                                    "374.18%",
+                                    "395.36%",
+                                    "423.6%",
+                                    "451.84%",
+                                    "480.08%",
+                                    "508.32%",
+                                    "536.56%",
+                                    "564.8%",
+                                    "600.1%",
+                                    "635.4%",
+                                    "670.7%"
+                                ]
+                            },
+                            {
+                                "Desc": "지속 치유량",
+                                "ParamLevelList": [
+                                    "HP 최대치의 2.6667%+256.79184",
+                                    "HP 최대치의 2.8667%+282.47458",
+                                    "HP 최대치의 3.0667%+310.29758",
+                                    "HP 최대치의 3.3333%+340.26077",
+                                    "HP 최대치의 3.5333%+372.36423",
+                                    "HP 최대치의 3.7333%+406.60788",
+                                    "HP 최대치의 4.0%+442.9918",
+                                    "HP 최대치의 4.2667%+481.51593",
+                                    "HP 최대치의 4.5333%+522.1803",
+                                    "HP 최대치의 4.8%+564.98486",
+                                    "HP 최대치의 5.0667%+609.9297",
+                                    "HP 최대치의 5.3333%+657.0147",
+                                    "HP 최대치의 5.6667%+706.24",
+                                    "HP 최대치의 6.0%+757.6055",
+                                    "HP 최대치의 6.3333%+811.11127"
+                                ]
+                            },
+                            {
+                                "Desc": "치유 지속 시간",
+                                "ParamLevelList": [
+                                    "12초",
+                                    "12초",
+                                    "12초",
+                                    "12초",
+                                    "12초",
+                                    "12초",
+                                    "12초",
+                                    "12초",
+                                    "12초",
+                                    "12초",
+                                    "12초",
+                                    "12초",
+                                    "12초",
+                                    "12초",
+                                    "12초"
+                                ]
+                            },
+                            {
+                                "Desc": "솟구치는 칼날 피해",
+                                "ParamLevelList": [
+                                    "28.8%",
+                                    "30.96%",
+                                    "33.12%",
+                                    "36.0%",
+                                    "38.16%",
+                                    "40.32%",
+                                    "43.2%",
+                                    "46.08%",
+                                    "48.96%",
+                                    "51.84%",
+                                    "54.72%",
+                                    "57.6%",
+                                    "61.2%",
+                                    "64.8%",
+                                    "68.4%"
+                                ]
+                            },
+                            {
+                                "Desc": "솟구치는 칼날 간격",
+                                "ParamLevelList": [
+                                    "10초",
+                                    "10초",
+                                    "10초",
+                                    "10초",
+                                    "10초",
+                                    "10초",
+                                    "10초",
+                                    "10초",
+                                    "10초",
+                                    "10초",
+                                    "10초",
+                                    "10초",
+                                    "10초",
+                                    "10초",
+                                    "10초"
+                                ]
+                            },
+                            {
+                                "Desc": "재사용 대기시간",
+                                "ParamLevelList": [
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "원형 유탄 사격술",
+                        "Desc": "슈브르즈가 화승총으로 적에게 폭파 유탄을 발사해 <color style='color:#FF9999;'>불 원소 범위 피해</color>를 준다. 폭파 유탄은 명중 후, 수많은 이중 파열탄으로 분열한다.<br>이중 파열탄은 짧은 시간이 지난 후 폭발하며 주변의 적에게 <color style='color:#FF9999;'>불 원소 피해</color>를 준다.<br><br><i>「이론상 사각형 구역을 폭격하면 집결한 적을 효과적으로 타격할 수 있어. 하지만 안타깝게도 폭발의 충격파는 흔히 보이는 케이크처럼 원형이야. 그래서 흩어진 유탄도 케이크 테두리를 둘러싼 과일처럼 원형으로 배치될 수밖에 없지」</i>",
+                        "Icon": "Skill_E_Chevreuse_01",
+                        "ParamDesc": [
+                            {
+                                "Desc": "폭파 유탄 피해",
+                                "ParamLevelList": [
+                                    "368.16%",
+                                    "395.772%",
+                                    "423.384%",
+                                    "460.2%",
+                                    "487.812%",
+                                    "515.424%",
+                                    "552.24%",
+                                    "589.056%",
+                                    "625.872%",
+                                    "662.688%",
+                                    "699.504%",
+                                    "736.32%",
+                                    "782.34%",
+                                    "828.36%",
+                                    "874.38%"
+                                ]
+                            },
+                            {
+                                "Desc": "이중 파열탄 피해",
+                                "ParamLevelList": [
+                                    "49.088%",
+                                    "52.7696%",
+                                    "56.4512%",
+                                    "61.36%",
+                                    "65.0416%",
+                                    "68.7232%",
+                                    "73.632%",
+                                    "78.5408%",
+                                    "83.4496%",
+                                    "88.3584%",
+                                    "93.2672%",
+                                    "98.176%",
+                                    "104.312%",
+                                    "110.448%",
+                                    "116.584%"
+                                ]
+                            },
+                            {
+                                "Desc": "재사용 대기시간",
+                                "ParamLevelList": [
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초",
+                                    "15초"
+                                ]
+                            },
+                            {
+                                "Desc": "원소 에너지",
+                                "ParamLevelList": [
+                                    "60",
+                                    "60",
+                                    "60",
+                                    "60",
+                                    "60",
+                                    "60",
+                                    "60",
+                                    "60",
+                                    "60",
+                                    "60",
+                                    "60",
+                                    "60",
+                                    "60",
+                                    "60",
+                                    "60"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "PassiveSkills": [
+                    {
+                        "Name": "선봉 협동 전술",
+                        "Desc": "파티 내 모든 캐릭터의 원소 타입이 <color style='color:#FF9999;'>불 원소</color>와 <color style='color:#FFACFF;'>번개 원소</color>이며 불 원소 캐릭터와 번개 원소 캐릭터가 각각 최소 1명씩 있을 경우:<br>슈브르즈가 주변에 있는 파티 내 캐릭터에게 「협동 전술」을 부여한다: 캐릭터가 과부하 반응 발동 후, 해당 반응의 영향을 받은 적의 <color style='color:#FF9999;'>불 원소</color>와 <color style='color:#FFACFF;'>번개 원소</color> 내성이 40% 감소한다. 지속 시간: 6초.<br>파티 내 캐릭터의 원소 타입이 돌파 특성의 조건을 만족하지 못할 시, 협동 전술 효과가 사라진다",
+                        "Icon": "UI_Talent_S_Chevreuse_05"
+                    },
+                    {
+                        "Name": "종대 통솔자",
+                        "Desc": "슈브르즈가 <color style='color:#FFD780;'>신속 차단 사격술</color>의 「초강력 탄두」를 발사한 후, 슈브르즈의 HP 최대치에 기반해 HP 최대치의 1000pt당 주변에 있는 파티 내 모든 <color style='color:#FF9999;'>불 원소</color>와 <color style='color:#FFACFF;'>번개 원소</color> 캐릭터의 공격력이 1% 증가한다. 해당 방식으로 공격력이 최대 40% 증가한다. 지속 시간: 30초",
+                        "Icon": "UI_Talent_S_Chevreuse_06"
+                    },
+                    {
+                        "Name": "신속 행군 전략",
+                        "Desc": "파티 내 자신의 캐릭터의 대시 시 소모하는 스태미나가 20% 감소한다.<br>같은 효과의 고유 특성과 중첩되지 않는다",
+                        "Icon": "UI_Talent_Explosion_Sprint"
+                    }
+                ],
+                "Constellations": [
+                    {
+                        "Level": 1,
+                        "Name": "전선을 굳히는 패기",
+                        "Desc": "「협동 전술」 상태의 현재 필드 위 캐릭터(슈브르즈 자신 제외)가 과부하 반응 발동 시 원소 에너지를 6pt 회복한다. 해당 효과는 10초마다 최대 1회 발동된다.<br>돌파 특성 「선봉 협동 전술」을 해금해야 한다",
+                        "Icon": "UI_Talent_S_Chevreuse_01"
+                    },
+                    {
+                        "Level": 2,
+                        "Name": "유폭을 노리는 저격",
+                        "Desc": "홀드로 <color style='color:#FFD780;'>신속 차단 사격술</color>을 발동해 명중 시, 명중한 위치 주변에 연쇄 유폭을 2회 일으킨다. 유폭 1회당 슈브르즈 공격력의 120%에 해당하는 <color style='color:#FF9999;'>불 원소 피해</color>를 준다. 해당 효과는 10초마다 최대 1회 발동되며 해당 방식으로 주는 피해는 원소전투 스킬 피해로 간주한다",
+                        "Icon": "UI_Talent_S_Chevreuse_02"
+                    },
+                    {
+                        "Level": 3,
+                        "Name": "숙련된 재장전 솜씨",
+                        "Desc": "<color style='color:#FFD780;'>신속 차단 사격술</color>의 스킬 레벨+3<br>최대 Lv.15까지 상승",
+                        "Icon": "UI_Talent_U_Chevreuse_01"
+                    },
+                    {
+                        "Level": 4,
+                        "Name": "다중 속사의 비결",
+                        "Desc": "<color style='color:#FFD780;'>원형 유탄 사격술</color> 발동 후, 슈브르즈가 홀드로 발동하는 <color style='color:#FFD780;'>신속 차단 사격술</color>이 재사용 대기시간에 진입하지 않는다. 해당 효과는 홀드로 신속 차단 사격술 2회 발동 후 사라진다. 최대 지속 시간: 6초",
+                        "Icon": "UI_Talent_S_Chevreuse_03"
+                    },
+                    {
+                        "Level": 5,
+                        "Name": "화력을 증강한 파괴",
+                        "Desc": "<color style='color:#FFD780;'>원형 유탄 사격술</color>의 스킬 레벨+3<br>최대 Lv.15까지 상승",
+                        "Icon": "UI_Talent_U_Chevreuse_02"
+                    },
+                    {
+                        "Level": 6,
+                        "Name": "죄악을 끝내는 추격",
+                        "Desc": "<color style='color:#FFD780;'>신속 차단 사격술</color>의 치유 효과가 12초 동안 지속된 후, 주변에 있는 파티 내 모든 캐릭터의 HP를 슈브르즈 HP 최대치의 10%만큼 1회 회복시킨다.<br>파티 내 캐릭터는 「신속 차단 사격술」의 치유를 받은 후 <color style='color:#FF9999;'>불 원소 피해 보너스</color>와 <color style='color:#FFACFF;'>번개 원소 피해 보너스</color>를 20% 획득한다. 지속 시간: 8초, 최대 중첩수: 3스택. 스택마다 지속 시간은 독립적으로 계산된다",
+                        "Icon": "UI_Talent_S_Chevreuse_04"
+                    }
+                ]
+            }
+        }
+    }
+}
+
+var _AvatarAttackConfig_ = {
+    "Chevreuse": {
+        "AttackList": [
+            {
+                "Skill": "Press E",
+                "Shape": {
+                    "Type": "Cuboid",
+                    "Size": [
+                        6.0,
+                        2.0,
+                        1.5
+                    ]
+                },
+                "AtkTag": "Elem Skill",
+                "AttTag": "",
+                "AttGrp": "Independent",
+                "Element": "Fire",
+                "GU": 1.0,
+                "Poise": 50.0,
+                "ForceType": 2,
+                "Force": [
+                    200.0,
+                    0.0
+                ],
+                "Blunt": false,
+                "Arkhe": 0.0,
+                "HTime": 0.0,
+                "HScale": 0.0,
+                "BeHalt": false,
+                "CanInfuse": false,
+                "StrikeType": "Default",
+                "AttackType": "Range"
+            },
+            {
+                "Skill": "Hold E",
+                "Shape": {
+                    "Type": "Cuboid",
+                    "Size": [
+                        7.0,
+                        3.0,
+                        2.5
+                    ]
+                },
+                "AtkTag": "Elem Skill",
+                "AttTag": "",
+                "AttGrp": "Independent",
+                "Element": "Fire",
+                "GU": 1.0,
+                "Poise": 75.0,
+                "ForceType": 2,
+                "Force": [
+                    200.0,
+                    0.0
+                ],
+                "Blunt": false,
+                "Arkhe": 0.0,
+                "HTime": 0.0,
+                "HScale": 0.0,
+                "BeHalt": false,
+                "CanInfuse": false,
+                "StrikeType": "Default",
+                "AttackType": "Range"
+            },
+            {
+                "Skill": "Overcharged Ball",
+                "Shape": {
+                    "Type": "Sphere",
+                    "Size": [
+                        5.0
+                    ]
+                },
+                "AtkTag": "Elem Skill",
+                "AttTag": "",
+                "AttGrp": "Independent",
+                "Element": "Fire",
+                "GU": 1.0,
+                "Poise": 125.0,
+                "ForceType": 3,
+                "Force": [
+                    480.0,
+                    600.0
+                ],
+                "Blunt": true,
+                "Arkhe": 0.0,
+                "HTime": 0.0,
+                "HScale": 0.0,
+                "BeHalt": false,
+                "CanInfuse": false,
+                "StrikeType": "Blunt",
+                "AttackType": "Range"
+            },
+            {
+                "Skill": "C2 Chain Explosion",
+                "Shape": {
+                    "Type": "Sphere",
+                    "Size": [
+                        3.0
+                    ]
+                },
+                "AtkTag": "Elem Skill Extra",
+                "AttTag": "C2 Group",
+                "AttGrp": "2.5s / 3 hits",
+                "Element": "Fire",
+                "GU": 1.0,
+                "Poise": 25.0,
+                "ForceType": 3,
+                "Force": [
+                    480.0,
+                    600.0
+                ],
+                "Blunt": true,
+                "Arkhe": 0.0,
+                "HTime": 0.0,
+                "HScale": 0.0,
+                "BeHalt": false,
+                "CanInfuse": false,
+                "StrikeType": "Blunt",
+                "AttackType": "Default"
+            },
+            {
+                "Skill": "Surging Blade",
+                "Shape": {
+                    "Type": "Sphere",
+                    "Size": [
+                        2.0
+                    ]
+                },
+                "AtkTag": "Elem Skill",
+                "AttTag": "",
+                "AttGrp": "Independent",
+                "Element": "Fire",
+                "GU": 0.0,
+                "Poise": 20.0,
+                "ForceType": 1,
+                "Force": [
+                    200.0,
+                    0.0
+                ],
+                "Blunt": false,
+                "Arkhe": -1.0,
+                "HTime": 0.0,
+                "HScale": 0.0,
+                "BeHalt": false,
+                "CanInfuse": false,
+                "StrikeType": "Default",
+                "AttackType": "Default"
+            },
+            {
+                "Skill": "Explosive Grenade",
+                "Shape": {
+                    "Type": "Cylinder",
+                    "Size": [
+                        6.0,
+                        4.0
+                    ]
+                },
+                "AtkTag": "Elem Burst",
+                "AttTag": "",
+                "AttGrp": "Independent",
+                "Element": "Fire",
+                "GU": 2.0,
+                "Poise": 100.0,
+                "ForceType": 2,
+                "Force": [
+                    200.0,
+                    0.0
+                ],
+                "Blunt": true,
+                "Arkhe": 0.0,
+                "HTime": 0.0,
+                "HScale": 0.0,
+                "BeHalt": false,
+                "CanInfuse": false,
+                "StrikeType": "Blunt",
+                "AttackType": "Default"
+            },
+            {
+                "Skill": "Secondary Explosive Shell x8",
+                "Shape": {
+                    "Type": "Cylinder",
+                    "Size": [
+                        6.0,
+                        4.0,
+                        60.0
+                    ]
+                },
+                "AtkTag": "Elem Burst",
+                "AttTag": "Second Bombs",
+                "AttGrp": "Only 1st and 4th hits apply",
+                "Element": "Fire",
+                "GU": 1.0,
+                "Poise": 25.0,
+                "ForceType": 3,
+                "Force": [
+                    480.0,
+                    600.0
+                ],
+                "Blunt": true,
+                "Arkhe": 0.0,
+                "HTime": 0.0,
+                "HScale": 0.0,
+                "BeHalt": false,
+                "CanInfuse": false,
+                "StrikeType": "Blunt",
+                "AttackType": "Default"
+            },
+            {
+                "Skill": "Normal ATK 1",
+                "Shape": {
+                    "Type": "Cuboid",
+                    "Size": [
+                        2.0,
+                        1.6,
+                        2.4
+                    ]
+                },
+                "AtkTag": "Normal ATK 1",
+                "AttTag": "Normal ATK",
+                "AttGrp": "2.5s / 3 hits",
+                "Element": "Phys",
+                "GU": 1.0,
+                "Poise": 49.423,
+                "ForceType": 2,
+                "Force": [
+                    200.0,
+                    0.0
+                ],
+                "Blunt": false,
+                "Arkhe": 0.0,
+                "HTime": 0.06,
+                "HScale": 0.0,
+                "BeHalt": true,
+                "CanInfuse": true,
+                "StrikeType": "Slash",
+                "AttackType": "Melee"
+            },
+            {
+                "Skill": "Normal ATK 2",
+                "Shape": {
+                    "Type": "Cylinder",
+                    "Size": [
+                        1.6,
+                        1.5
+                    ]
+                },
+                "AtkTag": "Normal ATK 2",
+                "AttTag": "Normal ATK",
+                "AttGrp": "2.5s / 3 hits",
+                "Element": "Phys",
+                "GU": 1.0,
+                "Poise": 45.87,
+                "ForceType": 2,
+                "Force": [
+                    200.0,
+                    0.0
+                ],
+                "Blunt": false,
+                "Arkhe": 0.0,
+                "HTime": 0.06,
+                "HScale": 0.0,
+                "BeHalt": true,
+                "CanInfuse": true,
+                "StrikeType": "Slash",
+                "AttackType": "Melee"
+            },
+            {
+                "Skill": "Normal ATK 3-1",
+                "Shape": {
+                    "Type": "Cuboid",
+                    "Size": [
+                        2.0,
+                        1.6,
+                        2.4
+                    ]
+                },
+                "AtkTag": "Normal ATK 3",
+                "AttTag": "Normal ATK",
+                "AttGrp": "2.5s / 3 hits",
+                "Element": "Phys",
+                "GU": 1.0,
+                "Poise": 25.716,
+                "ForceType": 1,
+                "Force": [
+                    200.0,
+                    0.0
+                ],
+                "Blunt": false,
+                "Arkhe": 0.0,
+                "HTime": 0.0,
+                "HScale": 0.0,
+                "BeHalt": false,
+                "CanInfuse": true,
+                "StrikeType": "Slash",
+                "AttackType": "Melee"
+            },
+            {
+                "Skill": "Normal ATK 3-2",
+                "Shape": {
+                    "Type": "Cylinder",
+                    "Size": [
+                        1.6,
+                        1.5
+                    ]
+                },
+                "AtkTag": "Normal ATK 3",
+                "AttTag": "Normal ATK",
+                "AttGrp": "2.5s / 3 hits",
+                "Element": "Phys",
+                "GU": 1.0,
+                "Poise": 30.189,
+                "ForceType": 2,
+                "Force": [
+                    200.0,
+                    0.0
+                ],
+                "Blunt": false,
+                "Arkhe": 0.0,
+                "HTime": 0.06,
+                "HScale": 0.0,
+                "BeHalt": true,
+                "CanInfuse": true,
+                "StrikeType": "Slash",
+                "AttackType": "Melee"
+            },
+            {
+                "Skill": "Normal ATK 4",
+                "Shape": {
+                    "Type": "Cuboid",
+                    "Size": [
+                        4.0,
+                        1.5,
+                        1.6
+                    ]
+                },
+                "AtkTag": "Normal ATK 4",
+                "AttTag": "Normal ATK",
+                "AttGrp": "2.5s / 3 hits",
+                "Element": "Phys",
+                "GU": 1.0,
+                "Poise": 71.871,
+                "ForceType": 3,
+                "Force": [
+                    655.0,
+                    800.0
+                ],
+                "Blunt": false,
+                "Arkhe": 0.0,
+                "HTime": 0.1,
+                "HScale": 0.0,
+                "BeHalt": true,
+                "CanInfuse": true,
+                "StrikeType": "Spear",
+                "AttackType": "Melee"
+            },
+            {
+                "Skill": "Charged ATK",
+                "Shape": {
+                    "Type": "Sphere",
+                    "Size": [
+                        0.8
+                    ]
+                },
+                "AtkTag": "Charged ATK",
+                "AttTag": "Charged ATK",
+                "AttGrp": "Independent",
+                "Element": "Phys",
+                "GU": 1.0,
+                "Poise": 120.0,
+                "ForceType": 3,
+                "Force": [
+                    480.0,
+                    600.0
+                ],
+                "Blunt": false,
+                "Arkhe": 0.0,
+                "HTime": 0.0,
+                "HScale": 0.0,
+                "BeHalt": true,
+                "CanInfuse": true,
+                "StrikeType": "Spear",
+                "AttackType": "Melee"
+            },
+            {
+                "Skill": "Plunging",
+                "Shape": {
+                    "Type": "Sphere",
+                    "Size": [
+                        1.0
+                    ]
+                },
+                "AtkTag": "Plunge ATK",
+                "AttTag": "",
+                "AttGrp": "Independent",
+                "Element": "Phys",
+                "GU": 0.0,
+                "Poise": 25.0,
+                "ForceType": 1,
+                "Force": [
+                    200.0,
+                    0.0
+                ],
+                "Blunt": false,
+                "Arkhe": 0.0,
+                "HTime": 0.0,
+                "HScale": 0.0,
+                "BeHalt": false,
+                "CanInfuse": true,
+                "StrikeType": "Slash",
+                "AttackType": "Melee"
+            },
+            {
+                "Skill": "Low Plunge",
+                "Shape": {
+                    "Type": "Cylinder",
+                    "Size": [
+                        3.0,
+                        2.0
+                    ]
+                },
+                "AtkTag": "Plunge ATK",
+                "AttTag": "",
+                "AttGrp": "Independent",
+                "Element": "Phys",
+                "GU": 1.0,
+                "Poise": 100.0,
+                "ForceType": 2,
+                "Force": [
+                    800.0,
+                    0.0
+                ],
+                "Blunt": true,
+                "Arkhe": 0.0,
+                "HTime": 0.0,
+                "HScale": 0.0,
+                "BeHalt": false,
+                "CanInfuse": true,
+                "StrikeType": "Blunt",
+                "AttackType": "Melee"
+            },
+            {
+                "Skill": "High Plunge",
+                "Shape": {
+                    "Type": "Cylinder",
+                    "Size": [
+                        5.0,
+                        2.0
+                    ]
+                },
+                "AtkTag": "Plunge ATK",
+                "AttTag": "",
+                "AttGrp": "Independent",
+                "Element": "Phys",
+                "GU": 1.0,
+                "Poise": 150.0,
+                "ForceType": 3,
+                "Force": [
+                    0.0,
+                    800.0
+                ],
+                "Blunt": true,
+                "Arkhe": 0.0,
+                "HTime": 0.0,
+                "HScale": 0.0,
+                "BeHalt": false,
+                "CanInfuse": true,
+                "StrikeType": "Blunt",
+                "AttackType": "Melee"
+            },
+            {
+                "Skill": "Charged ATK (Hit Shield)",
+                "Shape": {
+                    "Type": "Single",
+                    "Size": []
+                },
+                "AtkTag": "Charged ATK",
+                "AttTag": "Charged ATK",
+                "AttGrp": "Independent",
+                "Element": "Phys",
+                "GU": 1.0,
+                "Poise": 120.0,
+                "ForceType": 3,
+                "Force": [
+                    655.0,
+                    800.0
+                ],
+                "Blunt": false,
+                "Arkhe": 0.0,
+                "HTime": 0.0,
+                "HScale": 0.0,
+                "BeHalt": true,
+                "CanInfuse": true,
+                "StrikeType": "Spear",
+                "AttackType": "Melee"
+            }
+        ]
+    }
+}

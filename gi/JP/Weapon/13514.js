@@ -1,0 +1,44 @@
+// Auto Generated
+
+var _WeaponAffixPConfig_ = {
+    "113514": {
+        "Ver": {
+            "1": {
+                "Affix": [
+                    "攻撃力+ <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> 。この武器を装備したキャラクターが待機中の時、攻撃力がさらに+ <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> 。治療を行う時、装備者と治療を受けるキャラクターに「シャンソン・ドゥ・ベ」効果を付与し、攻撃力+ <color style='color:#99FFFFFF'>32%</color> / <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>48%</color> / <color style='color:#99FFFFFF'>56%</color> / <color style='color:#99FFFFFF'>64%</color> 、継続時間3秒。装備したキャラクターが待機している場合にも効果を発動できる。JP0B"
+                ]
+            },
+            "2": {
+                "Affix": [
+                    "攻撃力+ <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> 。この武器を装備したキャラクターが待機中の時、攻撃力がさらに+ <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> 。治療を行う時、装備者と治療を受けるキャラクターに「シャンソン・ドゥ・ベ」効果を付与し、攻撃力+ <color style='color:#99FFFFFF'>32%</color> / <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>48%</color> / <color style='color:#99FFFFFF'>56%</color> / <color style='color:#99FFFFFF'>64%</color> 、継続時間3秒。装備したキャラクターが待機している場合にも効果を発動できる。JP0B"
+                ]
+            },
+            "3": {
+                "Affix": [
+                    "攻撃力+ <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> 。この武器を装備したキャラクターが待機中の時、攻撃力がさらに+ <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> 。治療を行った後、装備者と治療を受けたキャラクターに「シャンソン・ドゥ・ベ」効果を付与し、攻撃力+ <color style='color:#99FFFFFF'>32%</color> / <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>48%</color> / <color style='color:#99FFFFFF'>56%</color> / <color style='color:#99FFFFFF'>64%</color> 、継続時間3秒。装備したキャラクターが待機している場合にも効果を発動できる。JP0B"
+                ]
+            },
+            "4": {
+                "Affix": [
+                    "攻撃力+ <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> 。この武器を装備したキャラクターが待機中の時、攻撃力がさらに+ <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> 。治療を行った後、装備者と治療を受けたキャラクターに「ベリー色のシャンソン」効果を付与し、攻撃力+ <color style='color:#99FFFFFF'>32%</color> / <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>48%</color> / <color style='color:#99FFFFFF'>56%</color> / <color style='color:#99FFFFFF'>64%</color> 、継続時間3秒。装備したキャラクターが待機している場合にも効果を発動できる。"
+                ]
+            },
+            "5": {
+                "Affix": [
+                    "攻撃力+ <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> 。この武器を装備したキャラクターが待機中の時、攻撃力がさらに+ <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> 。治療を行った後、装備者と治療を受けたキャラクターに「甘美なメロディー」効果を付与し、攻撃力+ <color style='color:#99FFFFFF'>32%</color> / <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>48%</color> / <color style='color:#99FFFFFF'>56%</color> / <color style='color:#99FFFFFF'>64%</color> 、継続時間3秒。装備したキャラクターが待機している場合にも効果を発動できる。"
+                ]
+            },
+            "L": {
+                "Affix": [
+                    "攻撃力+ <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> 。この武器を装備したキャラクターが待機中の時、攻撃力がさらに+ <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> 。治療を行った後、装備者と治療を受けたキャラクターに「甘美なメロディー」効果を付与し、攻撃力+ <color style='color:#99FFFFFF'>32%</color> / <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>48%</color> / <color style='color:#99FFFFFF'>56%</color> / <color style='color:#99FFFFFF'>64%</color> 、継続時間3秒。装備したキャラクターが待機している場合にも効果を発動できる。"
+                ]
+            }
+        }
+    }
+}
+
+var weapon_story_cache_ = {
+    "193514": [
+        "<br>Despite appearances, the remembrances of the Legion Athanatoi's lengthy conquest of the High Sea's tribes and kingdoms are not the sole domain of war unending.<br>On a night where golden authority swirled like a raging tide, yet before the melody the God King yearned for had been fully written,<br>Beneficent Euergetia, most exalted Harmost, lent a meditative ear to the people of bygone times, giving deep consideration to their earnest pleas.<br><br>These homesick folk, though awestruck by the boundless luxury of the golden capitol, though on bended knee before the God King's unparalleled mercy and majesty,<br>Would still gaze upon the military rations on their plates as they raised their cups to sing of glories won, and miss the lovely cuisines they once enjoyed.<br>Golems of stone knew neither hunger nor thirst, but the people of bygone times were but spirits housed in frail flesh and blood. They would surely grow dejected at poor fare.<br>And even the most valiant general could not escape the myriad miscellaneous matters that came with supporting the troops, such that glorious victory might continue to be won.<br><br>The God King's directives were the supreme rule, not to be doubted or disobeyed. Yet, neither should the weakness of those who decayed all too quickly be dismissed.<br>And since the harmonious, glorious symphony was meant to embrace all living beings on the High Sea, fulfilling their tiny wish was no offense.<br>Her golden-haired colleague, born of barbarian stock, would again grumble about her neglect behind her back, but as always, would never stop her.<br>An exalted Harmost's will could shake the very bones of the earth themselves. Would it then be so hard to create tastes and flavors?<br><br>And so, Euergetia began her attunement, for those lowly petitioners who had lost their homes, for the empire's everlasting glory and victory.<br>Hearing and taste could play in harmony, the low rumble of war drums and the clang of clashing swords could sing as one... All were notes she could use.<br>A unique melody and a simple meal could remind a slave of delicious dishes they might only taste in memories, boosting their morale.<br>Of course, it was mere illusory comfort, but were illusions and dust not the origin and end of all worldly things?<br><br>Euergetia, who had been born in the golden court, who had been exalted in the porphyry temple where stone oxen and lions stood—<br>Before emptying herself of desires, she too had once been enchanted by gentle music and honey-sweet confections.<br>Had she continued down this path, perhaps the day may have come when even the uplifted ones could enjoy dishes divine,<br>And this may have anchored all people in commonality, no matter the conflicts and divisions they might face...<br><br>But that golden empire could never play the final notes of eternity,<br>As a veiled, lengthy change overturned the fortress of white stone in a single night.<br>Both the wicked and the good plunged into the ocean depths equally... and yet, that most simple of wishes,<br>The common desire to enjoy delicious food, so divorced from grandeur,<br>Would transcend the symphony of harmony and glory, and endure to present-day Fontaine..."
+    ]
+}

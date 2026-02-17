@@ -1,0 +1,48 @@
+// Auto Generated
+
+var _WeaponAffixPConfig_ = {
+    "115514": {
+        "Ver": {
+            "1": {
+                "Affix": [
+                    "キャラクターが拡散反応を起こした時、攻撃力+24%、継続時間12秒。チームに自身以外の元素タイプのキャラクターが1名/2名以上いる時、装備者の重撃ダメージがそれぞれ+20%/48%、元素爆発ダメージがそれぞれ+10%/24%。JP0B",
+                    "キャラクターが拡散反応を起こした時、攻撃力+30%、継続時間12秒。チームに自身以外の元素タイプのキャラクターが1名/2名以上いる時、装備者の重撃ダメージがそれぞれ+25%/60%、元素爆発ダメージがそれぞれ+12.5%/30%。JP0B",
+                    "キャラクターが拡散反応を起こした時、攻撃力+36%、継続時間12秒。チームに自身以外の元素タイプのキャラクターが1名/2名以上いる時、装備者の重撃ダメージがそれぞれ+30%/72%、元素爆発ダメージがそれぞれ+15%/36%。JP0B",
+                    "キャラクターが拡散反応を起こした時、攻撃力+42%、継続時間12秒。チームに自身以外の元素タイプのキャラクターが1名/2名以上いる時、装備者の重撃ダメージがそれぞれ+35%/84%、元素爆発ダメージがそれぞれ+17.5%/42%。JP0B",
+                    "キャラクターが拡散反応を起こした時、攻撃力+48%、継続時間12秒。チームに自身以外の元素タイプのキャラクターが1名/2名以上いる時、装備者の重撃ダメージがそれぞれ+40%/96%、元素爆発ダメージがそれぞれ+20%/48%。JP0B"
+                ]
+            },
+            "2": {
+                "Affix": [
+                    "拡散反応を起こした後の12秒間、攻撃力+ <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>36%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>48%</color> 。また、チームに装備者と元素タイプが異なるキャラクターが1以上/2名以上いる場合、装備者の重撃ダメージがそれぞれ+ <color style='color:#99FFFFFF'>20%/48%</color> / <color style='color:#99FFFFFF'>25%/60%</color> / <color style='color:#99FFFFFF'>30%/72%</color> / <color style='color:#99FFFFFF'>35%/84%</color> / <color style='color:#99FFFFFF'>40%/96%</color> 、元素爆発ダメージがそれぞれ+ <color style='color:#99FFFFFF'>10%/24%</color> / <color style='color:#99FFFFFF'>12.5%/30%</color> / <color style='color:#99FFFFFF'>15%/36%</color> / <color style='color:#99FFFFFF'>17.5%/42%</color> / <color style='color:#99FFFFFF'>20%/48%</color> 。JP0B"
+                ]
+            },
+            "3": {
+                "Affix": [
+                    "拡散反応を起こした後の12秒間、攻撃力+ <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>36%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>48%</color> 。また、チームに装備者と元素タイプが異なるキャラクターが1以上/2名以上いる場合、装備者の重撃ダメージがそれぞれ+ <color style='color:#99FFFFFF'>20%/48%</color> / <color style='color:#99FFFFFF'>25%/60%</color> / <color style='color:#99FFFFFF'>30%/72%</color> / <color style='color:#99FFFFFF'>35%/84%</color> / <color style='color:#99FFFFFF'>40%/96%</color> 、元素爆発ダメージがそれぞれ+ <color style='color:#99FFFFFF'>10%/24%</color> / <color style='color:#99FFFFFF'>12.5%/30%</color> / <color style='color:#99FFFFFF'>15%/36%</color> / <color style='color:#99FFFFFF'>17.5%/42%</color> / <color style='color:#99FFFFFF'>20%/48%</color> 。JP0B"
+                ]
+            },
+            "4": {
+                "Affix": [
+                    "拡散反応を起こした後の12秒間、攻撃力+ <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>36%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>48%</color> 。また、チームに装備者と元素タイプが異なるキャラクターが1/2名以上いる場合、装備者の重撃ダメージがそれぞれ+ <color style='color:#99FFFFFF'>20%/48%</color> / <color style='color:#99FFFFFF'>25%/60%</color> / <color style='color:#99FFFFFF'>30%/72%</color> / <color style='color:#99FFFFFF'>35%/84%</color> / <color style='color:#99FFFFFF'>40%/96%</color> 、元素爆発ダメージがそれぞれ+ <color style='color:#99FFFFFF'>10%/24%</color> / <color style='color:#99FFFFFF'>12.5%/30%</color> / <color style='color:#99FFFFFF'>15%/36%</color> / <color style='color:#99FFFFFF'>17.5%/42%</color> / <color style='color:#99FFFFFF'>20%/48%</color> 。"
+                ]
+            },
+            "5": {
+                "Affix": [
+                    "拡散反応を起こした後の12秒間、攻撃力+ <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>36%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>48%</color> 。また、チームに装備者と元素タイプが異なるキャラクターが1/2名以上いる場合、装備者の重撃ダメージがそれぞれ+ <color style='color:#99FFFFFF'>20%/48%</color> / <color style='color:#99FFFFFF'>25%/60%</color> / <color style='color:#99FFFFFF'>30%/72%</color> / <color style='color:#99FFFFFF'>35%/84%</color> / <color style='color:#99FFFFFF'>40%/96%</color> 、元素爆発ダメージがそれぞれ+ <color style='color:#99FFFFFF'>10%/24%</color> / <color style='color:#99FFFFFF'>12.5%/30%</color> / <color style='color:#99FFFFFF'>15%/36%</color> / <color style='color:#99FFFFFF'>17.5%/42%</color> / <color style='color:#99FFFFFF'>20%/48%</color> 。"
+                ]
+            },
+            "L": {
+                "Affix": [
+                    "拡散反応を起こした後の12秒間、攻撃力+ <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>36%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>48%</color> 。また、チームに装備者と元素タイプが異なるキャラクターが1/2名以上いる場合、装備者の重撃ダメージがそれぞれ+ <color style='color:#99FFFFFF'>20%/48%</color> / <color style='color:#99FFFFFF'>25%/60%</color> / <color style='color:#99FFFFFF'>30%/72%</color> / <color style='color:#99FFFFFF'>35%/84%</color> / <color style='color:#99FFFFFF'>40%/96%</color> 、元素爆発ダメージがそれぞれ+ <color style='color:#99FFFFFF'>10%/24%</color> / <color style='color:#99FFFFFF'>12.5%/30%</color> / <color style='color:#99FFFFFF'>15%/36%</color> / <color style='color:#99FFFFFF'>17.5%/42%</color> / <color style='color:#99FFFFFF'>20%/48%</color> 。"
+                ]
+            }
+        }
+    }
+}
+
+var weapon_story_cache_ = {
+    "195514": [
+        "That was in the distant past, in a time now known as legend, when the transgressor who dared name himself \"Sacred Lord\" turned his back on the alliance for the only god he loved.<br>Then, the oaths between humans and Saurians had faded like dying bonfires, and the lone shadow of Cinder City had buried the deep Night under naught but fearful whispers,<br>Harmony waned and the warm sunlight grew distant, for only a chilling night wind remained of the Python King's great, crazed dreams.<br><br>In those days, on the high cliffs that had descended into turmoil due to the loss of their master, the Flower-Feather Clan elder, who only ostensibly obeyed the King, banished a young man from the tribe,<br>That he, who desired to protect the Saurians, might escape the usurper's capture. Thus did this hero, valiant as a bird of prey, embark on a pilgrimage from that night on,<br>His red eyes burning like a sun in the gloom as they reflected only the cold, aqua-colored moon ring that hung high up in the sky above.<br><br>Poets in later days would strum the eight-stringed nyatiti, extolling the legend of the red-eyed liberator with countless lovely songs,<br>Such poems born of fantasy are numerous as the bright stars, tales of adventure woven together over the ages on which all have a differing opinion—<br><br>\"Come and hear my words, hark as I sing of the hero, our red-eyed savior, and of the old friend who went with him\"<br>\"For the one who guided him on his journey was a noble scion who had once served the dragonlord, a red vulture whose eyes reflected the deep skies and the many stars\"<br>\"I shall tell of how that holy bird was moved by his noble ideals, and gave of its flesh and blood to make this keenest of bows\"<br>\"I shall sing of how it used its feathers to direct the blessed hero, leading him to meet our noble ancestor, Sakkuk.\"<br>Thus did the poets who did not believe that the young man's pilgrimage had been undertaken alone conceive of a guide who had never existed.<br><br>\"The legend of which I shall sing differs from that of the Children of Echoes, for why would the crimson-eyed hero follow birdsong aimlessly through the forest?\"<br>\"Surely he was never a mere mortal, but rather a thread of thought that came from the One Entombed With the Primal Fire, returning from the Night Realm to save the oppressed\"<br>\"This longbow is proof that he came back from that taboo land which none can reach, for how could a mere mortal raze the accursed Cinder City?\"<br>\"When Natlan faces crisis once more, he shall emerge from the Flame, to right this world's wrongs and guide us onward.\"<br>Thus did the lyricists who believed not that the young man was of mortal flesh opine, tying him back to that first human god.<br><br>And it is because there are so many versions of the legend that there is no one song that all acknowledge as that hero's definitive tale.<br>Countless years have passed like flowing moonlight, and yet the only consensus is that the red-eyed young man did once ascend to divinity.<br>To this day, the idea that \"humans can become gods\" has become accepted across the blazing plains, inscribed upon every Natlanese heart that aspires to heroism—<br>\"There is no need to place your faith in so-called noble names, no need to offer futile prayers unto any but yourself\"<br>\"Please erase my name, Sakkuk, such that all may know that every human can become the god that guides us\"<br><br>\"You won't take me with you into the Flame... You won't even let my name accompany yours into history...\"<br>\"...Everyone here sure likes making selfish decisions, huh? You and that fellow both.\"<br>\"Hmph... In that case, let me do something out of my own insatiable greed, ■■■■■\"<br>\"This feather you gave me — I shall cause it to be passed down in that homeland you could never return to, and so shall it be for a thousand years.\""
+    ]
+}
